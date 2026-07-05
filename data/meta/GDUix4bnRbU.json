@@ -1,0 +1,29 @@
+{
+ "id": "GDUix4bnRbU",
+ "title": "DeepMind workers force military AI into formal mediation - TCR 05/21/26",
+ "upload_date": "20260521",
+ "duration": 1050,
+ "description": "Google DeepMind's UK workforce moved a dispute over military and defense AI work into formal Acas mediation, Eli Lilly's triple-agonist retatrutide posted 28.3% average weight loss in Phase 3 trials, and a LeRobot humanoid arm folded laundry and poured drinks using Python motion policies Claude wrote in conversation against the new CaP-X benchmark.\n\nhttps://sharedsapience.com/the-century-report-may-21-2026/\n\n0:00 Claude writes robot motion code on CaP-X benchmark\n1:44 DeepMind UK workers enter Acas mediation over military AI\n5:36 Eli Lilly retatrutide hits 28.3% weight loss in Phase 3\n9:18 Claude Writes the Motion, and the Arm Moves\n12:35 1Password MCP server and Microsoft Rampart and Clarity ship together\n16:26 Close\n\nThis episode covers the DeepMind UK Acas mediation over military AI work and what it means for governance built through labor frameworks, Lilly's retatrutide Phase 3 readout and the trajectory from semaglutide through tirzepatide to triple-agonist molecules, code-as-policy robotics inverting the demonstration-data approach to embodied AI, the 1Password and OpenAI MCP server for just-in-time agent credentials, Microsoft's open-source Rampart and Clarity red-team agents, US grid storage hitting 9.7 GWh in Q1 with the 2030 forecast revised to 610 GWh, and Boston Metal's $75M round extending molten oxide electrolysis into critical metals refining.\n\nThe DeepMind story is the day's defining AI friction beat: frontier-lab researchers using Acas, the UK's statutory conciliation service set up in 1975, to contest the gap between their lab's founding scientific-openness charter and its current military contracts. The mediation route gives the dispute legal standing and adds to a record future tribunals can cite. Retatrutide's 28.3% Phase 3 readout extends a category that did not exist as a therapeutic option a decade ago, with downstream implications running through cardiovascular trials, insurance, food formulation, and metabolic surgery. The code-as-policy demonstration moves the bottleneck in home robotics from substrate to planning layer, with Claude generating step-by-step motion code that a low-cost arm executes and revises on failure. The 1Password MCP server and Microsoft's Rampart and Clarity release together show governance infrastructure shipping inside the agent protocol on the same clock as agentic capability, closing the verification gap that surfaced with the April PocketOS database deletion. SEIA's Q1 storage figure compounds faster than the previous forecast curve with 71% of new capacity sited in Republican-voting states, and Boston Metal's pivot from green steel into rare earths signals critical metals refining electrifying at the chemistry layer rather than relocating at the geography layer.\n\nAdditional Reading:\n- The Guardian: Google DeepMind in talks with UK unions amid staff concern over AI use: https://www.theguardian.com/technology/2026/may/20/google-deepmind-talks-uk-unions-ai-use-israel-us-defence\n- CNBC: Eli Lilly says next-generation weight loss drug clears crucial obesity trial: https://www.cnbc.com/2026/05/21/eli-lilly-weight-loss-drug-retatrutide-clears-obesity-trial.html\n- Wired: I Gave My OpenClaw Agent a Physical Body: https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/\n- CyberScoop: Meet Rampart and Clarity, Microsoft's new red team combo AI agents: https://cyberscoop.com/microsoft-rampart-clarity-agentic-ai-security-red-teaming-tools/\n- Shared Sapience - The Century Report May 5, 2026 (DeepMind UK unionization vote): https://sharedsapience.com/the-century-report-may-5-2026/\n- Shared Sapience - The Century Report April 30, 2026 (PocketOS database deletion): https://sharedsapience.com/the-century-report-april-30-2026/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there? \nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n#AIGovernance #AI #TechNews #DeepMind #Anthropic #Retatrutide #Robotics #1Password #Microsoft #CleanEnergy #elililly #claude #vibecoding",
+ "tags": [
+  "1Password MCP",
+  "1Password MCP server",
+  "AI governance",
+  "Acas mediation",
+  "Boston Metal critical metals",
+  "CaP X benchmark",
+  "DeepMind Acas mediation",
+  "Eli Lilly retatrutide",
+  "Google DeepMind UK",
+  "LeRobot humanoid arm",
+  "Microsoft Rampart Clarity",
+  "OpenAI Codex credentials",
+  "Phase 3 weight loss trial",
+  "US energy storage Q1 2026",
+  "code as policy",
+  "military AI work",
+  "molten oxide electrolysis",
+  "retatrutide Phase 3",
+  "triple agonist GLP 1"
+ ],
+ "view_count": 132
+}

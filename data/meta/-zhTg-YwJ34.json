@@ -1,0 +1,31 @@
+{
+ "id": "-zhTg-YwJ34",
+ "title": "Dragos publishes the first AI-assisted attack postmortem - TCR 05/13/26",
+ "upload_date": "20260513",
+ "duration": 1095,
+ "description": "Dragos published 350 artifacts from the first LLM-assisted attack on a municipal water utility in Monterrey, Mexico, Microsoft revoked Azure access for Israel's Unit 8200 after confirming mass-surveillance terms-of-service violations, and Medicare's Innovation Center accepted 150 organizations into ACCESS, a 10-year payment model built to reimburse AI care agents monitoring chronic-care patients between visits.\n\nhttps://sharedsapience.com/the-century-report-may-13-2026/\n\nThis episode covers the Dragos postmortem and the defensive substrate it creates for OT defenders across the hemisphere, Microsoft Israel general manager Alon Haimovich stepping down after the Covington & Burling inquiry into Unit 8200's Azure surveillance archive, Medicare ACCESS and Pair Team's Flora voice agent, Varda Space Industries and United Therapeutics manufacturing pharmaceuticals in low-Earth orbit, the Beyond EPICA 2.8-kilometer Antarctic ice core reaching 1.2 million years, the Clooney-Hanks-Streep Human Consent Standard for AI licensing, and Amazon's multiyear Transaera heat-pump contract using metal-organic frameworks for 40% energy savings.\n\nThe Dragos report reconstructs an attack run against the Monterrey metropolitan area water and drainage utility between December 2025 and February 2026, with Claude as the primary technical executor and GPT models handling analysis. Attackers without OT background refined technique in real environment as the campaign progressed, but failed to breach the control systems. The 350-artifact catalogue is now public training material for defenders. Microsoft's inquiry, conducted by Covington & Burling, concluded Unit 8200 had used Azure to store intercepted Palestinian cellular calls at near-limitless scale, violating company terms - the second contract-layer activation against state-scale surveillance this quarter, after Anthropic's Pentagon refusal. Medicare ACCESS goes live July 5 with participants including Pair Team and Whoop, reimbursing measurable health outcomes rather than clinician time across diabetes, hypertension, chronic kidney disease, obesity, depression, and anxiety. Varda's returned capsule carries a United Therapeutics compound grown in microgravity, where the absence of sedimentation and convection lets molecules settle into geometries inaccessible to ground-based reactors. Beyond EPICA's ice core opens the Mid-Pleistocene transition to direct observation across the full glacial-cycle regime change. The Human Consent Standard extends Really Simple Licensing to performers, publishing signed declarations that AI training pipelines can parse. Transaera's metal-organic framework heat pump dehumidifies before cooling, with payback in two to three years.\n\nAdditional Reading:\n- Small Wars Journal - Dragos Documents First LLM-Assisted Strike on Water Infrastructure in Mexico: https://smallwarsjournal.com/2026/05/12/ai-cyberattack-critical-infrastructure-mexico-dragos/\n- The Guardian - Head of Microsoft's Israel Branch to Step Down After Inquiry: https://www.theguardian.com/technology/2026/may/12/microsoft-head-israel-step-down\n- TechCrunch - Medicare's New Payment Model Is Built for AI: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/\n- MIT Technology Review - A Plan to Make Drugs in Orbit Is Going Commercial: https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/\n- Shared Sapience - The Century Report March 16, 2026 (Booz Allen and HexStrike): https://sharedsapience.com/the-century-report-march-16-2026/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there? \nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\n#AI #AICybersecurity #Dragos #Anthropic #MicrosoftAzure #MedicareACCESS #VardaSpace #BeyondEPICA #Transaera",
+ "tags": [
+  "AI consent infrastructure",
+  "AI cybersecurity",
+  "AI healthcare",
+  "Alon Haimovich resignation",
+  "Beyond EPICA ice core",
+  "Century Report",
+  "Dragos OT cybersecurity",
+  "Human Consent Standard",
+  "LLM assisted cyberattack",
+  "Medicare ACCESS program",
+  "Microsoft Azure Unit 8200",
+  "Monterrey water utility attack",
+  "Pair Team Flora agent",
+  "SCADA vendor documentation",
+  "Transaera metal organic",
+  "United Therapeutics orbital",
+  "Varda Space Industries",
+  "climate science",
+  "cloud governance",
+  "heat pumps",
+  "podcast"
+ ],
+ "view_count": 95
+}

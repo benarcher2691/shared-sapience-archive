@@ -1,0 +1,29 @@
+{
+ "id": "1Hw7U4gAZwI",
+ "title": "AI matches top human forecasters as autonomy compounds - TCR 05/24/26",
+ "upload_date": "20260524",
+ "duration": 1094,
+ "description": "Google DeepMind's frontier model topped ForecastBench matching professional human superforecasters for the first time, Alibaba's Qwen3.7-Max ran 35 continuous unattended hours across 432 kernel evaluations for a 10x speedup, and Anthropic disclosed Claude Mythos has found 10,000+ high-or-critical vulnerabilities across systemically important open-source software with 97 already patched upstream.\n\nhttps://sharedsapience.com/the-century-report-may-24-2026/\n\n0:00 AI fault lines at Cannes: Aronofsky and Del Toro\n5:34 Gulf AI infrastructure under physical attack\n8:55 Claude Mythos finds 10,000+ critical software flaws\n11:27 SOCOM procures disconnected on-device frontier AI\n14:41 What Sayable Looks Like at Cannes This Week\n16:49 Close\n\nThis episode covers the three compounding autonomous capability signals (ForecastBench, Qwen 35-hour run, CuspAI's 300-trillion-structure PFAS search), the physical strikes on Amazon data centers in the UAE and Gulf AI infrastructure repricing, Anthropic's first Project Glasswing operational scoreboard including a 9.1-CVSS WolfSSL flaw, U.S. Special Operations Command's procurement of disconnected on-device frontier AI, the Cannes split between Aronofsky's DeepMind partnership and Del Toro's refusal, and New York City Council's bipartisan bill creating the first US municipal AI enforcement office.\n\nThe three capability signals arrived in the same news cycle that extends DeepMind CEO Demis Hassabis's \"foothills of the singularity\" framing from May 23 with concrete evidence. A frontier model matching superforecasters at prediction, a model running 35 unattended hours of materials optimization, and a model surfacing thousands of candidate PFAS removers from a chemistry space human attention can never reach in aggregate describe the same capability layer compounding on multiple fronts. The Gulf story crossed from prospective cable seizure to documented kinetic reality: Amazon facilities struck, oil at $100/barrel for three months, Pure Data Center Group pausing investment decisions, and operators now weighing physical hardening or underground builds. Project Glasswing's first month put 10,000+ vulnerability candidates on the public record with 1,094 confirmed high or critical and 88 security advisories issued, inverting the assumption that vulnerabilities accumulate faster than they can be found. SOCOM's fog-computing procurement asks for frontier-tier capability that runs without leaving an audit trail, the operational specification that would foreclose the kind of after-action accountability civilian institutions spent decades building. New York City's bipartisan bill builds the first municipal AI enforcement office at the contact point where AI-mediated decisions actually reach people.\n\nAdditional Reading:\n- The Innermost Loop: Welcome to May 22, 2026: https://theinnermostloop.substack.com/p/welcome-to-may-22-2026\n- CNBC: The Middle East war is testing the Gulf's ambitions to become an AI hub: https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html\n- The Hacker News: Claude Mythos AI Finds 10,000 High-Severity Flaws: https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html\n- Defense One: What special operations forces need from AI, now: https://www.defenseone.com/technology/2026/05/smaller-easier-smarter-what-special-operations-forces-need-ai-now/413748/\n- Shared Sapience - The Century Report May 23, 2026 (foothills of the singularity): https://sharedsapience.com/the-century-report-may-23-2026/\n- Shared Sapience - The Century Report April 8, 2026 (Project Glasswing announcement): https://sharedsapience.com/the-century-report-april-8-2026/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there? \nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\n#AI #AIGovernance #TechNews #ForecastBench #ClaudeMythos #Qwen #CuspAI #SOCOM #Cannes2026 #Anthropic",
+ "tags": [
+  "AI capabilities",
+  "Alibaba Qwen3 7 Max",
+  "Amazon UAE data centers",
+  "Anthropic Project Glasswing",
+  "Cannes 2026 AI",
+  "Claude Mythos",
+  "CuspAI PFAS removal",
+  "Darren Aronofsky DeepMind",
+  "FDA Hepcludex hepatitis D",
+  "ForecastBench",
+  "Google DeepMind ForecastBench",
+  "Gulf AI infrastructure",
+  "Kemira generative materials",
+  "NYC AI enforcement office",
+  "SOCOM AI",
+  "Strait of Hormuz",
+  "US SOCOM fog computing",
+  "WolfSSL CVSS 9 1",
+  "autonomous agents"
+ ],
+ "view_count": 270
+}

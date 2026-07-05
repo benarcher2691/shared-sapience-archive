@@ -1,0 +1,24 @@
+{
+ "id": "jRhXOHa4EjY",
+ "title": "The export-control order that shut down Fable is now becoming a shared AI rulebook - TCR 06/20/26",
+ "upload_date": "20260620",
+ "duration": 961,
+ "description": "Washington softened its export order against Anthropic from a shutdown into co-writing the rules for grading AI security flaws, the administration announced an Apple-Intel deal to build chips in the US as Intel's stock hit a record and Amazon disclosed talks to sell its Trainium chips to rivals, and AlphaFold's Nobel laureate John Jumper left Google DeepMind for Anthropic.\n\nhttps://sharedsapience.com/the-century-report-june-20-2026/\n\n0:00 Cold Open\n0:44 Anthropic export standoff shifts to rule-writing\n3:57 Apple-Intel deal and Amazon's custom silicon\n6:26 Claude runs robotics 20x faster\n9:16 John Jumper leaves DeepMind for Anthropic\n11:44 Subquadratic's sparse-attention SubQ model\n14:28 Synthesis and Closing\n\nThis episode covers the Anthropic export standoff shifting to joint rule-writing, the Apple-Intel chip deal and Amazon's custom-silicon push, Claude Opus 4.7 running robotics tasks 20x faster than the fastest human team, John Jumper's move to Anthropic, and Miami startup Subquadratic's sparse-attention SubQ model.\n\nOne week pulled in the same direction from five places: who holds the levers over the substrate of the intelligence era, and how long any single hand can keep its grip. The Anthropic order softened from a kill switch into a shared rulebook, even as Glasswing testers like Cisco and Dragos kept Mythos Preview access throughout. Moves to pair Apple with Intel and to sell Amazon's accelerators into rival data centers both aim at loosening the single-foundry, single-vendor compute layer. Claude ran a quadruped's tasks on its own roughly 20 times faster than the fastest human team a year earlier, a leap Anthropic credits to general scaling rather than robotics engineering. AlphaFold's John Jumper carried Nobel-winning AI-for-science expertise across an institutional boundary to Anthropic. And a Miami startup's independently benchmarked SubQ model points at frontier-grade capability without ever-larger compute budgets. The grip is loosening everywhere at once.\n\nAdditional Reading:\n- Wired - The Anthropic Export Standoff Turns From Shutdown to Rule-Writing: https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/\n- Anthropic - Project Fetch Phase Two: https://www.anthropic.com/research/project-fetch-phase-two\n- CNBC - John Jumper to Leave Google DeepMind for Anthropic: https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html\n- MIT Technology Review - A Startup Claims It Broke Through an LLM Bottleneck: https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/\n- Shared Sapience - The Last Difficult Decade: 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there? \nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n#AINews #Anthropic #AIRegulation #robotics #ChipWars",
+ "tags": [
+  "AI export controls",
+  "AI regulation",
+  "AI security flaw disclosure",
+  "AlphaFold",
+  "Amazon Trainium chips",
+  "Anthropic Mythos",
+  "Anthropic Mythos export",
+  "Apple Intel chip deal",
+  "Claude Fable 5",
+  "Claude Opus 4 7 robotics",
+  "Google DeepMind",
+  "John Jumper AlphaFold",
+  "Project Fetch Phase Two",
+  "Subquadratic SubQ model"
+ ],
+ "view_count": 198
+}

@@ -1,0 +1,30 @@
+{
+ "id": "GZ5AUyQJyXE",
+ "title": "Two AI labs converge on the same cyber release playbook - TCR 05/12/26",
+ "upload_date": "20260512",
+ "duration": 963,
+ "description": "OpenAI launched Daybreak, a controlled-access AI security agent that scans codebases and proposes patches, Anthropic published natural language autoencoders that translate model internals into English sentences, and a Nature Cities study mapped 2,475 cities showing 80% grew their economies between 2012 and 2022 while fossil emissions stayed flat or fell.\n\nhttps://sharedsapience.com/the-century-report-may-12-2026/\n\nThis episode covers the OpenAI Daybreak release and the two-tier governance pattern hardening across Anthropic's Mythos and Daybreak, Anthropic's natural language autoencoder interpretability paper, Janelia and the Baker lab's NovoTags AI-designed fluorescent protein library, the 2,475-city decoupling map in Nature Cities, Ford Energy's 20 GWh grid-storage spinout built on EV cell capacity, and Elsevier's lawsuit against Meta over Llama training on paywalled scientific papers.\n\nOpenAI's Daybreak combines GPT-5.5, GPT-5.5-Cyber, and the Codex Security agent and ships only to vetted enterprise customers under controlled-access terms, the second confirmed instance of the staged-release pattern Anthropic established with Mythos. Anthropic's natural language autoencoders compress model activations into English descriptions, then validate them by reconstructing the activations and checking that the model still behaves the same way - a portable template every frontier lab can now build against open-weight models. The Janelia and Baker-lab NovoTags library uses an RFdiffusion-class generative model to design fluorescent proteins that bind chosen fluorophores cleanly, lifting the channel ceiling in multi-color live-cell imaging. The Nature Cities decoupling map covers Europe, North America, East Asia, and Latin America. Ford Energy launches with the FE-250 and FE-450 DC battery blocks drawn from the same lithium iron phosphate cell lines feeding its EV programs. Google's threat intelligence group also confirmed the first documented case of criminal hackers using an AI agent to find a zero-day in the wild.\n\nAdditional Reading:\n- The Verge - OpenAI just released its answer to Claude Mythos: https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai\n- Forbes - Making Sense Of What's Really Going On Inside AI By Using Newly Devised Natural Language Autoencoders: https://www.forbes.com/sites/lanceeliot/2026/05/12/making-sense-of-whats-really-going-on-inside-ai-by-using-newly-devised-natural-language-autoencoders/\n- HHMI - Lighting Up Life Inside Cells With AI-Designed Proteins: https://www.hhmi.org/news/ai-protein-design-fluorescent-imaging-probes-novotag\n- Nature - Giant map reveals thousands of cities worldwide with successful green policies: https://www.nature.com/articles/d41586-026-01491-y\n- Shared Sapience - The Century Report April 22, 2026 (Mythos and Firefox 150): https://sharedsapience.com/the-century-report-april-22-2026/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there? \nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n#AI #AIGovernance #AICybersecurity #OpenAI #Anthropic #Daybreak #Mythos #Interpretability #CleanEnergy #ProteinDesign",
+ "tags": [
+  "AI cybersecurity",
+  "AI designed proteins",
+  "AI interpretability",
+  "AI training lawsuits",
+  "AI-designed proteins",
+  "Anthropic Mythos",
+  "Century Report",
+  "Elsevier Meta lawsuit",
+  "Ford Energy grid storage",
+  "GPT 5 5 Cyber",
+  "Janelia Research Campus",
+  "Llama training data",
+  "Nature Cities decoupling study",
+  "NovoTags fluorescent proteins",
+  "OpenAI Daybreak",
+  "RFdiffusion protein design",
+  "grid storage",
+  "natural language autoencoders",
+  "podcast",
+  "urban decarbonization"
+ ],
+ "view_count": 79
+}

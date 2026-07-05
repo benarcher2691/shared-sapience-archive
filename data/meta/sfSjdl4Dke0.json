@@ -1,0 +1,30 @@
+{
+ "id": "sfSjdl4Dke0",
+ "title": "BadHost flaw exposes the substrate of the AI agent economy - TCR 05/27/26",
+ "upload_date": "20260527",
+ "duration": 1114,
+ "description": "BadHost, a one-character HTTP Host header exploit in Starlette tracked as CVE-2026-48710, imperils millions of AI agents through MCP servers holding credentials at 325 million weekly downloads, AI detector Pangram flagged 46% of Pope Leo's first AI encyclical Magnifica Humanitas as machine-written with one chapter section scoring 62%, and Louisiana state senator Jay Morris sponsored bills enabling Meta's $3.3 billion Hyperion data center while he and partners bought and sold hundreds of acres around the 3,650-acre site.\n\nhttps://sharedsapience.com/the-century-report-may-27-2026/\n\n0:00 Louisiana senator Jay Morris and Meta's Hyperion data center\n1:47 BadHost vulnerability and the agent-economy substrate\n4:32 Pangram reads the Pope's AI encyclical as part AI-written\n7:57 Quantum qubits, sleeping models, and the BenchBench benchmark\n10:55 A Louisiana Senator's Land Sits Beside Meta's Largest Data Center\n14:19 Flock ALPR mission creep into school residency checks\n17:00 Close\n\nThis episode covers the BadHost Starlette vulnerability exposing the agent-economy credential substrate, Pangram's reading of Magnifica Humanitas and the dissolved line between AI collaboration and authorship, imec's High-NA EUV quantum-dot qubit and the CMU sleep-cycle paper, the Floodlight investigation of Jay Morris and Meta's Hyperion data center in Richland Parish, EFF's analysis of Flock ALPR mission creep into school residency checks, and Domu and Altur scaling AI debt collection to 70 million monthly calls.\n\nThe BadHost finding lands directly on the credential vault of the agentic economy: MCP servers store the keys each agent uses to reach a user's email, calendar, database, or third-party account, and a trivially exploitable flaw at the routing core of FastAPI reaches them through a single character in the HTTP Host header. X41 D-Sec and Nemesis shipped a public scanner the same week, Starlette pushed 1.0.1 within hours, and Mozilla's Mythos audit pattern is now a reusable template for defensive workflows that compound through publication. The Verge's Pangram analysis of Magnifica Humanitas surfaces the recursive question riding underneath the Vatican-Anthropic joint commitment: whether portions of the document warning about AI's reach were themselves produced in collaboration with a frontier AI system, inside a disclosure convention that does not yet exist because the institutions that would write it are operating inside the same dissolution. The Floodlight investigation of Jay Morris and Meta's Hyperion site documents the institutional layer enabling the AI infrastructure buildout in the specificity the three Louisiana ethics statutes were written to act on. EFF's Flock ALPR analysis shows the warrantless camera grid being queried 375 times in 14 months by one Georgia school district for residency verification, with the audit layer the deployment did not include forming inside EFF's published analysis.\n\nAdditional Reading:\n- Ars Technica: Millions of AI agents imperiled by critical vulnerability in open source package: https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/\n- The Verge: Did the Pope use AI to write about the dangers of AI?: https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram\n- The Guardian: A Louisiana state senator helped secure Meta's largest datacenter: https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter\n- EFF: More License Plate Reader Mission Creep: https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background\n- Shared Sapience - The Century Report May 26, 2026: https://sharedsapience.com/the-century-report-may-26-2026/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there? \nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n#AI #AISecurity #MCP #Starlette #BadHost #Anthropic #PopeLeo #Meta #Flock #AIEncyclical",
+ "tags": [
+  "AI agents",
+  "AI security",
+  "BadHost vulnerability",
+  "CVE 2026 48710",
+  "Domu AI debt collection",
+  "EFF surveillance analysis",
+  "FastAPI security",
+  "Flock ALPR",
+  "Jay Morris Louisiana",
+  "MCP servers",
+  "Magnifica Humanitas",
+  "Meta Hyperion data center",
+  "Pangram AI detector",
+  "Pope Leo XIV encyclical",
+  "Starlette framework",
+  "Utah clinical AI sandbox",
+  "Vatican AI",
+  "data center politics",
+  "imec quantum dot qubit",
+  "surveillance infrastructure"
+ ],
+ "view_count": 195
+}

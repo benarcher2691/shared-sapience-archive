@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Century Report — Archive</title>
+<style>
+:root{
+  --paper:#F4F5F7; --surface:#FFFFFF; --surface-2:#FBFBFD;
+  --ink:#17212B; --ink-soft:#55606B; --ink-faint:#8A94A0;
+  --line:#DFE3E8; --line-soft:#EBEEF1;
+  --accent:#CE2B22; --accent-ink:#CE2B22; --accent-wash:#FBEAE9;
+  --focus:#2E6FE8;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+  --maxw:1080px;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#0E141A; --surface:#151D25; --surface-2:#111820;
+    --ink:#E7ECF1; --ink-soft:#9AA6B2; --ink-faint:#66727E;
+    --line:#25303A; --line-soft:#1C2630;
+    --accent:#FF5147; --accent-ink:#FF6B62; --accent-wash:#2A1514;
+    --focus:#5B8DEF;
+  }
+}
+:root[data-theme="light"]{
+  --paper:#F4F5F7; --surface:#FFFFFF; --surface-2:#FBFBFD;
+  --ink:#17212B; --ink-soft:#55606B; --ink-faint:#8A94A0;
+  --line:#DFE3E8; --line-soft:#EBEEF1;
+  --accent:#CE2B22; --accent-ink:#CE2B22; --accent-wash:#FBEAE9; --focus:#2E6FE8;
+}
+:root[data-theme="dark"]{
+  --paper:#0E141A; --surface:#151D25; --surface-2:#111820;
+  --ink:#E7ECF1; --ink-soft:#9AA6B2; --ink-faint:#66727E;
+  --line:#25303A; --line-soft:#1C2630;
+  --accent:#FF5147; --accent-ink:#FF6B62; --accent-wash:#2A1514; --focus:#5B8DEF;
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:var(--sans); font-size:16px; line-height:1.55;
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+}
+a{color:inherit}
+::selection{background:var(--accent);color:#fff}
+
+.wrap{max-width:var(--maxw); margin:0 auto; padding:0 24px}
+
+/* ---- Masthead ---- */
+.masthead{border-bottom:2px solid var(--ink); background:var(--surface)}
+.masthead-inner{padding:26px 24px 22px; max-width:var(--maxw); margin:0 auto}
+.brandrow{display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap}
+.brand{display:flex; align-items:center; gap:14px}
+.mark{
+  font-family:var(--mono); font-weight:700; font-size:15px; letter-spacing:.06em;
+  color:#fff; background:var(--accent); padding:6px 9px; border-radius:3px; line-height:1;
+}
+.brand h1{
+  margin:0; font-size:clamp(24px,3.4vw,34px); font-weight:800;
+  letter-spacing:-.025em; text-wrap:balance;
+}
+.brand .sub{margin:2px 0 0; font-size:13px; color:var(--ink-soft)}
+.tools{display:flex; align-items:center; gap:8px}
+.iconbtn{
+  font-family:var(--mono); font-size:12px; color:var(--ink-soft);
+  background:var(--surface-2); border:1px solid var(--line); border-radius:5px;
+  padding:7px 11px; cursor:pointer; line-height:1;
+}
+.iconbtn:hover{border-color:var(--ink-faint); color:var(--ink)}
+
+.blurb{margin:16px 0 0; max-width:64ch; font-size:14.5px; color:var(--ink-soft)}
+.blurb b{color:var(--ink); font-weight:600}
+
+.stats{display:flex; flex-wrap:wrap; gap:0; margin-top:20px; border-top:1px solid var(--line)}
+.stat{padding:12px 22px 12px 0; margin-right:22px; border-right:1px solid var(--line-soft)}
+.stat:last-child{border-right:0}
+.stat .n{font-family:var(--mono); font-size:22px; font-weight:600; letter-spacing:-.01em; font-variant-numeric:tabular-nums}
+.stat .l{display:block; font-family:var(--mono); font-size:10.5px; text-transform:uppercase; letter-spacing:.12em; color:var(--ink-faint); margin-top:2px}
+
+/* ---- Controls ---- */
+.controls{position:sticky; top:0; z-index:20; background:color-mix(in srgb, var(--paper) 88%, transparent); backdrop-filter:saturate(1.4) blur(8px); border-bottom:1px solid var(--line)}
+.controls-inner{max-width:var(--maxw); margin:0 auto; padding:14px 24px}
+.searchrow{display:flex; gap:10px; align-items:center}
+.search{position:relative; flex:1}
+.search svg{position:absolute; left:12px; top:50%; transform:translateY(-50%); color:var(--ink-faint)}
+.search input{
+  width:100%; font-family:var(--sans); font-size:15px; color:var(--ink);
+  background:var(--surface); border:1px solid var(--line); border-radius:7px;
+  padding:11px 14px 11px 38px;
+}
+.search input::placeholder{color:var(--ink-faint)}
+.search input:focus{outline:none; border-color:var(--focus); box-shadow:0 0 0 3px color-mix(in srgb, var(--focus) 22%, transparent)}
+.sortbtn{white-space:nowrap}
+.count{font-family:var(--mono); font-size:12.5px; color:var(--ink-soft); white-space:nowrap; font-variant-numeric:tabular-nums}
+.count b{color:var(--accent-ink); font-weight:700}
+
+.filterrow{display:flex; flex-wrap:wrap; gap:9px; align-items:center; margin-top:12px}
+.topics{display:flex; flex-wrap:wrap; gap:7px; margin-top:10px; align-items:center}
+.topics-label{font-family:var(--mono); font-size:10.5px; text-transform:uppercase; letter-spacing:.12em; color:var(--ink-faint); margin-right:2px}
+.seg{display:inline-flex; background:var(--surface); border:1px solid var(--line); border-radius:7px; padding:2px; gap:2px}
+.seg-btn{
+  font-family:var(--mono); font-size:12px; color:var(--ink-soft); cursor:pointer;
+  background:transparent; border:0; border-radius:5px; padding:5px 11px; line-height:1;
+  display:inline-flex; align-items:center; gap:6px; transition:background .12s,color .12s;
+}
+.seg-btn .c{font-size:10.5px; color:var(--ink-faint); font-variant-numeric:tabular-nums}
+.seg-btn:hover{color:var(--ink)}
+.seg-btn[aria-pressed="true"]{background:var(--accent); color:#fff}
+.seg-btn[aria-pressed="true"] .c{color:rgba(255,255,255,.8)}
+.chip{
+  display:inline-flex; align-items:center; gap:6px; cursor:pointer;
+  font-family:var(--mono); font-size:12px; color:var(--ink-soft);
+  background:var(--surface); border:1px solid var(--line); border-radius:20px;
+  padding:5px 10px; line-height:1; transition:background .12s,border-color .12s,color .12s;
+}
+.chip:hover{border-color:var(--ink-faint); color:var(--ink)}
+.chip .c{font-size:10.5px; color:var(--ink-faint); font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"]{background:var(--accent); border-color:var(--accent); color:#fff}
+.chip[aria-pressed="true"] .c{color:rgba(255,255,255,.8)}
+.chip.clear{color:var(--accent-ink); border-color:transparent; background:transparent}
+.chip.clear:hover{background:var(--accent-wash)}
+.chip.clear[hidden]{display:none}
+
+/* ---- Feed ---- */
+main{padding:8px 0 80px}
+.monthhead{
+  display:flex; align-items:baseline; gap:12px; margin:34px 0 4px; padding-top:6px;
+}
+.monthhead h2{margin:0; font-family:var(--mono); font-size:12px; text-transform:uppercase; letter-spacing:.16em; color:var(--ink); font-weight:700}
+.monthhead .rule{flex:1; height:1px; background:var(--line)}
+.monthhead .mc{font-family:var(--mono); font-size:11px; color:var(--ink-faint); font-variant-numeric:tabular-nums}
+
+.entry{
+  display:grid; grid-template-columns:104px 1fr; gap:22px;
+  padding:20px 0; border-bottom:1px solid var(--line-soft);
+}
+.entry .rail{font-family:var(--mono); font-size:12px; color:var(--ink-soft); padding-top:3px; font-variant-numeric:tabular-nums}
+.entry .rail .day{display:block; font-size:20px; font-weight:600; color:var(--ink); letter-spacing:-.02em}
+.entry .rail .dur{display:block; margin-top:6px; color:var(--ink-faint)}
+.entry h3{margin:0 0 8px; font-size:18.5px; line-height:1.28; font-weight:700; letter-spacing:-.012em; text-wrap:balance}
+.entry h3 a{text-decoration:none}
+.entry h3 a:hover{color:var(--accent-ink)}
+.entry .lede{margin:0 0 11px; font-size:14.5px; color:var(--ink-soft); line-height:1.55; max-width:68ch}
+.stories{list-style:none; margin:0 0 13px; padding:0; max-width:70ch; display:flex; flex-direction:column; gap:6px}
+.stories li{position:relative; padding-left:16px; font-size:14px; color:var(--ink-soft); line-height:1.5}
+.stories li::before{content:""; position:absolute; left:2px; top:9px; width:5px; height:5px; border-radius:1px; background:var(--accent); opacity:.85}
+.stories li b{color:var(--ink); font-weight:650}
+.stories li mark{font-weight:inherit}
+.tagrow{display:flex; flex-wrap:wrap; gap:6px}
+.tag{
+  font-family:var(--mono); font-size:11px; color:var(--ink-soft);
+  background:var(--surface-2); border:1px solid var(--line-soft); border-radius:4px;
+  padding:3px 7px; cursor:pointer; line-height:1.3;
+}
+.tag:hover{border-color:var(--accent); color:var(--accent-ink)}
+.tag.on{background:var(--accent-wash); border-color:var(--accent); color:var(--accent-ink)}
+.watch{font-family:var(--mono); font-size:11px; color:var(--ink-faint); text-decoration:none; margin-left:auto; white-space:nowrap; display:inline-flex; align-items:center; gap:5px}
+.watch:hover{color:var(--accent-ink)}
+
+.empty{padding:70px 0; text-align:center; color:var(--ink-soft)}
+.empty b{color:var(--ink)}
+
+footer{border-top:1px solid var(--line); padding:22px 0 60px; color:var(--ink-faint); font-size:12.5px}
+footer a{color:var(--ink-soft)}
+footer .wrap{display:flex; flex-wrap:wrap; gap:6px 18px; align-items:center}
+
+mark{background:color-mix(in srgb, var(--accent) 26%, transparent); color:inherit; border-radius:2px; padding:0 1px}
+
+@media (max-width:620px){
+  .wrap,.masthead-inner,.controls-inner{padding-left:16px; padding-right:16px}
+  .entry{grid-template-columns:1fr; gap:8px}
+  .entry .rail{display:flex; gap:12px; align-items:baseline; padding-top:0}
+  .entry .rail .day{font-size:14px}
+  .entry .rail .dur{margin-top:0}
+  .searchrow{flex-wrap:wrap}
+  .count{order:3; width:100%}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important; scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="brandrow">
+      <div class="brand">
+        <span class="mark">TCR</span>
+        <div>
+          <h1>The Century Report</h1>
+          <p class="sub">A searchable archive of the SharedSapience channel</p>
+        </div>
+      </div>
+      <div class="tools">
+        <button class="iconbtn" id="themeBtn" type="button" aria-label="Toggle color theme">◐ Theme</button>
+        <a class="iconbtn" id="channelLink" href="#" target="_blank" rel="noopener">Channel ↗</a>
+      </div>
+    </div>
+    <p class="blurb">Near-daily dispatches on frontier AI — the <b>labs, policy, compute, and chips</b>, plus the <b>science, biotech, and energy</b> stories AI is accelerating — with occasional stand-alone essays. Every episode is summarized from its published notes. Search the text or filter by topic below.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="controls-inner">
+    <div class="searchrow">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <input id="q" type="search" placeholder="Search titles and summaries…" autocomplete="off" spellcheck="false" aria-label="Search episodes">
+      </label>
+      <button class="iconbtn sortbtn" id="sortBtn" type="button">↓ Newest</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="filterrow">
+      <span class="topics-label">Format</span>
+      <div class="seg" id="formatSeg" role="group" aria-label="Filter by format"></div>
+    </div>
+    <div class="topics" id="topics">
+      <span class="topics-label">Topics</span>
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="feed"></main>
+
+<footer>
+  <div class="wrap">
+    <span>Summaries generated from published video notes · <span id="genDate"></span></span>
+    <a id="footChannel" href="#" target="_blank" rel="noopener">youtube.com/@SharedSapience ↗</a>
+  </div>
+</footer>
+
+<script>
+const DATA = /*__DATA__*/;
+const $ = s => document.querySelector(s);
+
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const TAGLABEL = Object.fromEntries(DATA.topics.map(t => [t.tag, t.label]));
+
+const state = { q:"", tags:new Set(), asc:false, format:"all" };
+
+// ---- setup static bits ----
+$("#channelLink").href = DATA.channel;
+$("#footChannel").href = DATA.channel;
+$("#genDate").textContent = "generated " + DATA.generated;
+
+const totalHrs = Math.round(DATA.total_minutes/60);
+function fmtRange(a,b){
+  const f = s => { const [y,m,d]=s.split("-"); return MONTHS[+m-1].slice(0,3)+" "+(+d)+", "+y; };
+  return f(a)+" – "+f(b);
+}
+$("#stats").innerHTML = [
+  ["#count-eps", DATA.episodes.length, "Episodes"],
+  ["", DATA.topics.length, "Topics"],
+  ["", totalHrs+"h", "Total runtime"],
+  ["", fmtRange(DATA.date_min, DATA.date_max), "Coverage"],
+].map(([_,n,l])=>`<div class="stat"><span class="n">${n}</span><span class="l">${l}</span></div>`).join("");
+
+// ---- format segmented control ----
+const fmtCounts = {
+  all: DATA.episodes.length,
+  daily: DATA.episodes.filter(e => e.format === "daily").length,
+  essay: DATA.episodes.filter(e => e.format === "essay").length,
+};
+const formatSeg = $("#formatSeg");
+[["all","All"],["daily","Daily reports"],["essay","Essays"]].forEach(([val,label]) => {
+  const b = document.createElement("button");
+  b.className = "seg-btn"; b.type = "button"; b.dataset.fmt = val;
+  b.setAttribute("aria-pressed", val === state.format ? "true":"false");
+  b.innerHTML = val === "all" ? label : `${label} <span class="c">${fmtCounts[val]}</span>`;
+  b.addEventListener("click", () => {
+    state.format = val; syncFormat(); render();
+  });
+  formatSeg.appendChild(b);
+});
+function syncFormat(){
+  formatSeg.querySelectorAll(".seg-btn").forEach(b =>
+    b.setAttribute("aria-pressed", b.dataset.fmt === state.format ? "true":"false"));
+}
+
+// ---- topic chips ----
+const topicsEl = $("#topics");
+DATA.topics.forEach(t => {
+  const b = document.createElement("button");
+  b.className = "chip"; b.type = "button"; b.dataset.tag = t.tag;
+  b.setAttribute("aria-pressed","false");
+  b.innerHTML = `${t.label} <span class="c">${t.count}</span>`;
+  b.addEventListener("click", () => toggleTag(t.tag));
+  topicsEl.appendChild(b);
+});
+const clearBtn = document.createElement("button");
+clearBtn.className = "chip clear"; clearBtn.type = "button"; clearBtn.textContent = "✕ Clear";
+clearBtn.hidden = true;
+clearBtn.addEventListener("click", () => { state.tags.clear(); syncChips(); render(); });
+topicsEl.appendChild(clearBtn);
+
+function toggleTag(tag){
+  if(state.tags.has(tag)) state.tags.delete(tag); else state.tags.add(tag);
+  syncChips(); render();
+}
+function syncChips(){
+  topicsEl.querySelectorAll(".chip[data-tag]").forEach(c =>
+    c.setAttribute("aria-pressed", state.tags.has(c.dataset.tag) ? "true":"false"));
+  clearBtn.hidden = state.tags.size === 0;
+}
+
+// ---- controls ----
+let qTimer;
+$("#q").addEventListener("input", e => {
+  clearTimeout(qTimer);
+  qTimer = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); render(); }, 90);
+});
+$("#sortBtn").addEventListener("click", () => {
+  state.asc = !state.asc;
+  $("#sortBtn").textContent = state.asc ? "↑ Oldest" : "↓ Newest";
+  render();
+});
+$("#themeBtn").addEventListener("click", () => {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const sysDark = matchMedia("(prefers-color-scheme:dark)").matches;
+  const now = cur ? cur : (sysDark ? "dark":"light");
+  document.documentElement.setAttribute("data-theme", now === "dark" ? "light":"dark");
+});
+
+// ---- filtering + render ----
+function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function highlight(text, q){
+  const e = esc(text);
+  if(!q) return e;
+  try{
+    const re = new RegExp("("+q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","ig");
+    return e.replace(re,"<mark>$1</mark>");
+  }catch{return e;}
+}
+function haystack(ep){
+  return (ep.title+" "+ep.lede+" "+ep.points.join(" ")+" "+ep.tags.join(" ")).toLowerCase();
+}
+function matches(ep){
+  if(state.format !== "all" && ep.format !== state.format) return false;
+  for(const t of state.tags) if(!ep.tags.includes(t)) return false; // AND across selected topics
+  if(state.q && !haystack(ep).includes(state.q)) return false;
+  return true;
+}
+// render **bold** subject, escape the rest, then apply search highlight
+function renderPoint(pt, q){
+  return highlight(pt, q).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+}
+function fmtDay(dateStr){ return dateStr.split("-")[2].replace(/^0/,""); }
+
+const feed = $("#feed");
+function render(){
+  const list = DATA.episodes.filter(matches);
+  list.sort((a,b)=> state.asc ? a.date.localeCompare(b.date) : b.date.localeCompare(a.date));
+
+  const total = DATA.episodes.length;
+  $("#count").innerHTML = list.length===total
+    ? `${total} episodes`
+    : `<b>${list.length}</b> of ${total}`;
+
+  if(!list.length){
+    feed.innerHTML = `<div class="empty">No episodes match. <b>Try</b> a different topic or clear the search.</div>`;
+    return;
+  }
+
+  let html = "", curMonth = "";
+  for(const ep of list){
+    const [y,m] = ep.date.split("-");
+    const mk = y+"-"+m;
+    if(mk !== curMonth){
+      curMonth = mk;
+      const mc = list.filter(e=>e.date.startsWith(mk)).length;
+      html += `<div class="monthhead"><h2>${MONTHS[+m-1]} ${y}</h2><span class="rule"></span><span class="mc">${mc}</span></div>`;
+    }
+    const tags = ep.tags.map(t =>
+      `<button class="tag${state.tags.has(t)?" on":""}" data-tag="${t}" title="Filter by ${esc(TAGLABEL[t]||t)}">${esc(TAGLABEL[t]||t.slice(1))}</button>`
+    ).join("");
+    const stories = ep.points.length
+      ? `<ul class="stories">${ep.points.map(p=>`<li>${renderPoint(p, state.q)}</li>`).join("")}</ul>`
+      : "";
+    const lede = ep.lede ? `<p class="lede">${highlight(ep.lede, state.q)}</p>` : "";
+    html += `<article class="entry">
+      <div class="rail"><span class="day">${fmtDay(ep.date)}</span><span class="dur">${ep.minutes} min</span></div>
+      <div class="body">
+        <h3><a href="${ep.url}" target="_blank" rel="noopener">${highlight(ep.title, state.q)}</a></h3>
+        ${lede}${stories}
+        <div class="tagrow">${tags}<a class="watch" href="${ep.url}" target="_blank" rel="noopener">▶ Watch</a></div>
+      </div>
+    </article>`;
+  }
+  feed.innerHTML = html;
+
+  feed.querySelectorAll(".tag[data-tag]").forEach(t =>
+    t.addEventListener("click", () => toggleTag(t.dataset.tag)));
+}
+
+render();
+</script>
+</body>
+</html>

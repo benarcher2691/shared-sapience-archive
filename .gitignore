@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local virtualenv / tooling artifacts
+data/failed.txt
+
+# Editor / OS
+.DS_Store
