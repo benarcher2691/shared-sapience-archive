@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 119
-- **Date range:** Mar 7, 2026 → Jul 4, 2026
-- **Last updated:** 2026-07-05
+- **Videos summarized:** 120
+- **Date range:** Mar 7, 2026 → Jul 5, 2026
+- **Last updated:** 2026-07-06
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 66 |
-| `#energy-climate` | Energy & climate | 62 |
+| `#anthropic` | Anthropic | 67 |
+| `#energy-climate` | Energy & climate | 63 |
 | `#biotech-medicine` | Biotech & medicine | 60 |
 | `#science` | Science | 32 |
+| `#labor-economy` | Labor & economy | 30 |
 | `#cybersecurity` | Cybersecurity | 29 |
-| `#labor-economy` | Labor & economy | 29 |
+| `#openai` | OpenAI | 25 |
 | `#policy-regulation` | Policy & regulation | 25 |
-| `#openai` | OpenAI | 24 |
 | `#safety-alignment` | Safety & alignment | 22 |
 | `#agents` | AI agents | 21 |
 | `#chips` | Chips / semiconductors | 19 |
 | `#legal-courts` | Legal & courts | 18 |
 | `#markets-finance` | Markets & finance | 18 |
 | `#robotics` | Robotics | 17 |
+| `#compute-infrastructure` | Compute infrastructure | 15 |
 | `#export-controls` | Export controls | 15 |
 | `#open-models` | Open models | 15 |
 | `#society-culture` | Society & culture | 15 |
-| `#compute-infrastructure` | Compute infrastructure | 14 |
 | `#google-deepmind` | Google / DeepMind | 14 |
 | `#xai-musk` | xAI / Musk | 10 |
 | `#meta` | Meta | 7 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 119 because most episodes carry several tags.
+> Counts sum to more than 120 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-05 — SK Telecom Pours $91.5B Into AI Power
+`#compute-infrastructure` `#energy-climate` `#openai` `#anthropic` `#labor-economy` · [watch](https://www.youtube.com/watch?v=AUIbGYCBBf0) · 16 min
+
+SK Telecom committed $91.5 billion to a 15-gigawatt AI data center fleet as the buildout's physical and financial limits came into focus across three continents.
+
+- **SK Telecom** — commits $91.5B to a 15 GW AI data center fleet needing three million GPUs; NTT claims a prefab method that halves hyperscale build time
+- **National Grid Ventures** — takes a $1.75B stake in a 2.67 GW Texas gas plant wired to a Microsoft data center
+- **OpenAI** — a Guardian probe finds ~£20B of its touted £30B Stargate UK hypothetical, with the Newcastle flagship site apparently never visited
+- **Alibaba** — walls off Claude Code as high-risk after Anthropic confirms a China-usage detection experiment
+- **Jobs** — June adds just 57,000 jobs with AI the top-cited layoff reason against 2.85M open listings; regulators concede the rulebook trails AI
 
 ### 2026-07-04 — Federal Order Puts AI's Power Bill on the Grid
 `#energy-climate` `#compute-infrastructure` `#anthropic` `#markets-finance` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=i5YzpskERI0) · 17 min
