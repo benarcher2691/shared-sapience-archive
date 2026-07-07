@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 120
-- **Date range:** Mar 7, 2026 → Jul 5, 2026
-- **Last updated:** 2026-07-06
+- **Videos summarized:** 121
+- **Date range:** Mar 7, 2026 → Jul 6, 2026
+- **Last updated:** 2026-07-07
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -19,15 +19,15 @@ plus occasional stand-alone essay videos.
 |---|---|---:|
 | `#anthropic` | Anthropic | 67 |
 | `#energy-climate` | Energy & climate | 63 |
-| `#biotech-medicine` | Biotech & medicine | 60 |
-| `#science` | Science | 32 |
-| `#labor-economy` | Labor & economy | 30 |
+| `#biotech-medicine` | Biotech & medicine | 61 |
+| `#science` | Science | 33 |
+| `#labor-economy` | Labor & economy | 31 |
 | `#cybersecurity` | Cybersecurity | 29 |
 | `#openai` | OpenAI | 25 |
 | `#policy-regulation` | Policy & regulation | 25 |
+| `#agents` | AI agents | 22 |
 | `#safety-alignment` | Safety & alignment | 22 |
-| `#agents` | AI agents | 21 |
-| `#chips` | Chips / semiconductors | 19 |
+| `#chips` | Chips / semiconductors | 20 |
 | `#legal-courts` | Legal & courts | 18 |
 | `#markets-finance` | Markets & finance | 18 |
 | `#robotics` | Robotics | 17 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 120 because most episodes carry several tags.
+> Counts sum to more than 121 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-06 — An AI Agent Finds Four New Energy Superconductors
+`#agents` `#science` `#biotech-medicine` `#chips` `#labor-economy` · [watch](https://www.youtube.com/watch?v=7ywOdLBEWq0) · 17 min
+
+Alibaba's Elements Claw AI agent scanned 2.4 million crystal structures in 28 hours and returned four lab-verified superconductors.
+
+- **Alibaba** — its Elements Claw agent reads 2.4M stable crystals in 28 hours and surfaces four lab-verified superconductors, against a field that took decades to log 26,000
+- **AI-guided CRISPR** — a screen nominates two overlooked genes (ALOX5, OXTR) that could turn an injected psoriasis biologic into a topical cream
+- **Nvidia** — the Kyber rack slips to 2028 as advanced packaging and memory hit a manufacturing ceiling, handing rivals a year to close
+- **Amazon** — winds down Mechanical Turk after 21 years, closing to new customers July 30 as automation absorbs the piecework
+- **Lanarkshire** — FOI documents expose a flagship datacentre with "no prospect" of meeting its all-renewable pledge
 
 ### 2026-07-05 — SK Telecom Pours $91.5B Into AI Power
 `#compute-infrastructure` `#energy-climate` `#openai` `#anthropic` `#labor-economy` · [watch](https://www.youtube.com/watch?v=AUIbGYCBBf0) · 16 min
