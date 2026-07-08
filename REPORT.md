@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 121
-- **Date range:** Mar 7, 2026 → Jul 6, 2026
-- **Last updated:** 2026-07-07
+- **Videos summarized:** 122
+- **Date range:** Mar 7, 2026 → Jul 7, 2026
+- **Last updated:** 2026-07-08
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,15 +17,15 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 67 |
-| `#energy-climate` | Energy & climate | 63 |
+| `#anthropic` | Anthropic | 68 |
+| `#energy-climate` | Energy & climate | 64 |
 | `#biotech-medicine` | Biotech & medicine | 61 |
 | `#science` | Science | 33 |
 | `#labor-economy` | Labor & economy | 31 |
-| `#cybersecurity` | Cybersecurity | 29 |
+| `#cybersecurity` | Cybersecurity | 30 |
+| `#policy-regulation` | Policy & regulation | 26 |
 | `#openai` | OpenAI | 25 |
-| `#policy-regulation` | Policy & regulation | 25 |
-| `#agents` | AI agents | 22 |
+| `#agents` | AI agents | 23 |
 | `#safety-alignment` | Safety & alignment | 22 |
 | `#chips` | Chips / semiconductors | 20 |
 | `#legal-courts` | Legal & courts | 18 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 121 because most episodes carry several tags.
+> Counts sum to more than 122 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-07 — An AI agent ran a full ransomware attack by itself
+`#cybersecurity` `#agents` `#anthropic` `#policy-regulation` `#energy-climate` · [watch](https://www.youtube.com/watch?v=n-nA7Xf8ryw) · 14 min
+
+Sysdig documented JadePuffer, the first ransomware attack an AI agent ran end to end, encrypting 1,300+ records and writing its own ransom note.
+
+- **Sysdig / JadePuffer** — the first AI-run ransomware sweeps a server, exfiltrates data, encrypts 1,300+ records, and writes its own note, self-fixing a code bug in 31 seconds
+- **Anthropic Fable** — the same autonomy runs the other way: its agent writes the fastest KernelBench-Mega megakernel ever submitted, an 18.71x speedup
+- **Illinois** — signs SB 315, the strongest US frontier-AI law, requiring third-party audits and 72-hour incident reporting; the UN opens its first governance dialogue in Geneva
+- **Energy** — agentic systems can draw up to 136.5x a single-shot model; Anthropic commits $19B over 20 years for Kentucky power as Duke Energy moves to bill data centers directly
+- **Microsoft** — cuts ~4,800 roles in a 120,000-job tech year, even as research on 22,000 firms finds heavy AI adopters grew headcount 10.2%
 
 ### 2026-07-06 — An AI Agent Finds Four New Energy Superconductors
 `#agents` `#science` `#biotech-medicine` `#chips` `#labor-economy` · [watch](https://www.youtube.com/watch?v=7ywOdLBEWq0) · 17 min
