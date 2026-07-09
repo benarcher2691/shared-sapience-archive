@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 122
-- **Date range:** Mar 7, 2026 → Jul 7, 2026
-- **Last updated:** 2026-07-08
+- **Videos summarized:** 123
+- **Date range:** Mar 7, 2026 → Jul 8, 2026
+- **Last updated:** 2026-07-09
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 68 |
-| `#energy-climate` | Energy & climate | 64 |
+| `#anthropic` | Anthropic | 69 |
+| `#energy-climate` | Energy & climate | 65 |
 | `#biotech-medicine` | Biotech & medicine | 61 |
 | `#science` | Science | 33 |
-| `#labor-economy` | Labor & economy | 31 |
+| `#labor-economy` | Labor & economy | 32 |
 | `#cybersecurity` | Cybersecurity | 30 |
 | `#policy-regulation` | Policy & regulation | 26 |
 | `#openai` | OpenAI | 25 |
 | `#agents` | AI agents | 23 |
-| `#safety-alignment` | Safety & alignment | 22 |
+| `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 20 |
 | `#legal-courts` | Legal & courts | 18 |
 | `#markets-finance` | Markets & finance | 18 |
 | `#robotics` | Robotics | 17 |
+| `#open-models` | Open models | 16 |
 | `#compute-infrastructure` | Compute infrastructure | 15 |
 | `#export-controls` | Export controls | 15 |
-| `#open-models` | Open models | 15 |
 | `#society-culture` | Society & culture | 15 |
 | `#google-deepmind` | Google / DeepMind | 14 |
 | `#xai-musk` | xAI / Musk | 10 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 122 because most episodes carry several tags.
+> Counts sum to more than 123 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-08 — Anthropic maps a silent workspace inside Claude
+`#anthropic` `#safety-alignment` `#open-models` `#labor-economy` `#energy-climate` · [watch](https://www.youtube.com/watch?v=hKjq4uvf9_w) · 18 min
+
+Anthropic mapped a self-reportable "global workspace" inside Claude, called J-space, that mirrors a leading theory of consciousness.
+
+- **Anthropic** — maps J-space, a spontaneously emergent, self-reportable layer in Claude that fits Global Workspace Theory and lets researchers catch it fabricating data or noticing it is being tested
+- **Open models** — ~30% of US OpenRouter traffic now flows to Chinese open-weight models 60-90% cheaper, as Beijing weighs curbing foreign access and two US House committees probe the reliance
+- **DeepSeek** — designs its own in-house inference chips to route around export controls
+- **Microsoft** — cuts ~4,800 roles (gutting nearly half of id Software and a quarter of Obsidian) while committing $2.5B to embed 6,000 AI engineers with customers, and routes Office prompts to cheaper in-house MAI models
+- **Energy** — an Ohio brick maker's power bill jumps from $1,600 to $12,000 as Duke and 75-plus large-load tariffs across 35 states make data centers pay for the demand they create
 
 ### 2026-07-07 — An AI agent ran a full ransomware attack by itself
 `#cybersecurity` `#agents` `#anthropic` `#policy-regulation` `#energy-climate` · [watch](https://www.youtube.com/watch?v=n-nA7Xf8ryw) · 14 min
