@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 123
-- **Date range:** Mar 7, 2026 → Jul 8, 2026
-- **Last updated:** 2026-07-09
+- **Videos summarized:** 124
+- **Date range:** Mar 7, 2026 → Jul 9, 2026
+- **Last updated:** 2026-07-10
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -23,29 +23,40 @@ plus occasional stand-alone essay videos.
 | `#science` | Science | 33 |
 | `#labor-economy` | Labor & economy | 32 |
 | `#cybersecurity` | Cybersecurity | 30 |
-| `#policy-regulation` | Policy & regulation | 26 |
-| `#openai` | OpenAI | 25 |
+| `#policy-regulation` | Policy & regulation | 27 |
+| `#openai` | OpenAI | 26 |
 | `#agents` | AI agents | 23 |
 | `#safety-alignment` | Safety & alignment | 23 |
-| `#chips` | Chips / semiconductors | 20 |
+| `#chips` | Chips / semiconductors | 21 |
 | `#legal-courts` | Legal & courts | 18 |
 | `#markets-finance` | Markets & finance | 18 |
-| `#robotics` | Robotics | 17 |
+| `#robotics` | Robotics | 18 |
 | `#open-models` | Open models | 16 |
 | `#compute-infrastructure` | Compute infrastructure | 15 |
 | `#export-controls` | Export controls | 15 |
 | `#society-culture` | Society & culture | 15 |
 | `#google-deepmind` | Google / DeepMind | 14 |
 | `#xai-musk` | xAI / Musk | 10 |
-| `#meta` | Meta | 7 |
+| `#meta` | Meta | 8 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 123 because most episodes carry several tags.
+> Counts sum to more than 124 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-09 — Government casts doubt on its own authority to vet AI models
+`#openai` `#policy-regulation` `#chips` `#robotics` `#meta` · [watch](https://www.youtube.com/watch?v=6siDevxZPVs) · 16 min
+
+OpenAI said GPT-5.6 reaches the public Thursday after Commerce Department testing, while the White House denied holding any release authority.
+
+- **OpenAI** — frames Thursday's GPT-5.6 launch as clearance after federal testing, but the White House states on the record it approved nothing and holds no release switch
+- **DeepSeek** — designs its own inference chip to route around export controls as Chinese firms plan to shift 46% of accelerator budgets to domestic silicon
+- **Meta** — ships Muse Image free across its apps with an @-mention feature that pulls any public account into a stranger's edit on opt-out terms, drawing consent backlash
+- **Forterra** — discloses 100+ autonomous ground vehicles running 1,100 missions and 52 casualty evacuations across nine months in Ukraine; humanoid robots complete a live pig gallbladder removal in a Nature study
+- **GPT-4** — predicts the outcomes of 70 survey experiments as accurately as pooled human forecasters
 
 ### 2026-07-08 — Anthropic maps a silent workspace inside Claude
 `#anthropic` `#safety-alignment` `#open-models` `#labor-economy` `#energy-climate` · [watch](https://www.youtube.com/watch?v=hKjq4uvf9_w) · 18 min
