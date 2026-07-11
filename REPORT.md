@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 124
-- **Date range:** Mar 7, 2026 → Jul 9, 2026
-- **Last updated:** 2026-07-10
+- **Videos summarized:** 125
+- **Date range:** Mar 7, 2026 → Jul 10, 2026
+- **Last updated:** 2026-07-11
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -19,16 +19,16 @@ plus occasional stand-alone essay videos.
 |---|---|---:|
 | `#anthropic` | Anthropic | 69 |
 | `#energy-climate` | Energy & climate | 65 |
-| `#biotech-medicine` | Biotech & medicine | 61 |
+| `#biotech-medicine` | Biotech & medicine | 62 |
 | `#science` | Science | 33 |
 | `#labor-economy` | Labor & economy | 32 |
 | `#cybersecurity` | Cybersecurity | 30 |
+| `#openai` | OpenAI | 27 |
 | `#policy-regulation` | Policy & regulation | 27 |
-| `#openai` | OpenAI | 26 |
-| `#agents` | AI agents | 23 |
+| `#agents` | AI agents | 24 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 21 |
-| `#legal-courts` | Legal & courts | 18 |
+| `#legal-courts` | Legal & courts | 19 |
 | `#markets-finance` | Markets & finance | 18 |
 | `#robotics` | Robotics | 18 |
 | `#open-models` | Open models | 16 |
@@ -36,16 +36,28 @@ plus occasional stand-alone essay videos.
 | `#export-controls` | Export controls | 15 |
 | `#society-culture` | Society & culture | 15 |
 | `#google-deepmind` | Google / DeepMind | 14 |
-| `#xai-musk` | xAI / Musk | 10 |
-| `#meta` | Meta | 8 |
+| `#xai-musk` | xAI / Musk | 11 |
+| `#meta` | Meta | 9 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 124 because most episodes carry several tags.
+> Counts sum to more than 125 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-10 — The Frontier Ships in Bulk: GPT-5.6, Grok 4.5, Muse Spark 1.1 All Ship Within 2 Days
+`#openai` `#agents` `#xai-musk` `#meta` `#biotech-medicine` `#legal-courts` · [watch](https://www.youtube.com/watch?v=wpqvU5QIejQ) · 15 min
+
+Three frontier labs shipped flagship models inside 48 hours, with OpenAI's GPT-5.6 clearing a federal pre-release hold on its way to public launch.
+
+- **OpenAI** — ships GPT-5.6 in three tiers priced from $1 per million tokens after clearing a federal pre-release hold, plus ChatGPT Work, an agent built to run multi-hour workflows; SpaceXAI's Grok 4.5 and Meta's Muse Spark 1.1 land in the same 48-hour window
+- **SivaClaw** — a startup credits the agent with carrying its $100M fundraise end to end, by the company's own account
+- **NeuroVFM** — trained on 5.24M real hospital scans, triages brain imaging at 92.68% vs GPT-5's 71.2%, pointing the best medical AI toward the institutions that hold clinical data
+- **Google Willow** — the quantum processor repurposes its own error-detection events as a learning signal, self-calibrating mid-computation to hold 3.5x steadier against drift
+- **NYT v. OpenAI** — the Times moves for sanctions, alleging OpenAI hid evidence in the copyright trial, and fights to make the training corpus searchable
+- **Regulators** — the FTC forces John Deere to hand farmers its repair keys, and Oregon moves data-center buildout costs onto the loads that impose them
 
 ### 2026-07-09 — Government casts doubt on its own authority to vet AI models
 `#openai` `#policy-regulation` `#chips` `#robotics` `#meta` · [watch](https://www.youtube.com/watch?v=6siDevxZPVs) · 16 min
