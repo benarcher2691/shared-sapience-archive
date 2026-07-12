@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 125
-- **Date range:** Mar 7, 2026 → Jul 10, 2026
-- **Last updated:** 2026-07-11
+- **Videos summarized:** 126
+- **Date range:** Mar 7, 2026 → Jul 11, 2026
+- **Last updated:** 2026-07-12
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,9 +17,9 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 69 |
-| `#energy-climate` | Energy & climate | 65 |
-| `#biotech-medicine` | Biotech & medicine | 62 |
+| `#anthropic` | Anthropic | 70 |
+| `#energy-climate` | Energy & climate | 66 |
+| `#biotech-medicine` | Biotech & medicine | 63 |
 | `#science` | Science | 33 |
 | `#labor-economy` | Labor & economy | 32 |
 | `#cybersecurity` | Cybersecurity | 30 |
@@ -28,24 +28,37 @@ plus occasional stand-alone essay videos.
 | `#agents` | AI agents | 24 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 21 |
-| `#legal-courts` | Legal & courts | 19 |
-| `#markets-finance` | Markets & finance | 18 |
+| `#legal-courts` | Legal & courts | 20 |
+| `#markets-finance` | Markets & finance | 19 |
 | `#robotics` | Robotics | 18 |
 | `#open-models` | Open models | 16 |
 | `#compute-infrastructure` | Compute infrastructure | 15 |
 | `#export-controls` | Export controls | 15 |
 | `#society-culture` | Society & culture | 15 |
 | `#google-deepmind` | Google / DeepMind | 14 |
-| `#xai-musk` | xAI / Musk | 11 |
-| `#meta` | Meta | 9 |
+| `#xai-musk` | xAI / Musk | 12 |
+| `#meta` | Meta | 10 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 125 because most episodes carry several tags.
+> Counts sum to more than 126 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-11 — Frontier Labs Look for Ways to Profit Beyond Subscription Pricing
+`#anthropic` `#markets-finance` `#xai-musk` `#meta` `#biotech-medicine` `#legal-courts` `#energy-climate` · [watch](https://www.youtube.com/watch?v=YRu8dGMQfvY) · 18 min
+
+Lab competition flipped from capability to price, as Anthropic became the first to fence a consumer model behind usage fees.
+
+- **Anthropic** — meters Claude Fable 5 behind API-rate usage fees starting July 12, citing compute constraints, and appears to be the first frontier lab to put a consumer model behind metered pricing; Meta opens a paid Muse Spark tier and Hugging Face reaches roughly half the Fortune 500
+- **xAI / Musk** — orders Tesla staff onto Grok at ~1/12th of Fable's cost while admitting Fable is better, exempting his own model from the spending cap rivals face
+- **SK Hynix / Micron** — SK Hynix raises $26.5B in the largest-ever US IPO by a non-American company and Micron lifts its US commitment to $250B, as the scarce AI input rotates from GPUs to memory
+- **Apple v. OpenAI** — Apple sues OpenAI over trade secrets tied to roughly 400 departed employees
+- **OpenAI** — safety-systems and chief-futurist leaders exit amid a faster training cadence
+- **Sunrun** — pays homeowners to host AI inference nodes across 1.1 million solar-and-battery homes, routing revenue to households
+- **Cancer / gene editing** — a LAG-3 combination lifts recurrent-glioblastoma 12-month survival to 52%, a liposomal KRAS-G12D inhibitor drives a 63% pancreatic response, and a virus-like particle edits liver, cholesterol gene, and retina from one injection with no detected off-targets
 
 ### 2026-07-10 — The Frontier Ships in Bulk: GPT-5.6, Grok 4.5, Muse Spark 1.1 All Ship Within 2 Days
 `#openai` `#agents` `#xai-musk` `#meta` `#biotech-medicine` `#legal-courts` · [watch](https://www.youtube.com/watch?v=wpqvU5QIejQ) · 15 min
