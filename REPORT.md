@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 126
-- **Date range:** Mar 7, 2026 → Jul 11, 2026
-- **Last updated:** 2026-07-12
+- **Videos summarized:** 127
+- **Date range:** Mar 7, 2026 → Jul 12, 2026
+- **Last updated:** 2026-07-13
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,16 +18,16 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 70 |
-| `#energy-climate` | Energy & climate | 66 |
+| `#energy-climate` | Energy & climate | 67 |
 | `#biotech-medicine` | Biotech & medicine | 63 |
-| `#science` | Science | 33 |
+| `#science` | Science | 34 |
 | `#labor-economy` | Labor & economy | 32 |
 | `#cybersecurity` | Cybersecurity | 30 |
-| `#openai` | OpenAI | 27 |
-| `#policy-regulation` | Policy & regulation | 27 |
-| `#agents` | AI agents | 24 |
+| `#openai` | OpenAI | 28 |
+| `#policy-regulation` | Policy & regulation | 28 |
+| `#agents` | AI agents | 25 |
 | `#safety-alignment` | Safety & alignment | 23 |
-| `#chips` | Chips / semiconductors | 21 |
+| `#chips` | Chips / semiconductors | 22 |
 | `#legal-courts` | Legal & courts | 20 |
 | `#markets-finance` | Markets & finance | 19 |
 | `#robotics` | Robotics | 18 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 126 because most episodes carry several tags.
+> Counts sum to more than 127 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-12 — One AI teaches math to check itself while another writes a 50-year proof in an hour
+`#openai` `#science` `#agents` `#policy-regulation` `#chips` `#energy-climate` · [watch](https://www.youtube.com/watch?v=2AYDYC5ZjQE) · 14 min
+
+OpenAI claimed GPT-5.6 Sol Ultra proved the 50-year-old Cycle Double Cover Conjecture in under an hour, while Britain put the four big cloud providers under public financial oversight.
+
+- **OpenAI** — publishes a proof and prompt for the 1973 Cycle Double Cover Conjecture that it says GPT-5.6 Sol Ultra generated in under an hour, using a system allowed to run up to 64 parallel subagents with adversarial threads assigned to break each candidate step; it remains a lab claim until mathematicians finish checking it
+- **Formal verification** — London researchers double a machine-checkable Fermat's Last Theorem proof to 40,000 lines of Lean, building exactly the verification layer that would let anyone check claims like OpenAI's
+- **UK regulators** — the Bank of England and FCA gain direct oversight of the UK cloud arms of Amazon, Google, Microsoft, and Oracle from Monday, designating them critical financial infrastructure
+- **SK Hynix** — forecasts 2027 as the worst memory shortage on record, with demand outstripping supply beyond 2030
+- **BYD** — wins the 11.275 GWh storage contract for Masdar's Abu Dhabi plant, the largest 24-hour clean-power facility ever contracted, engineered to dispatch a continuous gigawatt with a bid pricing round-the-clock clean power below the alternatives
+- **US grid** — newly added wind, solar, hydropower, and discharging EVs help carry record heat-wave demand in several regions, leaving emergency data-center curtailment authority unused
 
 ### 2026-07-11 — Frontier Labs Look for Ways to Profit Beyond Subscription Pricing
 `#anthropic` `#markets-finance` `#xai-musk` `#meta` `#biotech-medicine` `#legal-courts` `#energy-climate` · [watch](https://www.youtube.com/watch?v=YRu8dGMQfvY) · 18 min
