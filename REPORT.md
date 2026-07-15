@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 127
-- **Date range:** Mar 7, 2026 → Jul 12, 2026
-- **Last updated:** 2026-07-13
+- **Videos summarized:** 129
+- **Date range:** Mar 7, 2026 → Jul 14, 2026
+- **Last updated:** 2026-07-15
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,59 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 70 |
-| `#energy-climate` | Energy & climate | 67 |
-| `#biotech-medicine` | Biotech & medicine | 63 |
+| `#anthropic` | Anthropic | 71 |
+| `#energy-climate` | Energy & climate | 69 |
+| `#biotech-medicine` | Biotech & medicine | 64 |
 | `#science` | Science | 34 |
-| `#labor-economy` | Labor & economy | 32 |
-| `#cybersecurity` | Cybersecurity | 30 |
+| `#labor-economy` | Labor & economy | 34 |
+| `#cybersecurity` | Cybersecurity | 31 |
+| `#policy-regulation` | Policy & regulation | 30 |
 | `#openai` | OpenAI | 28 |
-| `#policy-regulation` | Policy & regulation | 28 |
-| `#agents` | AI agents | 25 |
+| `#agents` | AI agents | 26 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 22 |
-| `#legal-courts` | Legal & courts | 20 |
-| `#markets-finance` | Markets & finance | 19 |
+| `#legal-courts` | Legal & courts | 21 |
+| `#markets-finance` | Markets & finance | 20 |
 | `#robotics` | Robotics | 18 |
 | `#open-models` | Open models | 16 |
-| `#compute-infrastructure` | Compute infrastructure | 15 |
-| `#export-controls` | Export controls | 15 |
+| `#compute-infrastructure` | Compute infrastructure | 16 |
+| `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 15 |
 | `#google-deepmind` | Google / DeepMind | 14 |
 | `#xai-musk` | xAI / Musk | 12 |
-| `#meta` | Meta | 10 |
+| `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 127 because most episodes carry several tags.
+> Counts sum to more than 129 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-14 — Economists and AI Lab leaders converge as AI reshapes the job ladder
+`#labor-economy` `#policy-regulation` `#meta` `#compute-infrastructure` `#energy-climate` `#cybersecurity` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=FbwDbXe-BwA) · 20 min
+
+More than 200 economists, 16 Nobel laureates, and leaders from OpenAI, Google DeepMind, and Anthropic signed an 88-word statement urging policymakers to act on AI and jobs, while New York became the first state to freeze new hyperscale data-center permits.
+
+- **AI-jobs statement** — economists and frontier-lab leaders who agree on little converge on one message: the AI surplus is arriving faster than the rules for sharing it; Stanford's Canaries Dashboard shows early-career workers in exposed fields down 2.7% even as developer postings climb 15% and demand senior experience
+- **New York** — enacts the first statewide moratorium on environmental permits for hyperscale data centers over 50 MW and opens a review of the tax breaks that subsidized them, while six states pass binding cost-allocation rules
+- **Meta** — more than doubles its Louisiana Hyperion campus to 5 GW and up to $50B, wired to seven new power plants, racing ahead of local governance
+- **Microsoft** — Nadella warns proprietary-model users may end up "paying twice"
+- **Tracebit** — a "context bombing" defense turns attacking agents' own guardrails against them, cutting full-system seizures from 57% to 5%
+- **Biotech** — MIT grows branching blood vessels by jostling them with a magnet, and the ProLM plasma-protein model reads 16 chronic diseases up to 15 years before diagnosis
+
+### 2026-07-13 — AI Data Centers Challenged to Pay Their Own Way
+`#energy-climate` `#markets-finance` `#legal-courts` `#policy-regulation` `#labor-economy` `#export-controls` `#anthropic` `#agents` · [watch](https://www.youtube.com/watch?v=-c6MVaGoN4o) · 16 min
+
+Costs the AI buildout spent years externalizing got pulled back onto the balance sheets that generate them, as lawsuits, grid caps, and new legislation pushed data centers to pay their own way.
+
+- **Big Tech finances** — the five companies driving the buildout double their combined debt to $350B, while Microsoft, Amazon, and Google's reported combined annual emissions near a third of France's output
+- **Data-center pushback** — a Wisconsin lawsuit challenges permits for a $15B Vantage/Oracle/OpenAI campus issued without full environmental review, a federal AI Accountability Agenda introduces legislation forcing data centers to finance their own clean power, and an Amsterdam grid cap limits Equinix's new campus to a quarter of its permitted power through 2036
+- **Software engineering** — Google reports 75% of its new code is AI-generated as engineers climb into review and architecture roles, while layoffs settle into a recurring cadence at profitable firms like Microsoft and Cisco
+- **Export controls** — the US loosens Nvidia chip exports to the UAE, moving it into a tier otherwise reserved for NATO allies
+- **Anthropic** — ships a sandboxed autonomous browser inside Claude Code that can navigate and transact on live sites
+- **Agent liability** — a Harvard Law lecturer proposes a dog-breed liability model for sorting out who answers when an agent causes harm
 
 ### 2026-07-12 — One AI teaches math to check itself while another writes a 50-year proof in an hour
 `#openai` `#science` `#agents` `#policy-regulation` `#chips` `#energy-climate` · [watch](https://www.youtube.com/watch?v=2AYDYC5ZjQE) · 14 min
