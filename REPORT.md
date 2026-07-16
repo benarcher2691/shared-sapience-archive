@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 129
-- **Date range:** Mar 7, 2026 → Jul 14, 2026
-- **Last updated:** 2026-07-15
+- **Videos summarized:** 130
+- **Date range:** Mar 7, 2026 → Jul 15, 2026
+- **Last updated:** 2026-07-16
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 71 |
-| `#energy-climate` | Energy & climate | 69 |
+| `#energy-climate` | Energy & climate | 70 |
 | `#biotech-medicine` | Biotech & medicine | 64 |
 | `#science` | Science | 34 |
-| `#labor-economy` | Labor & economy | 34 |
+| `#labor-economy` | Labor & economy | 35 |
 | `#cybersecurity` | Cybersecurity | 31 |
 | `#policy-regulation` | Policy & regulation | 30 |
-| `#openai` | OpenAI | 28 |
+| `#openai` | OpenAI | 29 |
 | `#agents` | AI agents | 26 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 22 |
-| `#legal-courts` | Legal & courts | 21 |
-| `#markets-finance` | Markets & finance | 20 |
+| `#legal-courts` | Legal & courts | 22 |
+| `#markets-finance` | Markets & finance | 21 |
 | `#robotics` | Robotics | 18 |
-| `#open-models` | Open models | 16 |
+| `#open-models` | Open models | 17 |
 | `#compute-infrastructure` | Compute infrastructure | 16 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 15 |
-| `#google-deepmind` | Google / DeepMind | 14 |
-| `#xai-musk` | xAI / Musk | 12 |
+| `#google-deepmind` | Google / DeepMind | 15 |
+| `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 129 because most episodes carry several tags.
+> Counts sum to more than 130 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-15 — Apple is escalating its lawsuit against OpenAI over AI devices, open models increasingly preferred
+`#openai` `#legal-courts` `#google-deepmind` `#labor-economy` `#markets-finance` `#open-models` `#xai-musk` `#energy-climate` · [watch](https://www.youtube.com/watch?v=euu-Bu04m64) · 16 min
+
+Apple hardened its trade-secret suit against OpenAI as reports described a screenless voice-first speaker targeted for 2027, book publishers sued Google over Gemini training, and IBM shed more than a quarter of its value as corporate spend rotated from software to AI infrastructure.
+
+- **Apple v. OpenAI** — Apple escalates the trade-secret fight over device expertise held by roughly 400 engineers who departed for OpenAI; OpenAI calls the suit meritless while reportedly building toward a lineup of around five devices led by a screenless conversational speaker targeted for 2027
+- **Publishers v. Google** — book publishers including Elsevier and authors like Scott Turow sue Google over Gemini training on copyrighted works, while Microsoft publicly sketches attribution plumbing to route value back to sources
+- **IBM** — loses about 25% of its value in a single session as corporate spend rotates from software to AI infrastructure; Thomson Reuters cuts 500 engineers and 26 Meta workers sue over AI-run layoffs
+- **Open models** — Chinese open-weight models account for 41% of measured downloads in Hugging Face's Spring 2026 report and hold the top six spots in a recent OpenRouter token ranking; Reflection signs a $1B Nebius deal, with the chokepoint sliding down to Nvidia silicon
+- **xAI / energy** — xAI buys a $1B gas-turbine fleet to feed Grok as utilities seek $9.2B in rate hikes and Pennsylvania begins metering data-center water and power
+- **Governance** — Anthropic and OpenAI publicly split on AI governance approaches
 
 ### 2026-07-14 — Economists and AI Lab leaders converge as AI reshapes the job ladder
 `#labor-economy` `#policy-regulation` `#meta` `#compute-infrastructure` `#energy-climate` `#cybersecurity` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=FbwDbXe-BwA) · 20 min
