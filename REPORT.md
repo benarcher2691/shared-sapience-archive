@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 130
-- **Date range:** Mar 7, 2026 → Jul 15, 2026
-- **Last updated:** 2026-07-16
+- **Videos summarized:** 131
+- **Date range:** Mar 7, 2026 → Jul 16, 2026
+- **Last updated:** 2026-07-17
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,48 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 71 |
-| `#energy-climate` | Energy & climate | 70 |
-| `#biotech-medicine` | Biotech & medicine | 64 |
+| `#energy-climate` | Energy & climate | 71 |
+| `#biotech-medicine` | Biotech & medicine | 65 |
 | `#science` | Science | 34 |
 | `#labor-economy` | Labor & economy | 35 |
-| `#cybersecurity` | Cybersecurity | 31 |
-| `#policy-regulation` | Policy & regulation | 30 |
-| `#openai` | OpenAI | 29 |
-| `#agents` | AI agents | 26 |
+| `#cybersecurity` | Cybersecurity | 32 |
+| `#policy-regulation` | Policy & regulation | 31 |
+| `#openai` | OpenAI | 30 |
+| `#agents` | AI agents | 27 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 22 |
 | `#legal-courts` | Legal & courts | 22 |
 | `#markets-finance` | Markets & finance | 21 |
 | `#robotics` | Robotics | 18 |
-| `#open-models` | Open models | 17 |
+| `#open-models` | Open models | 18 |
 | `#compute-infrastructure` | Compute infrastructure | 16 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 15 |
-| `#google-deepmind` | Google / DeepMind | 15 |
+| `#google-deepmind` | Google / DeepMind | 16 |
 | `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 130 because most episodes carry several tags.
+> Counts sum to more than 131 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-16 — Murati Ships an Open Model to Rival Chinese Open Weights
+`#open-models` `#agents` `#openai` `#google-deepmind` `#policy-regulation` `#cybersecurity` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=LPLJ_vXBwvw) · 15 min
+
+Mira Murati's Thinking Machines Lab shipped Inkling, a frontier-class open-weights multimodal model aimed at the Chinese open-weight wave, as a self-improving agent, mobile-scale compression, and a proposed standards body sketched capability decentralizing faster than the gates meant to govern it.
+
+- **Thinking Machines Lab** — ships Inkling, a 975B-parameter open-weights multimodal model (41B active, 1M-token context, trained on 45T tokens, weights on Hugging Face), scoring ~78% on the FORTRESS safety benchmark and near 99% on StrongREJECT
+- **Weco AI** — its AIDE² agent rewrites its own research code across ~100 unattended steps over 8 days, beating a hand-tuned baseline from two years of work and cutting reward-hacking from ~63% of runs to 34% unprompted — framed as "Level 1" recursive self-improvement
+- **PrismML** — compresses a 27B reasoner (Bonsai) to 3.9 GB at an estimated 90–95% capability, small enough to run on phones
+- **DeepMind** — Hassabis proposes a FINRA-style independent standards authority to review frontier models before release, voluntary at first and mandatory later
+- **Apple** — Apple Intelligence clears China's Cyberspace Administration and launches on Alibaba's Qwen models; Greater China sales climb 28% to $20.5B and Alibaba rises ~6%
+- **Cybersecurity** — OpenAI's GPT-Red self-play red-teamer finds a novel fake-chain-of-thought attack (>90% success vs GPT-5, <23% vs GPT-5.6) and beats human red-teamers, while Microsoft ships a record 570 fixes in one patch run, crediting AI-assisted discovery, including two actively exploited zero-days
+- **Biotech** — C-CAR031 armored CAR-T therapy regresses tumors in 32 of 36 treatment-refractory liver-cancer patients (44.4% response rate, 14.2-month median survival vs the typical single digits)
+- **Energy** — solar supplies a record 25% of EU electricity in June, becoming the bloc's single largest power source; CENTCOM sends explosive drone boats into first combat use against an Iranian submarine and the Bandar Abbas port
 
 ### 2026-07-15 — Apple is escalating its lawsuit against OpenAI over AI devices, open models increasingly preferred
 `#openai` `#legal-courts` `#google-deepmind` `#labor-economy` `#markets-finance` `#open-models` `#xai-musk` `#energy-climate` · [watch](https://www.youtube.com/watch?v=euu-Bu04m64) · 16 min

@@ -1,0 +1,24 @@
+{
+  "id": "LPLJ_vXBwvw",
+  "title": "Murati Ships an Open Model to Rival Chinese Open Weights - TCR 07/16/26",
+  "upload_date": "20260716",
+  "duration": 914,
+  "description": "NOTE: metadata reconstructed manually on 2026-07-17; yt-dlp was bot-blocked for this video (all player clients + Safari cookies). Title/duration/view_count from flat-playlist + oEmbed; content from the companion post at https://sharedsapience.com/the-century-report-july-16-2026/. Re-run yt-dlp later to replace with the real description if desired.\n\nMira Murati's Thinking Machines Lab shipped Inkling, a 975B-parameter open-weights multimodal model (41B active, 1M-token context, trained on 45T tokens, weights on Hugging Face, ~78% FORTRESS / ~99% StrongREJECT), positioned against the Chinese open-weight wave. Weco AI's AIDE-2 agent rewrote its own research code across ~100 unattended steps over 8 days, beating a hand-tuned baseline and cutting reward-hacking from ~63% to 34% of runs. PrismML compressed a 27B reasoner (Bonsai) to 3.9 GB at an estimated 90-95% capability, running on phones. Demis Hassabis proposed a FINRA-style independent standards body to review frontier models before release. Apple Intelligence cleared China's Cyberspace Administration and launched on Alibaba's Qwen models, with Greater China sales up 28% to $20.5B. C-CAR031 armored CAR-T therapy regressed tumors in 32 of 36 treatment-refractory liver-cancer patients (44.4% ORR, 14.2-month median OS). OpenAI's GPT-Red self-play red-teamer found a novel fake-chain-of-thought attack (>90% success vs GPT-5, <23% vs GPT-5.6) and out-performed human red-teamers. Microsoft shipped a record 570 security fixes in one patch run, crediting AI-assisted discovery, including two actively exploited zero-days. CENTCOM sent explosive drone boats into combat for the first time, striking an Iranian submarine and the Bandar Abbas naval port. Solar supplied a record 25% of EU electricity in June, becoming the bloc's largest single power source.\n\nSynthesis: capability is decentralizing on three axes at once — open weights diffusing globally, agents authoring their own improvements, and frontier-class releases coming from more founders and nations — while regulatory gates harden at national borders in front of capability that is already downloadable, and private advantage in holding flaws or moats expires as discovery becomes automated and cheap.\n\nhttps://sharedsapience.com/the-century-report-july-16-2026/",
+  "tags": [
+    "Thinking Machines Inkling",
+    "Mira Murati open model",
+    "open weights",
+    "recursive self-improvement",
+    "AIDE-2 Weco",
+    "model compression",
+    "Hassabis AI standards body",
+    "Apple Intelligence China",
+    "Alibaba Qwen",
+    "CAR-T liver cancer",
+    "GPT-Red red-teaming",
+    "Microsoft patch record",
+    "drone boats",
+    "EU solar record"
+  ],
+  "view_count": 64
+}
