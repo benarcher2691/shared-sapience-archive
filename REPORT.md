@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 131
-- **Date range:** Mar 7, 2026 → Jul 16, 2026
-- **Last updated:** 2026-07-17
+- **Videos summarized:** 132
+- **Date range:** Mar 7, 2026 → Jul 17, 2026
+- **Last updated:** 2026-07-18
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,47 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 71 |
-| `#energy-climate` | Energy & climate | 71 |
-| `#biotech-medicine` | Biotech & medicine | 65 |
+| `#energy-climate` | Energy & climate | 72 |
+| `#biotech-medicine` | Biotech & medicine | 66 |
 | `#science` | Science | 34 |
-| `#labor-economy` | Labor & economy | 35 |
+| `#labor-economy` | Labor & economy | 36 |
 | `#cybersecurity` | Cybersecurity | 32 |
-| `#policy-regulation` | Policy & regulation | 31 |
+| `#policy-regulation` | Policy & regulation | 32 |
 | `#openai` | OpenAI | 30 |
 | `#agents` | AI agents | 27 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 22 |
-| `#legal-courts` | Legal & courts | 22 |
+| `#legal-courts` | Legal & courts | 23 |
 | `#markets-finance` | Markets & finance | 21 |
-| `#robotics` | Robotics | 18 |
-| `#open-models` | Open models | 18 |
+| `#robotics` | Robotics | 19 |
+| `#open-models` | Open models | 19 |
 | `#compute-infrastructure` | Compute infrastructure | 16 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 15 |
-| `#google-deepmind` | Google / DeepMind | 16 |
+| `#google-deepmind` | Google / DeepMind | 17 |
 | `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 131 because most episodes carry several tags.
+> Counts sum to more than 132 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-17 — Brussels Court Orders Google to Open Anonymized User Search and Click Data to Rivals
+`#policy-regulation` `#legal-courts` `#google-deepmind` `#biotech-medicine` `#open-models` `#energy-climate` `#robotics` `#labor-economy` · [watch](https://www.youtube.com/watch?v=BE4h8KBasJ4) · 19 min
+
+Boundaries the field had treated as permanent floors cracked at once: the EU forced Google to share search data and open Android, a neural bypass restored movement that persisted with the implant off, and AI-designed enzymes out-edited natural CRISPR.
+
+- **EU / Google** — two binding DMA decisions require Google to share certain anonymized query-and-click data with rival search providers and to open Android to rival AI assistants by 2027, letting assistants compete on the quality of the answer
+- **Neurotech** — Feinstein Institutes researchers restore arm movement and touch to Keith Thomas, paralyzed six years, via a double neural bypass; the gains hold through a forced three-month pause with the implant off, pointing to genuine neuroplastic rewiring
+- **Gene editing** — some AI-designed synthetic enzymes edit human genes more efficiently than natural CRISPR proteins in a new Science paper, alongside minimal RNA-guided nucleases small enough to ease delivery
+- **Grid / data centers** — FERC directs NERC to develop mandatory reliability standards that could register large data centers as accountable grid entities, while PJM stakeholders push those loads to fund their own generation and Virginia weighs making them cover transmission costs
+- **Hyundai** — Ulsan workers schedule strikes to decouple pay from the hours 25,000 Atlas humanoid robots are slated to absorb by 2028
+- **Ant Group** — scales zero-label reinforcement learning to a trillion open-weight parameters; the model spontaneously learns to watch its own context window and ration its reasoning
+- **TSMC** — commits another $100B for four more Arizona fabs, raising its US buildout to $265B
 
 ### 2026-07-16 — Murati Ships an Open Model to Rival Chinese Open Weights
 `#open-models` `#agents` `#openai` `#google-deepmind` `#policy-regulation` `#cybersecurity` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=LPLJ_vXBwvw) · 15 min
