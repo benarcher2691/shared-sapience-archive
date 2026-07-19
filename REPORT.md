@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 132
-- **Date range:** Mar 7, 2026 → Jul 17, 2026
-- **Last updated:** 2026-07-18
+- **Videos summarized:** 133
+- **Date range:** Mar 7, 2026 → Jul 18, 2026
+- **Last updated:** 2026-07-19
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,45 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 71 |
-| `#energy-climate` | Energy & climate | 72 |
-| `#biotech-medicine` | Biotech & medicine | 66 |
-| `#science` | Science | 34 |
+| `#energy-climate` | Energy & climate | 73 |
+| `#biotech-medicine` | Biotech & medicine | 67 |
+| `#science` | Science | 35 |
 | `#labor-economy` | Labor & economy | 36 |
-| `#cybersecurity` | Cybersecurity | 32 |
-| `#policy-regulation` | Policy & regulation | 32 |
+| `#cybersecurity` | Cybersecurity | 33 |
+| `#policy-regulation` | Policy & regulation | 33 |
 | `#openai` | OpenAI | 30 |
-| `#agents` | AI agents | 27 |
+| `#agents` | AI agents | 28 |
 | `#safety-alignment` | Safety & alignment | 23 |
 | `#chips` | Chips / semiconductors | 22 |
 | `#legal-courts` | Legal & courts | 23 |
 | `#markets-finance` | Markets & finance | 21 |
 | `#robotics` | Robotics | 19 |
-| `#open-models` | Open models | 19 |
+| `#open-models` | Open models | 20 |
 | `#compute-infrastructure` | Compute infrastructure | 16 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 15 |
-| `#google-deepmind` | Google / DeepMind | 17 |
+| `#google-deepmind` | Google / DeepMind | 18 |
 | `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 132 because most episodes carry several tags.
+> Counts sum to more than 133 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-18 — Open-Weights Kimi K3 Releases to Everyone As the NSF Restricts Scientific Discovery
+`#open-models` `#agents` `#cybersecurity` `#google-deepmind` `#policy-regulation` `#science` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=ab6khpQ7LIk) · 22 min
+
+Capability refused to stay scarce at the exact moment the walls went up: Moonshot's 2.8-trillion-parameter open-weight Kimi K3 landed as new NSF rules fenced off most US-China research collaboration.
+
+- **Moonshot AI** — releases Kimi K3, a 2.8T-parameter open-weight model from a 300-person lab with a million-token context window that beats Opus 4.8 max and GPT-5.5 high across most of Simon Willison's test set and matches Fable 5 on KernelBench-Hard at writing GPU kernels — a recursive loop pointing toward cheaper compute; rival labs Zhipu and MiniMax drop 27% and 16% on the release
+- **Enterprise agents** — three VentureBeat surveys find half of teams shipping agents that passed every test then failed a real customer, with scoped-identity discipline cutting security-incident rates from 63.5% to 40.9%
+- **Merck** — the FDA approves Lipfendra, the first oral cholesterol pill to match injectable efficacy against the leading US killer; AstraZeneca has its own oral drug in development
+- **Google** — anchors and finances Steel River, the largest US solar-plus-storage project, a 2.5 GW center in Arkansas, to internalize its compute demand
+- **NSF** — new restrictions bar most NSF-funded research collaboration with China — a bet that discovery can be geographically contained just as an open model proves it cannot
 
 ### 2026-07-17 — Brussels Court Orders Google to Open Anonymized User Search and Click Data to Rivals
 `#policy-regulation` `#legal-courts` `#google-deepmind` `#biotech-medicine` `#open-models` `#energy-climate` `#robotics` `#labor-economy` · [watch](https://www.youtube.com/watch?v=BE4h8KBasJ4) · 19 min
