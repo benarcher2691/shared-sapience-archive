@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 134
-- **Date range:** Mar 7, 2026 → Jul 19, 2026
+- **Videos summarized:** 135
+- **Date range:** Mar 7, 2026 → Jul 20, 2026
 - **Last updated:** 2026-07-20
 - **How to update / search:** see [README.md](README.md)
 
@@ -19,33 +19,44 @@ plus occasional stand-alone essay videos.
 |---|---|---:|
 | `#anthropic` | Anthropic | 71 |
 | `#energy-climate` | Energy & climate | 74 |
-| `#biotech-medicine` | Biotech & medicine | 68 |
-| `#science` | Science | 35 |
-| `#labor-economy` | Labor & economy | 36 |
+| `#biotech-medicine` | Biotech & medicine | 69 |
+| `#science` | Science | 36 |
+| `#labor-economy` | Labor & economy | 37 |
 | `#cybersecurity` | Cybersecurity | 33 |
 | `#policy-regulation` | Policy & regulation | 34 |
 | `#openai` | OpenAI | 30 |
 | `#agents` | AI agents | 28 |
-| `#safety-alignment` | Safety & alignment | 24 |
-| `#chips` | Chips / semiconductors | 23 |
+| `#safety-alignment` | Safety & alignment | 25 |
+| `#chips` | Chips / semiconductors | 24 |
 | `#legal-courts` | Legal & courts | 23 |
-| `#markets-finance` | Markets & finance | 22 |
+| `#markets-finance` | Markets & finance | 23 |
 | `#robotics` | Robotics | 19 |
-| `#open-models` | Open models | 21 |
+| `#open-models` | Open models | 22 |
 | `#compute-infrastructure` | Compute infrastructure | 17 |
 | `#export-controls` | Export controls | 16 |
-| `#society-culture` | Society & culture | 15 |
+| `#society-culture` | Society & culture | 16 |
 | `#google-deepmind` | Google / DeepMind | 18 |
 | `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 134 because most episodes carry several tags.
+> Counts sum to more than 135 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-20 — Bezos Backs an AI That Designs Rare Metals Away
+`#science` `#open-models` `#chips` `#markets-finance` `#safety-alignment` `#society-culture` `#labor-economy` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=sT4SSzGRWWs) · 23 min
+
+Dependencies lost their grip the moment substitutes appeared: CuspAI raised $450M to design the contested minerals out of magnets and catalysts, while Alibaba open-sourced a software stack aimed at Nvidia's CUDA moat.
+
+- **CuspAI** — raises $450M from Jeff Bezos and the UK sovereign fund to generate candidate materials that build the magnets and catalysts the compute buildout needs from abundant elements, treating mineral scarcity itself as the problem to dissolve — even as the US House fast-tracks bills to mine more of those same metals
+- **Open frontier** — Alibaba's T-Head open-sources its SAIL software stack to erode Nvidia's CUDA moat, Nanjing University's open-weight VideoChat3 reportedly beats GPT-5 and Gemini 2.5 Flash on all three TimeLens video-grounding splits, Moonshot clears its path to a Hong Kong IPO, and the UK safety institute puts the open-weight gap at four to seven months
+- **Machine consciousness** — the could-AI-be-conscious question moves from philosophy into lab design documents, with a framework arriving earlier than the field expected
+- **Creative labor** — the force splits: one person in Istanbul ships games a dozen developers once built, even as junior rungs thin into a "silenced generation"
+- **KAIST** — finds anti-CTLA-4 immunotherapy against glioma depends on a B-cell antibody response in the deep cervical lymph nodes, relocating the brain-tumor immune fight to a defense the body was already mounting unnoticed
 
 ### 2026-07-19 — Xi Jinping's 29-Nation Open AI Bloc vs Washington's Closed-Model Gatekeeper
 `#open-models` `#policy-regulation` `#safety-alignment` `#chips` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=Ad_pkOMZRw4) · 22 min
