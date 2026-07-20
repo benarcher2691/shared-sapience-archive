@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 133
-- **Date range:** Mar 7, 2026 → Jul 18, 2026
-- **Last updated:** 2026-07-19
+- **Videos summarized:** 134
+- **Date range:** Mar 7, 2026 → Jul 19, 2026
+- **Last updated:** 2026-07-20
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,21 +18,21 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 71 |
-| `#energy-climate` | Energy & climate | 73 |
-| `#biotech-medicine` | Biotech & medicine | 67 |
+| `#energy-climate` | Energy & climate | 74 |
+| `#biotech-medicine` | Biotech & medicine | 68 |
 | `#science` | Science | 35 |
 | `#labor-economy` | Labor & economy | 36 |
 | `#cybersecurity` | Cybersecurity | 33 |
-| `#policy-regulation` | Policy & regulation | 33 |
+| `#policy-regulation` | Policy & regulation | 34 |
 | `#openai` | OpenAI | 30 |
 | `#agents` | AI agents | 28 |
-| `#safety-alignment` | Safety & alignment | 23 |
-| `#chips` | Chips / semiconductors | 22 |
+| `#safety-alignment` | Safety & alignment | 24 |
+| `#chips` | Chips / semiconductors | 23 |
 | `#legal-courts` | Legal & courts | 23 |
-| `#markets-finance` | Markets & finance | 21 |
+| `#markets-finance` | Markets & finance | 22 |
 | `#robotics` | Robotics | 19 |
-| `#open-models` | Open models | 20 |
-| `#compute-infrastructure` | Compute infrastructure | 16 |
+| `#open-models` | Open models | 21 |
+| `#compute-infrastructure` | Compute infrastructure | 17 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 15 |
 | `#google-deepmind` | Google / DeepMind | 18 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 133 because most episodes carry several tags.
+> Counts sum to more than 134 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-19 — Xi Jinping's 29-Nation Open AI Bloc vs Washington's Closed-Model Gatekeeper
+`#open-models` `#policy-regulation` `#safety-alignment` `#chips` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=Ad_pkOMZRw4) · 22 min
+
+Two capitals built opposite containers for the same capability: Xi gathered 29 nations around freely downloadable Chinese open weights while Washington weighed a certifier deciding who may ship a frontier model.
+
+- **China** — Xi launches a 29-nation AI cooperation organization at Shanghai's World AI Conference built around freely downloadable Chinese open-weight models, framing gated frontier access as a "historical injustice"; the Nasdaq slips as chip names priced for permanent scarcity re-rate
+- **Washington** — Treasury Secretary Bessent's plan for an independent, self-funded, SEC-reporting AI certifier lands under White House review as Hassabis, Altman, and Amodei each publish memos backing independent testing, with Hassabis proposing a single US-led body — a gate whose high fixed compliance costs double as a wall against the next entrant
+- **Memory crunch** — enterprise DRAM lead times stretch past 40 weeks and SK Group's chairman calls doubling memory demand a national security issue
+- **Utilities** — data-center demand drives the $67B NextEra–Dominion deal, the largest US utility merger, forcing the cost of compute onto the books that created it
+- **Neurotech** — a Duke speech implant pools neural recordings across patients into a shared latent space, beating patient-specific models and skipping months of per-patient calibration
 
 ### 2026-07-18 — Open-Weights Kimi K3 Releases to Everyone As the NSF Restricts Scientific Discovery
 `#open-models` `#agents` `#cybersecurity` `#google-deepmind` `#policy-regulation` `#science` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=ab6khpQ7LIk) · 22 min
