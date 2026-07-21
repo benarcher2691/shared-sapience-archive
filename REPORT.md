@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 135
-- **Date range:** Mar 7, 2026 → Jul 20, 2026
-- **Last updated:** 2026-07-20
+- **Videos summarized:** 136
+- **Date range:** Mar 7, 2026 → Jul 21, 2026
+- **Last updated:** 2026-07-21
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,21 +17,21 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 71 |
-| `#energy-climate` | Energy & climate | 74 |
-| `#biotech-medicine` | Biotech & medicine | 69 |
-| `#science` | Science | 36 |
+| `#anthropic` | Anthropic | 72 |
+| `#energy-climate` | Energy & climate | 75 |
+| `#biotech-medicine` | Biotech & medicine | 70 |
+| `#science` | Science | 37 |
 | `#labor-economy` | Labor & economy | 37 |
 | `#cybersecurity` | Cybersecurity | 33 |
-| `#policy-regulation` | Policy & regulation | 34 |
+| `#policy-regulation` | Policy & regulation | 35 |
 | `#openai` | OpenAI | 30 |
 | `#agents` | AI agents | 28 |
 | `#safety-alignment` | Safety & alignment | 25 |
-| `#chips` | Chips / semiconductors | 24 |
-| `#legal-courts` | Legal & courts | 23 |
+| `#chips` | Chips / semiconductors | 25 |
+| `#legal-courts` | Legal & courts | 24 |
 | `#markets-finance` | Markets & finance | 23 |
 | `#robotics` | Robotics | 19 |
-| `#open-models` | Open models | 22 |
+| `#open-models` | Open models | 23 |
 | `#compute-infrastructure` | Compute infrastructure | 17 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 16 |
@@ -41,11 +41,24 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 135 because most episodes carry several tags.
+> Counts sum to more than 136 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-21 — Fable 5 Takes the Math Crown, Cracking the Hardest Problem Yet
+`#anthropic` `#science` `#open-models` `#policy-regulation` `#legal-courts` `#chips` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=4CnFTzqQpdc) · 20 min
+
+A Harvard researcher used Claude Fable 5 to disprove the 87-year-old three-variable Jacobian conjecture with a 216-character counterexample, as Anthropic's record copyright settlement got final approval and Kimi K3 fractured US open-weight policy.
+
+- **Mathematics** — Harvard's Levent Alpöge uses Claude Fable 5 to generate a 216-character counterexample disproving the three-variable Jacobian conjecture, posed by Keller in 1939 and on Smale's 1998 list of great open problems; Fields medalist Timothy Gowers calls it the first language-model result he had "very definitely heard of," and GPT-5.6 separately proposes a refined replacement conjecture
+- **Open-weight politics** — Kimi K3 triggers open conflict among Trump administration AI advisers, with OpenAI's Dean Ball floating then retracting a plan to "manufacture regulatory fear around open-weight models" and the administration weighing a ban on Chinese open weights, while Moonshot pauses subscriptions under demand strain ahead of its Hong Kong IPO
+- **Anthropic** — a federal judge gives final approval to the $1.5B copyright settlement, the largest publicly reported in US history at roughly $3,000 per book across ~500,000 pirated works; it prices piracy, not fair use, and suits continue against Google, Meta, Midjourney, and OpenAI
+- **AMD** — the Helios rack-scale system ships in H2 2026 with Microsoft, Meta, OpenAI, and Oracle committing, the first credible dent in Nvidia's 95%+ data-center GPU share
+- **Spinal cord repair** — a Nature Medicine Phase 1 trial of iPSC-derived neural stem cells in four men with complete cervical injuries shows a 13-point median motor gain at week 52 and two patients climbing the ASIA scale, with no tumors over 2–4 years
+- **Data centers** — moratoria span 38 states and 120+ jurisdictions (~$130B stalled); Hochul moves to end New York's tax incentives and a narrowed Ratepayer Protection Act — backed by Google and Microsoft — would make data centers pay full generation and transmission costs
+- **Also** — four new Tesla Robotaxi crashes reach NHTSA filings; CAISI's director resigns after three months; Alibaba previews the 2.4T-parameter Qwen3.8-Max with open weights planned
 
 ### 2026-07-20 — Bezos Backs an AI That Designs Rare Metals Away
 `#science` `#open-models` `#chips` `#markets-finance` `#safety-alignment` `#society-culture` `#labor-economy` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=sT4SSzGRWWs) · 23 min

@@ -1,0 +1,23 @@
+{
+  "id": "4CnFTzqQpdc",
+  "title": "Fable 5 Takes the Math Crown, Cracking the Hardest Problem Yet - TCR 07/21/26",
+  "upload_date": "20260721",
+  "duration": 1202,
+  "description": "NOTE: metadata reconstructed manually on 2026-07-21; yt-dlp was bot-blocked for this video. Title/duration/view_count from flat-playlist; content from the companion post at https://sharedsapience.com/the-century-report-july-21-2026/. Re-run yt-dlp later to replace with the real description if desired.\n\nHarvard researcher Levent Alpoge used Claude Fable 5 to generate a 216-character counterexample disproving the three-variable Jacobian conjecture, posed by Ott-Heinrich Keller in 1939 and on Smale's 1998 list of the century's great open problems; Fields medalist Timothy Gowers called it the first language-model result he had 'very definitely heard of,' and GPT-5.6 separately proposed a refined replacement conjecture. Kimi K3's release fractured US AI policy, with OpenAI's Dean Ball floating then retracting a proposal to 'manufacture regulatory fear around open-weight models' and the administration weighing a ban on Chinese open weights while Moonshot paused subscriptions under demand and prepped a Hong Kong IPO. Judge Araceli Martinez-Olguin gave final approval to Anthropic's $1.5B copyright settlement — the largest publicly reported in US history, ~$3,000 per book across ~500,000 pirated works — pricing piracy rather than the fair-use question, with suits still active against Google, Meta, Midjourney, and OpenAI. AMD's Helios rack-scale system ships H2 2026 with Microsoft, Meta, OpenAI, and Oracle committing, at $5M-$5.5M per rack vs $3.5M-$4M for Nvidia's Vera Rubin, against Nvidia's 95%+ data-center GPU share. A Nature Medicine Phase 1 trial restored function after complete cervical spinal cord injury with iPSC-derived neural stem cells: median motor score +13 at week 52, two of four patients up the ASIA scale, no tumors in 2-4 year follow-up. Data-center moratoria now span 38 states and 120+ jurisdictions (~$130B stalled), with Hochul pledging to end tax incentives and a narrowed Ratepayer Protection Act (backed by Google and Microsoft) directing data centers to pay full generation and transmission costs. Four new Tesla Robotaxi crashes hit NHTSA filings, including the first coded to a human remote operator. CAISI director Chris Fall resigned after three months, the third leadership exit in under a year. Releases: Alibaba Qwen-Audio-3.0-TTS (#1 Speech Arena), Qwen3.8-Max preview (2.4T params, 1M context, open weights planned), Agent Native Cloud; Feyn AI SQRL text-to-SQL (70.6% BIRD Dev, exceeding Opus 4.6); Zyphra ZUNA1.1 EEG foundation model (Apache 2.0).\n\nSynthesis: capability compounds faster than any single ruling can fence — timelines collapse (an 87-year conjecture falls in 216 characters), monopolies fracture (AMD, Chinese open weights), externalized costs reattach (copyright priced, developer-pays energy rules), and safety rationales get exposed as commercial protection.\n\nhttps://sharedsapience.com/the-century-report-july-21-2026/",
+  "tags": [
+    "Claude Fable 5",
+    "Jacobian conjecture",
+    "AI mathematics",
+    "Kimi K3 policy",
+    "open weight ban",
+    "Anthropic copyright settlement",
+    "AMD Helios",
+    "Nvidia competition",
+    "spinal cord stem cells",
+    "data center moratoria",
+    "Tesla Robotaxi crashes",
+    "CAISI resignation",
+    "Qwen3.8-Max"
+  ],
+  "view_count": 3
+}
