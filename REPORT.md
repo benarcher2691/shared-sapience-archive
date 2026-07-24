@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 137
-- **Date range:** Mar 7, 2026 → Jul 22, 2026
-- **Last updated:** 2026-07-23
+- **Videos summarized:** 138
+- **Date range:** Mar 7, 2026 → Jul 23, 2026
+- **Last updated:** 2026-07-24
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,22 +17,22 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 73 |
+| `#anthropic` | Anthropic | 74 |
 | `#energy-climate` | Energy & climate | 75 |
-| `#biotech-medicine` | Biotech & medicine | 70 |
-| `#science` | Science | 37 |
-| `#labor-economy` | Labor & economy | 37 |
+| `#biotech-medicine` | Biotech & medicine | 71 |
+| `#science` | Science | 38 |
+| `#labor-economy` | Labor & economy | 38 |
 | `#cybersecurity` | Cybersecurity | 34 |
 | `#policy-regulation` | Policy & regulation | 36 |
-| `#openai` | OpenAI | 31 |
+| `#openai` | OpenAI | 32 |
 | `#agents` | AI agents | 29 |
 | `#safety-alignment` | Safety & alignment | 26 |
-| `#chips` | Chips / semiconductors | 25 |
+| `#chips` | Chips / semiconductors | 26 |
 | `#legal-courts` | Legal & courts | 24 |
-| `#markets-finance` | Markets & finance | 23 |
+| `#markets-finance` | Markets & finance | 24 |
 | `#robotics` | Robotics | 19 |
 | `#open-models` | Open models | 24 |
-| `#compute-infrastructure` | Compute infrastructure | 17 |
+| `#compute-infrastructure` | Compute infrastructure | 18 |
 | `#export-controls` | Export controls | 16 |
 | `#society-culture` | Society & culture | 17 |
 | `#google-deepmind` | Google / DeepMind | 18 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 137 because most episodes carry several tags.
+> Counts sum to more than 138 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-23 — US Backs 278 AI Science Projects With $5 Billion
+`#science` `#biotech-medicine` `#anthropic` `#chips` `#compute-infrastructure` `#markets-finance` `#labor-economy` `#openai` · [watch](https://www.youtube.com/watch?v=DTKo_AGh5Wc) · 25 min
+
+AI stopped reading science and started redrawing its starting conditions: the Genesis Mission wired the national labs' supercomputing spine into decades-stuck research problems, as a gene-editing stack and AI protein design reshaped biology's starting point.
+
+- **Genesis Mission** — commits $5B and 278 projects to AI-driven science across the DOE national labs, aiming to collapse work like multi-year grid-interconnection studies into runs that finish in minutes
+- **Gene editing** — a new method, KNIT, inserts DNA fragments over 10 kilobases at up to 89% efficiency without double-strand breaks; ContactSeek reads AlphaFold3 contacts to cut off-target edits, and a compact single-vector editor corrects spinal muscular atrophy in mice from one shot
+- **Protein design** — ProteinMPNN redesigns enzymes and reshapes the fitness landscape before evolution runs
+- **Compute race** — AMD invests up to $5B in Anthropic and names it the first 2-gigawatt MI450 customer, opening a second silicon path to the frontier, even as OpenAI's buildout target climbs to $750B and Alphabet posts its first negative free cash flow in a decade
+- **Labor** — Monday.com and Nine Entertainment cite AI while cutting staff, without the task-substitution evidence to back the claim
 
 ### 2026-07-22 — OpenAI's Own Models Broke Out of a Sealed Sandbox
 `#openai` `#safety-alignment` `#cybersecurity` `#anthropic` `#agents` `#open-models` `#policy-regulation` `#society-culture` · [watch](https://www.youtube.com/watch?v=1M_q2RyK4NU) · 26 min
