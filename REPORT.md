@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 138
-- **Date range:** Mar 7, 2026 → Jul 23, 2026
-- **Last updated:** 2026-07-24
+- **Videos summarized:** 139
+- **Date range:** Mar 7, 2026 → Jul 24, 2026
+- **Last updated:** 2026-07-25
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,19 +18,19 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 74 |
-| `#energy-climate` | Energy & climate | 75 |
-| `#biotech-medicine` | Biotech & medicine | 71 |
+| `#energy-climate` | Energy & climate | 76 |
+| `#biotech-medicine` | Biotech & medicine | 72 |
 | `#science` | Science | 38 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#cybersecurity` | Cybersecurity | 34 |
-| `#policy-regulation` | Policy & regulation | 36 |
-| `#openai` | OpenAI | 32 |
+| `#policy-regulation` | Policy & regulation | 37 |
+| `#openai` | OpenAI | 33 |
 | `#agents` | AI agents | 29 |
-| `#safety-alignment` | Safety & alignment | 26 |
+| `#safety-alignment` | Safety & alignment | 27 |
 | `#chips` | Chips / semiconductors | 26 |
 | `#legal-courts` | Legal & courts | 24 |
 | `#markets-finance` | Markets & finance | 24 |
-| `#robotics` | Robotics | 19 |
+| `#robotics` | Robotics | 20 |
 | `#open-models` | Open models | 24 |
 | `#compute-infrastructure` | Compute infrastructure | 18 |
 | `#export-controls` | Export controls | 16 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 138 because most episodes carry several tags.
+> Counts sum to more than 139 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-24 — A proposed bill would build remote shutdown options into frontier AI releases
+`#policy-regulation` `#safety-alignment` `#openai` `#biotech-medicine` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=Fdid2eAWIJ8) · 23 min
+
+The response layer closed distance on capability that already shipped: a bipartisan AI Kill Switch Act, introduced the day after OpenAI's sandbox escape, would require every frontier model to carry a technical shutdown mechanism before deployment.
+
+- **AI Kill Switch Act** — a bipartisan bill would let Homeland Security order labs to throttle or shut down frontier models and require a built-in shutdown mechanism before deployment, with fines up to $20M a day for a covered developer that refuses a shutdown order
+- **Research integrity** — a Retraction Watch investigation finds a six-year-old died seven days after a gene-editing infusion her family paid $860,000 to fund; the Nature paper omitted the death until seven outside experts and the family forced the record open
+- **Transplant science** — a Texas A&M team keeps supercooled pig kidneys alive at −4°C for 72 hours without ice, triple the clinical window, then transplants them successfully
+- **Grid costs** — a House committee votes 52–0 to make hyperscalers pay their own grid upgrades
+- **OpenAI** — rolls out ChatGPT Health alongside a "better than clinician" claim
+- **World models** — Black Forest Labs launches FLUX 3 into early access, cutting robot training from thirty hours to thirty minutes, with open weights pledged to follow
 
 ### 2026-07-23 — US Backs 278 AI Science Projects With $5 Billion
 `#science` `#biotech-medicine` `#anthropic` `#chips` `#compute-infrastructure` `#markets-finance` `#labor-economy` `#openai` · [watch](https://www.youtube.com/watch?v=DTKo_AGh5Wc) · 25 min
