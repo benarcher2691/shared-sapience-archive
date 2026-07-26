@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 139
-- **Date range:** Mar 7, 2026 → Jul 24, 2026
-- **Last updated:** 2026-07-25
+- **Videos summarized:** 140
+- **Date range:** Mar 7, 2026 → Jul 25, 2026
+- **Last updated:** 2026-07-26
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 74 |
-| `#energy-climate` | Energy & climate | 76 |
-| `#biotech-medicine` | Biotech & medicine | 72 |
-| `#science` | Science | 38 |
+| `#energy-climate` | Energy & climate | 77 |
+| `#anthropic` | Anthropic | 75 |
+| `#biotech-medicine` | Biotech & medicine | 73 |
 | `#labor-economy` | Labor & economy | 38 |
+| `#policy-regulation` | Policy & regulation | 38 |
+| `#science` | Science | 38 |
 | `#cybersecurity` | Cybersecurity | 34 |
-| `#policy-regulation` | Policy & regulation | 37 |
 | `#openai` | OpenAI | 33 |
 | `#agents` | AI agents | 29 |
 | `#safety-alignment` | Safety & alignment | 27 |
 | `#chips` | Chips / semiconductors | 26 |
+| `#markets-finance` | Markets & finance | 25 |
+| `#open-models` | Open models | 25 |
 | `#legal-courts` | Legal & courts | 24 |
-| `#markets-finance` | Markets & finance | 24 |
 | `#robotics` | Robotics | 20 |
-| `#open-models` | Open models | 24 |
-| `#compute-infrastructure` | Compute infrastructure | 18 |
-| `#export-controls` | Export controls | 16 |
-| `#society-culture` | Society & culture | 17 |
+| `#compute-infrastructure` | Compute infrastructure | 19 |
 | `#google-deepmind` | Google / DeepMind | 18 |
+| `#society-culture` | Society & culture | 17 |
+| `#export-controls` | Export controls | 16 |
 | `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 139 because most episodes carry several tags.
+> Counts sum to more than 140 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-25 — Effort to restrict open-weight AI just hit a wall, industry and APEC back open source
+`#open-models` `#policy-regulation` `#anthropic` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=notPA2W_MRY) · 25 min
+
+The push to lock down open weights ran into both halves of the world at once: an industry coalition came out against broad restrictions the same week 21 APEC economies endorsed open-source cooperation with security assurances.
+
+- **Open-weight politics** — Hugging Face, Meta, Microsoft, Mistral, and Nvidia sign an open letter opposing broad restrictions on open AI weights, while 21 APEC economies meeting in Chengdu back open-source AI cooperation with strong security assurances; researchers dismantle the Kimi K3 distillation-theft claim used to justify the crackdown, noting the model said to be stolen had only been public for weeks
+- **Anthropic** — ships Opus 5 at roughly half of Fable's price, its fourth 5-series release in two months, with Ars Technica reading it as a token-efficiency release rather than a capability leap — frontier intelligence compressing toward commodity economics on a cadence measured in weeks
+- **Hyperscaler credit** — Moody's warns AI capex is eroding the credit quality of six hyperscalers, whose debt now competes with Treasurys and helps hold 30-year yields above 5%; Alphabet alone carries $811B in future spending commitments
+- **Grid** — solar outproduces both coal and wind in May to become the third-largest US power source
+- **Sight restoration** — the PRIMA retinal implant wins EU clearance (CE mark), crossing from trial data into reimbursable reading vision across 30 countries
 
 ### 2026-07-24 — A proposed bill would build remote shutdown options into frontier AI releases
 `#policy-regulation` `#safety-alignment` `#openai` `#biotech-medicine` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=Fdid2eAWIJ8) · 23 min
