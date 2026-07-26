@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 140
-- **Date range:** Mar 7, 2026 → Jul 25, 2026
+- **Videos summarized:** 141
+- **Date range:** Mar 7, 2026 → Jul 26, 2026
 - **Last updated:** 2026-07-26
 - **How to update / search:** see [README.md](README.md)
 
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 77 |
+| `#energy-climate` | Energy & climate | 78 |
 | `#anthropic` | Anthropic | 75 |
-| `#biotech-medicine` | Biotech & medicine | 73 |
+| `#biotech-medicine` | Biotech & medicine | 74 |
+| `#science` | Science | 39 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#policy-regulation` | Policy & regulation | 38 |
-| `#science` | Science | 38 |
 | `#cybersecurity` | Cybersecurity | 34 |
 | `#openai` | OpenAI | 33 |
 | `#agents` | AI agents | 29 |
+| `#chips` | Chips / semiconductors | 27 |
 | `#safety-alignment` | Safety & alignment | 27 |
-| `#chips` | Chips / semiconductors | 26 |
-| `#markets-finance` | Markets & finance | 25 |
+| `#markets-finance` | Markets & finance | 26 |
 | `#open-models` | Open models | 25 |
 | `#legal-courts` | Legal & courts | 24 |
-| `#robotics` | Robotics | 20 |
-| `#compute-infrastructure` | Compute infrastructure | 19 |
-| `#google-deepmind` | Google / DeepMind | 18 |
+| `#robotics` | Robotics | 21 |
+| `#compute-infrastructure` | Compute infrastructure | 20 |
+| `#google-deepmind` | Google / DeepMind | 19 |
 | `#society-culture` | Society & culture | 17 |
 | `#export-controls` | Export controls | 16 |
 | `#xai-musk` | xAI / Musk | 13 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 140 because most episodes carry several tags.
+> Counts sum to more than 141 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-26 — A single downed line reveals the grid's new limit
+`#energy-climate` `#compute-infrastructure` `#biotech-medicine` `#science` `#robotics` `#google-deepmind` `#chips` `#markets-finance` · [watch](https://www.youtube.com/watch?v=mqB7tvKmkEU) · 27 min
+
+AI load stopped behaving like demand and started behaving like a switch: one downed transmission line near a Virginia data-center corridor dropped roughly 3 gigawatts off the grid in 30 seconds, spiking voltage from Virginia to Chicago.
+
+- **Grid reliability** — the July 22 fault made two reactors' worth of computing load vanish at once, a failure mode the grid was never built to absorb; ERCOT now requires covered large computational loads to ride through disturbances, vendors ship campus-scale storage, and a House committee's 52–0 vote would make data centers fund their own grid upgrades
+- **Genetic diagnosis** — Retina4IRD ranks genotype categories from a retinal image and lifts specialists from 67.3% to 88.5% accuracy in a 295-patient randomized trial published in Nature Medicine
+- **Gene editing** — a team uses AlphaFold to redesign gene-editing proteins and cut their off-target mistakes
+- **Robotics** — Black Forest Labs' FLUX 3 Mimic drives Audi's production-line robots through soft deformable parts that defeated automation for decades
+- **Capex and compute** — Alphabet discloses $811B in contracted forward spending commitments, up nearly $500B in three months, as AMD's agentic kernel generation narrows Nvidia's CUDA moat
 
 ### 2026-07-25 — Effort to restrict open-weight AI just hit a wall, industry and APEC back open source
 `#open-models` `#policy-regulation` `#anthropic` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=notPA2W_MRY) · 25 min

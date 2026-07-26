@@ -1,0 +1,24 @@
+{
+ "id": "mqB7tvKmkEU",
+ "title": "A single downed line reveals the grid's new limit - TCR 07/26/26",
+ "upload_date": "20260726",
+ "duration": 1608,
+ "description": "A single downed transmission line dropped roughly 3 gigawatts of AI data-center load off the grid in 30 seconds spiking voltage from Virginia to Chicago, Retina4IRD lifted specialists' genetic-diagnosis accuracy from 67.3% to 88.5% in a 295-patient randomized trial, and Alphabet disclosed $811 billion in contracted forward spending commitments up nearly $500 billion in three months.\n\nhttps://sharedsapience.com/the-century-report-july-26-2026/\n\n0:00 Open and framing\n0:35 Downed power line drops 3 gigawatts off the grid\n8:54 Retina4IRD reads the retina and names the disease\n13:39 AlphaFold redesigns gene editors to cut mistakes\n17:44 FLUX 3 runs robots on Audi's production line\n23:24 Close\n\nThis episode covers the Virginia grid fault and ERCOT's ride-through mandate, the Retina4IRD randomized trial for inherited retinal diseases, AlphaFold redesigning gene-editing proteins to cut off-target edits, FLUX 3 running robots on Audi's production line, and AMD's agentic kernel generation narrowing Nvidia's CUDA moat.\n\nThe day's signal shows the same buildout twice, once as a bill and once as a dividend. On July 22 a downed line near a Virginia data-center corridor made roughly 3 gigawatts of computing load vanish at once, two reactors' worth of demand behaving like a light switch, a failure mode the grid was never built to absorb. The accountability layer is hardening in response: ERCOT now requires covered large computational loads to ride through disturbances, vendors are shipping campus-scale storage, and a committee voted 52-0 to make data centers fund their own grid upgrades. On the other side of that friction, Retina4IRD produced a ranked list of genotype categories from a retinal image and lifted specialists from 67.3% to 88.5% accuracy in a randomized trial, AlphaFold redesigned gene-editing proteins to cut their mistakes, and FLUX 3 began driving Audi's robots through soft deformable parts that defeated automation for decades. Underneath it, Alphabet's $811 billion in forward commitments and AMD's agentic kernel generation mark a frontier commoditizing faster than any single lab can hoard it.\n\nAdditional Reading:\n- TechCrunch - One Fallen Power Line Exposed a Growing AI Data-Center Problem: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/\n- Nature Medicine - Retina4IRD Clinical Decision Support: https://www.nature.com/articles/s41591-026-04545-w\n- Ars Technica - AlphaFold Redesigns Gene-Editing Proteins: https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/\n- Black Forest Labs - FLUX 3 Mimic Runs Robots at Audi: https://bfl.ai/blog/flux-3-mimic\n- Shared Sapience - The Last Difficult Decade 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n----\n\n#DataCenters #GridReliability #MedicalAI",
+ "tags": [
+  "3 gigawatt load drop",
+  "AMD agentic kernel generation",
+  "AlphaFold",
+  "AlphaFold gene editing",
+  "Alphabet spending commitments",
+  "Black Forest Labs",
+  "ERCOT ride through mandate",
+  "FLUX 3 Audi robots",
+  "Retina4IRD",
+  "Virginia data center grid",
+  "data centers",
+  "grid reliability",
+  "inherited retinal disease AI",
+  "medical AI"
+ ],
+ "view_count": 2
+}
