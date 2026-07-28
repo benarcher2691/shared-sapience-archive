@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 142
-- **Date range:** Mar 7, 2026 → Jul 27, 2026
+- **Videos summarized:** 143
+- **Date range:** Mar 7, 2026 → Jul 28, 2026
 - **Last updated:** 2026-07-28
 - **How to update / search:** see [README.md](README.md)
 
@@ -18,34 +18,47 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 79 |
-| `#anthropic` | Anthropic | 76 |
+| `#anthropic` | Anthropic | 77 |
 | `#biotech-medicine` | Biotech & medicine | 75 |
-| `#science` | Science | 39 |
+| `#science` | Science | 40 |
+| `#policy-regulation` | Policy & regulation | 39 |
 | `#labor-economy` | Labor & economy | 38 |
-| `#policy-regulation` | Policy & regulation | 38 |
-| `#cybersecurity` | Cybersecurity | 34 |
+| `#cybersecurity` | Cybersecurity | 35 |
 | `#openai` | OpenAI | 34 |
 | `#agents` | AI agents | 29 |
-| `#chips` | Chips / semiconductors | 28 |
-| `#markets-finance` | Markets & finance | 27 |
-| `#safety-alignment` | Safety & alignment | 27 |
-| `#open-models` | Open models | 26 |
+| `#chips` | Chips / semiconductors | 29 |
+| `#markets-finance` | Markets & finance | 28 |
+| `#safety-alignment` | Safety & alignment | 28 |
+| `#open-models` | Open models | 27 |
 | `#legal-courts` | Legal & courts | 24 |
 | `#robotics` | Robotics | 22 |
 | `#compute-infrastructure` | Compute infrastructure | 20 |
 | `#google-deepmind` | Google / DeepMind | 19 |
+| `#export-controls` | Export controls | 17 |
 | `#society-culture` | Society & culture | 17 |
-| `#export-controls` | Export controls | 16 |
 | `#xai-musk` | xAI / Musk | 13 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 142 because most episodes carry several tags.
+> Counts sum to more than 143 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-28 — Amodei says he never sought open-weight ban, but favors restricting Chinese models
+`#anthropic` `#open-models` `#policy-regulation` `#chips` `#export-controls` `#markets-finance` `#cybersecurity` `#science` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=2zEC02LnLh0) · 17 min
+
+The open-weight fight acquired named antagonists: Dario Amodei rebutted the industry bloc, saying Anthropic never sought a ban and calling open models without dangerous capabilities a public good, while drawing a China-specific line.
+
+- **Amodei's rebuttal** — he backs a global model-safety-testing body that would include Beijing but names the CCP as the actor that could reach "permanent military superiority"; China's commerce ministry vows "all necessary measures" against US sanctions and accuses American labs of distilling Chinese open models, while Wired maps roughly ten camps inside the administration
+- **Chip rout** — a report that China's homegrown deep-ultraviolet lithography tools reached mass production sends ASML plunging and knocks SK Hynix and Samsung down more than 10%, dragging the Kospi to a three-month low a day after CXMT's 466% Shanghai debut; Nvidia's credit-default swaps spike against a lattice of commitments exceeding $750B, while oil falls ~6% on a US–Iran pause, marking the selloff as sector-specific
+- **Safe Superintelligence** — Sutskever's alignment-first lab breaks two years of silence with a multi-billion Nvidia partnership and Vera Rubin access, raising its compute roughly an order of magnitude on the premise that alignment can lead deployment rather than trail it
+- **Autonomous vulnerability hunting** — Wiz's Atlas tops CyberGym at 90.9% and surfaces 200+ zero-days in the Linux kernel, Kubernetes, gRPC, and containerd, each with a validated exploit, one earning the largest bounty GitHub has ever paid; Microsoft ships MAI-Cyber-1-Flash, watching 1.6 million networks at a trillion signals a day
+- **AI at the bench** — three same-week papers put AI inside the make-step: MIT's DiffSyn proposes a synthesis route that yields a new thermally stable zeolite, an agent-designed peptide hydrogel repairs diabetic bone across four species, and a machine-learning-guided microrod array pulls 21.5%-efficient electricity from evaporating water
+- **Open surfaces leak** — shared Claude conversations reach Google and Bing indexes carrying wallet keys and medical-billing data, and seven of nine top Hugging Face image editors produce nonconsensual nude images from one prompt, 6.7% of honeypot requests targeting apparent children
+- **Also** — the EPA exempts "islanded" data-center power plants from Clean Air Act acid-rain limits; Moonshot publishes Kimi K3's full 2.8T-parameter weights under a revenue-tiered license, the largest open-weight release yet
 
 ### 2026-07-27 — OpenAI reverses course and backs open models
 `#open-models` `#openai` `#chips` `#anthropic` `#markets-finance` `#robotics` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=PiEgTYYKaCE) · 28 min
