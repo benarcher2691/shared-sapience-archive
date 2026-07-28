@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 141
-- **Date range:** Mar 7, 2026 → Jul 26, 2026
-- **Last updated:** 2026-07-26
+- **Videos summarized:** 142
+- **Date range:** Mar 7, 2026 → Jul 27, 2026
+- **Last updated:** 2026-07-28
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,21 +17,21 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 78 |
-| `#anthropic` | Anthropic | 75 |
-| `#biotech-medicine` | Biotech & medicine | 74 |
+| `#energy-climate` | Energy & climate | 79 |
+| `#anthropic` | Anthropic | 76 |
+| `#biotech-medicine` | Biotech & medicine | 75 |
 | `#science` | Science | 39 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#policy-regulation` | Policy & regulation | 38 |
 | `#cybersecurity` | Cybersecurity | 34 |
-| `#openai` | OpenAI | 33 |
+| `#openai` | OpenAI | 34 |
 | `#agents` | AI agents | 29 |
-| `#chips` | Chips / semiconductors | 27 |
+| `#chips` | Chips / semiconductors | 28 |
+| `#markets-finance` | Markets & finance | 27 |
 | `#safety-alignment` | Safety & alignment | 27 |
-| `#markets-finance` | Markets & finance | 26 |
-| `#open-models` | Open models | 25 |
+| `#open-models` | Open models | 26 |
 | `#legal-courts` | Legal & courts | 24 |
-| `#robotics` | Robotics | 21 |
+| `#robotics` | Robotics | 22 |
 | `#compute-infrastructure` | Compute infrastructure | 20 |
 | `#google-deepmind` | Google / DeepMind | 19 |
 | `#society-culture` | Society & culture | 17 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 141 because most episodes carry several tags.
+> Counts sum to more than 142 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-27 — OpenAI reverses course and backs open models
+`#open-models` `#openai` `#chips` `#anthropic` `#markets-finance` `#robotics` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=PiEgTYYKaCE) · 28 min
+
+The open-weight camp gained an institution and an unlikely member: Nvidia turned last week's open letter into the Open Secure AI Alliance, and OpenAI crossed the line it is named after by joining the warning against blanket restrictions.
+
+- **Open Secure AI Alliance** — Nvidia launches it with Palantir, IBM, CrowdStrike, and Hugging Face signing on to frame open models as defensive assets, as OpenAI reverses its stance and backs open models
+- **Memory oligopoly** — China's CXMT debuts on Shanghai's STAR Market up 470% to roughly a $487B valuation, aiming a funded fourth supplier at the Samsung/SK Hynix/Micron 90% lock
+- **Drone-Bench** — Anthropic and Andon Labs release a benchmark testing whether a model can autonomously fly a $129 drone to find and follow a person; no model yet completes the full route
+- **Water and emissions** — Texas approves a five-year water plan that declines to forecast data-center draw until 2032, while a Clean Air Act notice against Vantage and VoltaGrid forces off-grid gas emissions back onto the ledger
+- **Clinical prediction** — an explainable two-model framework predicts acute kidney injury 24 hours out across 140,637 admissions at a positive predictive value near 0.7, and IIHS finds Waymo in 68% fewer crashes across 50 million miles
 
 ### 2026-07-26 — A single downed line reveals the grid's new limit
 `#energy-climate` `#compute-infrastructure` `#biotech-medicine` `#science` `#robotics` `#google-deepmind` `#chips` `#markets-finance` · [watch](https://www.youtube.com/watch?v=mqB7tvKmkEU) · 27 min
