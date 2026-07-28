@@ -8,7 +8,7 @@ Tracking and summarizing every video on
 | File | What it is |
 |---|---|
 | `REPORT.md` | The report: channel overview, topic index, one summary per video (newest first). |
-| `update.py` | Incremental updater — finds new videos, caches their metadata, writes summary stubs to `PENDING.md`. Never touches `REPORT.md`. |
+| `update.py` | Incremental updater — finds new videos, caches their metadata, writes summary stubs to `PENDING.md`. Never touches `REPORT.md`. `--refetch` re-pulls metadata for videos already cached. |
 | `data/meta/*.json` | Metadata cache, one JSON per video (title, date, duration, description, tags). This is what "already summarized" is diffed against. |
 | `PENDING.md` | Created by `update.py` when new videos exist; holds raw material for summaries. Delete after folding into `REPORT.md`. |
 | `refresh_report.py` | Recomputes `REPORT.md`'s header stats and topic index from its entries. Run after adding/editing entries. |
@@ -64,6 +64,37 @@ entries themselves; it never touches the entries. `--date` sets "Last updated"
 
 In full, the update loop is: **`update.py`** → summarize `PENDING.md` into
 `REPORT.md` → delete `PENDING.md` → **`refresh_report.py`** → **`build_site.py`**.
+
+## When yt-dlp is bot-blocked
+
+YouTube periodically refuses per-video metadata with "Sign in to confirm you're
+not a bot" — every player client and Safari cookies fail, but the channel
+*flat-playlist* listing keeps working, so `update.py` still detects new videos.
+When that happens, reconstruct the cache file by hand:
+
+- title and duration from `yt-dlp --flat-playlist --print '%(id)s|%(title)s|%(duration)s'`
+- title confirmed via `https://www.youtube.com/oembed?url=…&format=json`
+- episode content from the companion post linked in every description,
+  `https://sharedsapience.com/the-century-report-<month>-<day>-<year>/`
+
+Write `data/meta/<id>.json` with the same fields as the others and start the
+description with `NOTE: metadata reconstructed …` — that marker both flags the
+file and makes it findable later. Once written, `update.py` stops re-flagging
+the video as new.
+
+The block usually lifts on its own after a day or two. To swap a reconstructed
+file for the real thing:
+
+```sh
+python3 update.py --refetch reconstructed   # retry every hand-written file
+python3 update.py --refetch VIDEO_ID …      # or just these
+```
+
+`--refetch` skips the channel diff, never writes `PENDING.md`, and keeps the
+existing file if the fetch fails or comes back empty — so it is safe to run
+against videos already summarized in `REPORT.md`. It only replaces the cached
+metadata; if a summary was written from reconstructed material, re-check that
+entry against the real description afterwards.
 
 ## The website
 
