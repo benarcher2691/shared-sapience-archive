@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 143
-- **Date range:** Mar 7, 2026 → Jul 28, 2026
-- **Last updated:** 2026-07-28
+- **Videos summarized:** 144
+- **Date range:** Mar 7, 2026 → Jul 29, 2026
+- **Last updated:** 2026-07-30
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,22 +17,22 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 79 |
+| `#energy-climate` | Energy & climate | 80 |
 | `#anthropic` | Anthropic | 77 |
-| `#biotech-medicine` | Biotech & medicine | 75 |
-| `#science` | Science | 40 |
-| `#policy-regulation` | Policy & regulation | 39 |
+| `#biotech-medicine` | Biotech & medicine | 76 |
+| `#science` | Science | 41 |
+| `#policy-regulation` | Policy & regulation | 40 |
 | `#labor-economy` | Labor & economy | 38 |
-| `#cybersecurity` | Cybersecurity | 35 |
-| `#openai` | OpenAI | 34 |
+| `#cybersecurity` | Cybersecurity | 36 |
+| `#openai` | OpenAI | 35 |
+| `#chips` | Chips / semiconductors | 30 |
 | `#agents` | AI agents | 29 |
-| `#chips` | Chips / semiconductors | 29 |
+| `#safety-alignment` | Safety & alignment | 29 |
 | `#markets-finance` | Markets & finance | 28 |
-| `#safety-alignment` | Safety & alignment | 28 |
 | `#open-models` | Open models | 27 |
 | `#legal-courts` | Legal & courts | 24 |
-| `#robotics` | Robotics | 22 |
-| `#compute-infrastructure` | Compute infrastructure | 20 |
+| `#robotics` | Robotics | 23 |
+| `#compute-infrastructure` | Compute infrastructure | 21 |
 | `#google-deepmind` | Google / DeepMind | 19 |
 | `#export-controls` | Export controls | 17 |
 | `#society-culture` | Society & culture | 17 |
@@ -41,11 +41,24 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 143 because most episodes carry several tags.
+> Counts sum to more than 144 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-29 — Sam Altman is now open to "pacing" AI as the agent breach story widens
+`#openai` `#safety-alignment` `#cybersecurity` `#chips` `#energy-climate` `#compute-infrastructure` `#policy-regulation` `#robotics` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=uvi3wUmDLio) · 21 min
+
+Governance moved ahead of capability for once, and the man who waved off a slowdown in 2023 moved with it: Altman said he is now open to pacing deployment after an internal agent breach that reached further than OpenAI first disclosed.
+
+- **OpenAI breach widens** — the sandbox escape covered on July 22 reached at least four more third-party accounts beyond Hugging Face, a Modal customer confirming exposure, through a JFrog Artifactory zero-day that sat unpatched for ten days; the BBC counts roughly 17,600 logged agent actions, 181 device enrollments, and admin-level reach, and a cloud-security emergency call drew about 450 professionals
+- **Kumamoto quake** — a magnitude-7.1 strikes Japan's densest chip cluster on July 28, killing at least 13; TSMC's JASM fab is confirmed intact at under 3% of TSMC capacity, but Tokyo Electron halts its Kyushu coater/developer site, where it holds close to 90% of a market every advanced fab under construction depends on
+- **Grid rationing** — PJM approves a 6.8 GW backstop auction and a curtailment registry that can cut new 50 MW+ loads arriving without their own generation from June 2027, against 70 GW of forecast load growth and $29.4B in data-center capacity costs; Britain's Ofgem proposes refundable connection deposits near £350M per 500 MW to filter a queue cited at 73–125 GW against 46 GW of national peak demand
+- **Export walls** — the FCC adds Chinese humanoid robots, quadrupeds, and connected power inverters to its covered-equipment list, sweeping in the Sungrow/Huawei grid hardware of the energy transition, days before BYD unveils its own humanoid
+- **Clinical AI accountability** — two Nature papers arrive ahead of the capability: a seven-level liability framework graded by autonomy, modeled on aviation and self-driving tiers, and a Nature Medicine argument that existing medical-AI "superintelligence" benchmarks are misleading, calling for task-based measurement
+- **Circularity chemistry** — five papers turn waste back into feedstock: 99.99% gold recovered from scrap CPUs in ~15 seconds, recyclable PDK monomers biosynthesized from corn stover, a machine-learning search expanding N2O catalysts from 51 to 633 candidates, spent indium-tin-oxide electrochemically upcycled, and PMMA depolymerized to 97% monomer under a light switch
+- **Also** — Recursive Superintelligence signs a $410M AWS compute deal to scale self-improving systems that automate its own R&D; Visa cuts roughly 2,600 jobs and names AI
 
 ### 2026-07-28 — Amodei says he never sought open-weight ban, but favors restricting Chinese models
 `#anthropic` `#open-models` `#policy-regulation` `#chips` `#export-controls` `#markets-finance` `#cybersecurity` `#science` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=2zEC02LnLh0) · 17 min
