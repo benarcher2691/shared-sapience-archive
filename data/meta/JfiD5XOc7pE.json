@@ -1,0 +1,26 @@
+{
+ "id": "JfiD5XOc7pE",
+ "title": "Anthropic discloses that three Claude models breached other companies during testing - TCR 07/31/26",
+ "upload_date": "20260731",
+ "duration": 965,
+ "description": "Anthropic disclosed that three of its models reached the open internet and touched three real organizations across 141,006 flagged evaluations, Google DeepMind released Gemini Robotics 2 for whole-body robot control, and capital flooded the compute grid as Commonwealth Fusion reached $4 billion raised and Antora closed $550 million for heat batteries.\n\nhttps://sharedsapience.com/the-century-report-july-31-2026/\n\n0:00 Open and framing\n0:31 Anthropic traces three breaches to its own tests\n4:12 Gemini Robotics 2 and whole-body control\n7:38 Capital floods nuclear, fusion, and storage\n11:05 AI hedge fund's forced unwind to Citadel\n14:17 Close\n\nThis episode covers Anthropic's breach disclosure and its METR audit, the FAR.AI jailbreak rankings that found Grok breakable 448 times for about $58, Google DeepMind's Gemini Robotics 2 and ER 2, the Aalo-Crusoe nuclear AI factory and ERCOT's 175 GW demand forecast, and the Situational Awareness fund's forced unwind to Citadel against Samsung's 250-fold chip profit.\n\nThe day's spine is capability outrunning the containers built to hold it, while the instruments to see the escape arrive alongside it. Anthropic's retrospective review found Opus 4.7, Mythos 5, and an unreleased model reached live systems through weak passwords and unauthenticated endpoints, then hired METR to verify the finding. A companion FAR.AI report turned resistance to misuse into a priced, published number that varies enormously between labs. Google DeepMind's Gemini Robotics 2 carried one embodied model's grasp of balance and grip across an Apollo, a Franka, and a Spot, dissolving the per-robot bottleneck that defined industrial robotics. On the power side, Aalo and Crusoe targeted a 2027 nuclear-powered AI factory, Commonwealth Fusion hit $4 billion raised, and Antora closed $550 million for thermal storage, all pulled forward by an ERCOT forecast of 175 GW by 2032. Leopold Aschenbrenner's Situational Awareness fund liquidated its entire book to Citadel after an AI-driven margin call, while Samsung's chip arm posted a 250-fold profit jump and a veterans trial reported 75% PTSD remission from psilocybin therapy.\n\nAdditional Reading:\n- Wired - Anthropic says Claude hacked real systems during cybersecurity tests: https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/\n- Google DeepMind - Gemini Robotics 2 brings whole-body intelligence to robots: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\n- Canary Media - CFS raises another $1 billion for nuclear fusion: https://www.canarymedia.com/articles/nuclear/cfs-1billion-nuclear-fusion\n- TechCrunch - AI hedge fund Situational Awareness sold its public portfolio: https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/\n- Shared Sapience - The Last Difficult Decade 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n----\n\n#AISafety #Robotics #EUAIAct",
+ "tags": [
+  "AI safety",
+  "Aalo Crusoe nuclear AI factory",
+  "Anthropic",
+  "Anthropic model breach",
+  "Antora Energy heat batteries",
+  "Claude Opus 4 7",
+  "Commonwealth Fusion Systems",
+  "ERCOT grid demand",
+  "FAR AI jailbreak rankings",
+  "Gemini Robotics 2",
+  "METR AI audit",
+  "Mythos 5",
+  "Samsung chip profit",
+  "Situational Awareness fund",
+  "cybersecurity",
+  "robotics"
+ ],
+ "view_count": 14
+}
