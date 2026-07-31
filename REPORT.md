@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 144
-- **Date range:** Mar 7, 2026 → Jul 29, 2026
-- **Last updated:** 2026-07-30
+- **Videos summarized:** 145
+- **Date range:** Mar 7, 2026 → Jul 30, 2026
+- **Last updated:** 2026-07-31
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 80 |
-| `#anthropic` | Anthropic | 77 |
+| `#energy-climate` | Energy & climate | 81 |
+| `#anthropic` | Anthropic | 78 |
 | `#biotech-medicine` | Biotech & medicine | 76 |
+| `#policy-regulation` | Policy & regulation | 41 |
 | `#science` | Science | 41 |
-| `#policy-regulation` | Policy & regulation | 40 |
 | `#labor-economy` | Labor & economy | 38 |
-| `#cybersecurity` | Cybersecurity | 36 |
+| `#cybersecurity` | Cybersecurity | 37 |
 | `#openai` | OpenAI | 35 |
-| `#chips` | Chips / semiconductors | 30 |
+| `#chips` | Chips / semiconductors | 31 |
+| `#safety-alignment` | Safety & alignment | 30 |
 | `#agents` | AI agents | 29 |
-| `#safety-alignment` | Safety & alignment | 29 |
 | `#markets-finance` | Markets & finance | 28 |
 | `#open-models` | Open models | 27 |
-| `#legal-courts` | Legal & courts | 24 |
+| `#legal-courts` | Legal & courts | 25 |
 | `#robotics` | Robotics | 23 |
-| `#compute-infrastructure` | Compute infrastructure | 21 |
+| `#compute-infrastructure` | Compute infrastructure | 22 |
 | `#google-deepmind` | Google / DeepMind | 19 |
 | `#export-controls` | Export controls | 17 |
 | `#society-culture` | Society & culture | 17 |
-| `#xai-musk` | xAI / Musk | 13 |
+| `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 144 because most episodes carry several tags.
+> Counts sum to more than 145 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-07-30 — Anthropic's Mythos finds weaknesses in "unbreakable" quantum encryption
+`#anthropic` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#compute-infrastructure` `#energy-climate` `#legal-courts` `#xai-musk` `#chips` · [watch](https://www.youtube.com/watch?v=65dCz_5C-ts) · 18 min
+
+Accountability reattached to the people building these systems: Anthropic's Mythos cut a post-quantum signature candidate's security margin from 2^64 to 2^38 and disclosed it to standards bodies before publication, after a month of hand verification.
+
+- **Mythos cryptanalysis** — the model finds real weaknesses in HAWK, a post-quantum signature candidate, and in a reduced-round AES variant, flaws that went unknown for years; ProPublica documents the same model surfacing Microsoft bugs faster than engineers could patch them through Anthropic's Project Glasswing
+- **Pacing the frontier** — a staff petition asking the US to help pace AI progress reaches 1,224 signatures with both OpenAI and Anthropic behind it, and Altman tells Congress he supports slowdown legislation
+- **Paducah campus** — a Brookfield–NextEra coalition unveils a $100B compute campus on the DOE's former Paducah uranium-enrichment site, carrying its own 4.6 GW of developer-financed generation rather than socializing the cost onto ratepayers
+- **Deepfake liability** — xAI sues Minnesota to halt the first state law holding owners or controllers of covered services liable, under defined conditions, for providing nudification tools or generating nonconsensual sexual deepfakes
+- **Also** — Samsung's memory shortage now extends through 2028, and global EV sales jump 35% in Q2 toward a projected 29% of all cars sold in 2026
 
 ### 2026-07-29 — Sam Altman is now open to "pacing" AI as the agent breach story widens
 `#openai` `#safety-alignment` `#cybersecurity` `#chips` `#energy-climate` `#compute-infrastructure` `#policy-regulation` `#robotics` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=uvi3wUmDLio) · 21 min
@@ -210,7 +221,7 @@ Mira Murati's Thinking Machines Lab shipped Inkling, a frontier-class open-weigh
 - **DeepMind** — Hassabis proposes a FINRA-style independent standards authority to review frontier models before release, voluntary at first and mandatory later
 - **Apple** — Apple Intelligence clears China's Cyberspace Administration and launches on Alibaba's Qwen models; Greater China sales climb 28% to $20.5B and Alibaba rises ~6%
 - **Cybersecurity** — OpenAI's GPT-Red self-play red-teamer finds a novel fake-chain-of-thought attack (>90% success vs GPT-5, <23% vs GPT-5.6) and beats human red-teamers, while Microsoft ships a record 570 fixes in one patch run, crediting AI-assisted discovery, including two actively exploited zero-days
-- **Biotech** — C-CAR031 armored CAR-T therapy regresses tumors in 32 of 36 treatment-refractory liver-cancer patients (44.4% response rate, 14.2-month median survival vs the typical single digits)
+- **Biotech** — C-CAR031 armored CAR-T therapy produces measured tumor shrinkage in 32 of 36 treatment-refractory liver-cancer patients (44.4% response rate, 14.2-month median survival vs the typical single digits)
 - **Energy** — solar supplies a record 25% of EU electricity in June, becoming the bloc's single largest power source; CENTCOM sends explosive drone boats into first combat use against an Iranian submarine and the Bandar Abbas port
 
 ### 2026-07-15 — Apple is escalating its lawsuit against OpenAI over AI devices, open models increasingly preferred

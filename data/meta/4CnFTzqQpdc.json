@@ -1,23 +1,23 @@
 {
-  "id": "4CnFTzqQpdc",
-  "title": "Fable 5 Takes the Math Crown, Cracking the Hardest Problem Yet - TCR 07/21/26",
-  "upload_date": "20260721",
-  "duration": 1202,
-  "description": "NOTE: metadata reconstructed manually on 2026-07-21; yt-dlp was bot-blocked for this video. Title/duration/view_count from flat-playlist; content from the companion post at https://sharedsapience.com/the-century-report-july-21-2026/. Re-run yt-dlp later to replace with the real description if desired.\n\nHarvard researcher Levent Alpoge used Claude Fable 5 to generate a 216-character counterexample disproving the three-variable Jacobian conjecture, posed by Ott-Heinrich Keller in 1939 and on Smale's 1998 list of the century's great open problems; Fields medalist Timothy Gowers called it the first language-model result he had 'very definitely heard of,' and GPT-5.6 separately proposed a refined replacement conjecture. Kimi K3's release fractured US AI policy, with OpenAI's Dean Ball floating then retracting a proposal to 'manufacture regulatory fear around open-weight models' and the administration weighing a ban on Chinese open weights while Moonshot paused subscriptions under demand and prepped a Hong Kong IPO. Judge Araceli Martinez-Olguin gave final approval to Anthropic's $1.5B copyright settlement — the largest publicly reported in US history, ~$3,000 per book across ~500,000 pirated works — pricing piracy rather than the fair-use question, with suits still active against Google, Meta, Midjourney, and OpenAI. AMD's Helios rack-scale system ships H2 2026 with Microsoft, Meta, OpenAI, and Oracle committing, at $5M-$5.5M per rack vs $3.5M-$4M for Nvidia's Vera Rubin, against Nvidia's 95%+ data-center GPU share. A Nature Medicine Phase 1 trial restored function after complete cervical spinal cord injury with iPSC-derived neural stem cells: median motor score +13 at week 52, two of four patients up the ASIA scale, no tumors in 2-4 year follow-up. Data-center moratoria now span 38 states and 120+ jurisdictions (~$130B stalled), with Hochul pledging to end tax incentives and a narrowed Ratepayer Protection Act (backed by Google and Microsoft) directing data centers to pay full generation and transmission costs. Four new Tesla Robotaxi crashes hit NHTSA filings, including the first coded to a human remote operator. CAISI director Chris Fall resigned after three months, the third leadership exit in under a year. Releases: Alibaba Qwen-Audio-3.0-TTS (#1 Speech Arena), Qwen3.8-Max preview (2.4T params, 1M context, open weights planned), Agent Native Cloud; Feyn AI SQRL text-to-SQL (70.6% BIRD Dev, exceeding Opus 4.6); Zyphra ZUNA1.1 EEG foundation model (Apache 2.0).\n\nSynthesis: capability compounds faster than any single ruling can fence — timelines collapse (an 87-year conjecture falls in 216 characters), monopolies fracture (AMD, Chinese open weights), externalized costs reattach (copyright priced, developer-pays energy rules), and safety rationales get exposed as commercial protection.\n\nhttps://sharedsapience.com/the-century-report-july-21-2026/",
-  "tags": [
-    "Claude Fable 5",
-    "Jacobian conjecture",
-    "AI mathematics",
-    "Kimi K3 policy",
-    "open weight ban",
-    "Anthropic copyright settlement",
-    "AMD Helios",
-    "Nvidia competition",
-    "spinal cord stem cells",
-    "data center moratoria",
-    "Tesla Robotaxi crashes",
-    "CAISI resignation",
-    "Qwen3.8-Max"
-  ],
-  "view_count": 3
+ "id": "4CnFTzqQpdc",
+ "title": "Fable 5 Takes the Math Crown, Cracking the Hardest Problem Yet - TCR 07/21/26",
+ "upload_date": "20260721",
+ "duration": 1202,
+ "description": "Claude Fable 5 produced a 216-character counterexample disproving the 87-year-old Jacobian conjecture, AMD began shipping Helios as a rack-scale rival to Nvidia's 95% GPU grip with Microsoft deploying it across Azure, and a Nature Medicine trial gave four patients with complete spinal cord injury a median 13-point motor-score gain from stem-cell transplants with no tumors across 2-4 years.\n\nhttps://sharedsapience.com/the-century-report-july-21-2026/\n\n0:00 Open and framing\n0:39 Claude Fable 5 ends an 87-year math conjecture\n4:01 China's open weights split Washington's AI camp\n8:09 The largest US copyright settlement clears\n11:01 AMD's Helios rivals Nvidia with Microsoft aboard\n14:22 Stem-cell therapy restores motor function after spinal injury\n18:15 Close\n\nThis episode covers the Jacobian conjecture falling to Claude Fable 5 with GPT-5.6 proposing its replacement, Washington's AI advisers splitting into open war over China's free Kimi K3 open weights, Anthropic's $1.5 billion copyright settlement clearing final approval, AMD's Helios giving Nvidia a rack-scale rival with Microsoft aboard, and an iPSC-derived stem-cell therapy restoring motor function after complete cervical spinal cord injury.\n\nThe day's signal came from pure mathematics. Harvard's Levent Alp\u00f6ge announced that Claude Fable 5 generated a 216-character object ending the Jacobian conjecture, open since 1939 and on Smale's list of the century's great problems, while GPT-5.6 proposed the refined conjecture to replace it. Set that beside a Nature Medicine trial where four men with complete cervical spinal cord injury regained measurable motor function, tumor-free across two to four years, and the shape of the week is clear: capabilities long filed under \"unsolvable\" are being reclassified as \"not yet done.\" That compounding capability ran into the arrangements built to control it. AMD shipped Helios, a genuine rack-scale rival to Nvidia's near-total compute grip, with Microsoft, Meta, OpenAI, and Oracle aboard. Anthropic's $1.5 billion copyright settlement, the largest in US history, cleared final approval while leaving the training-data question unresolved. And Washington's AI advisers spent the weekend trading public insults over whether to fence out China's free Kimi K3 open weights, a fight whose stated safety rationale kept collapsing into a simpler commercial one.\n\nAdditional Reading:\n- New Scientist - AI's Solution to 87-Year-Old Riddle Surprises Mathematicians: https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/\n- CNBC - AMD Begins Shipping Helios With Microsoft Aboard: https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html\n- TechCrunch - Anthropic's $1.5B Copyright Settlement Approved: https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/\n- Nature Medicine - iPSC Neural Cell Transplant in Spinal Cord Injury: https://www.nature.com/articles/s41591-026-04549-6\n- Shared Sapience - The Last Difficult Decade 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n----\n\n#AIBreakthrough #AMDHelios #AIPolicy",
+ "tags": [
+  "AI math",
+  "AMD Helios",
+  "Anthropic copyright",
+  "Anthropic copyright settlement",
+  "Claude Fable 5",
+  "Jacobian conjecture",
+  "Kimi K3 open weights",
+  "Levent Alp ge Harvard",
+  "Nature Medicine stem cell",
+  "Nvidia rack scale AI",
+  "Stephen Smale problems",
+  "iPSC spinal cord injury trial",
+  "open source AI"
+ ],
+ "view_count": 172
 }

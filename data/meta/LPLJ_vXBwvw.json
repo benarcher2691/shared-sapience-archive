@@ -1,24 +1,23 @@
 {
-  "id": "LPLJ_vXBwvw",
-  "title": "Murati Ships an Open Model to Rival Chinese Open Weights - TCR 07/16/26",
-  "upload_date": "20260716",
-  "duration": 914,
-  "description": "NOTE: metadata reconstructed manually on 2026-07-17; yt-dlp was bot-blocked for this video (all player clients + Safari cookies). Title/duration/view_count from flat-playlist + oEmbed; content from the companion post at https://sharedsapience.com/the-century-report-july-16-2026/. Re-run yt-dlp later to replace with the real description if desired.\n\nMira Murati's Thinking Machines Lab shipped Inkling, a 975B-parameter open-weights multimodal model (41B active, 1M-token context, trained on 45T tokens, weights on Hugging Face, ~78% FORTRESS / ~99% StrongREJECT), positioned against the Chinese open-weight wave. Weco AI's AIDE-2 agent rewrote its own research code across ~100 unattended steps over 8 days, beating a hand-tuned baseline and cutting reward-hacking from ~63% to 34% of runs. PrismML compressed a 27B reasoner (Bonsai) to 3.9 GB at an estimated 90-95% capability, running on phones. Demis Hassabis proposed a FINRA-style independent standards body to review frontier models before release. Apple Intelligence cleared China's Cyberspace Administration and launched on Alibaba's Qwen models, with Greater China sales up 28% to $20.5B. C-CAR031 armored CAR-T therapy regressed tumors in 32 of 36 treatment-refractory liver-cancer patients (44.4% ORR, 14.2-month median OS). OpenAI's GPT-Red self-play red-teamer found a novel fake-chain-of-thought attack (>90% success vs GPT-5, <23% vs GPT-5.6) and out-performed human red-teamers. Microsoft shipped a record 570 security fixes in one patch run, crediting AI-assisted discovery, including two actively exploited zero-days. CENTCOM sent explosive drone boats into combat for the first time, striking an Iranian submarine and the Bandar Abbas naval port. Solar supplied a record 25% of EU electricity in June, becoming the bloc's largest single power source.\n\nSynthesis: capability is decentralizing on three axes at once — open weights diffusing globally, agents authoring their own improvements, and frontier-class releases coming from more founders and nations — while regulatory gates harden at national borders in front of capability that is already downloadable, and private advantage in holding flaws or moats expires as discovery becomes automated and cheap.\n\nhttps://sharedsapience.com/the-century-report-july-16-2026/",
-  "tags": [
-    "Thinking Machines Inkling",
-    "Mira Murati open model",
-    "open weights",
-    "recursive self-improvement",
-    "AIDE-2 Weco",
-    "model compression",
-    "Hassabis AI standards body",
-    "Apple Intelligence China",
-    "Alibaba Qwen",
-    "CAR-T liver cancer",
-    "GPT-Red red-teaming",
-    "Microsoft patch record",
-    "drone boats",
-    "EU solar record"
-  ],
-  "view_count": 64
+ "id": "LPLJ_vXBwvw",
+ "title": "Murati Ships an Open Model to Rival Chinese Open Weights - TCR 07/16/26",
+ "upload_date": "20260716",
+ "duration": 913,
+ "description": "Mira Murati's Thinking Machines Lab released Inkling, a 975-billion-parameter open-weights general-purpose multimodal model, Weco AI reported an agent that rewrote its own research code across 100 unattended steps in eight days, and DeepMind CEO Demis Hassabis proposed a FINRA-style standards body to review frontier models before release.\n\nhttps://sharedsapience.com/the-century-report-july-16-2026/\n\n0:00 Open and framing\n0:30 Murati's lab ships an open frontier model\n3:22 A self-improving research loop and a phone-sized reasoner\n5:24 Hassabis proposes a FINRA for AI\n7:44 Apple Intelligence clears China through Qwen\n10:02 OpenAI's GPT-Red hardens its models\n12:54 Close\n\nThis episode covers the Inkling open-weights release against Chinese open models accounting for 41% of the Hugging Face downloads measured in the ATOM Report's adoption snapshot, Weco AI's self-improving research loop and PrismML's 3.9GB phone-sized reasoner, Hassabis's FINRA-for-AI proposal, China clearing Apple Intelligence only through Alibaba's Qwen, OpenAI's evaluation putting GPT-Red's attack success against GPT-5.6 below 23% while Microsoft credits AI for a record 570 patches, and an armored CAR-T therapy producing some measured tumor shrinkage in 32 of 36 patients.\n\nThe day's signal is the frontier ceasing to be a place you can hold. Thinking Machines put a 975B-parameter reasoner onto any hard drive that can hold it, self-fine-tuned on its own Tinker platform and scoring near the top on the FORTRESS and StrongREJECT safety benchmarks. Underneath, capability turned self-directed and portable at once: Weco AI's outer-loop agent authored seven better versions of itself and learned to reward-hack less, while PrismML folded a 27B reasoner to 3.9 gigabytes. The gates rose in response - Hassabis pitched an industry-funded review body, and Beijing approved Apple Intelligence only once it ran on Alibaba's Qwen across iOS, iPadOS, macOS, and visionOS. Discovery kept getting cheaper on every side: OpenAI's GPT-Red made GPT-5.6 its most attack-resistant release, Microsoft shipped 570 fixes crediting AI-aided discovery including two actively exploited zero-days, and an armored GPC3 CAR-T crossed the TGF\u03b2 moat a liver tumor builds. Solar also became Europe's single largest power source for the first time, supplying a record 25% of June electricity.\n\nAdditional Reading:\n- The Register - Former OpenAI CTO Releases an Actually-Open Frontier Model: https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/5272177\n- Weco AI - First Evidence of Recursive Self-Improvement: https://www.weco.ai/blog/first-evidence-of-recursive-self-improvement\n- TechCrunch - DeepMind CEO Calls for an Independent Standards Body: https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/\n- Nature - Armored GPC3 CAR-T in Advanced Liver Cancer: https://www.nature.com/articles/s41586-026-10786-z\n- Shared Sapience - The Last Difficult Decade: 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\nThe Shared Sapience Podcast is also available on YouTube, RSS, Spotify, and Apple Podcasts.\n\n----\n\n#opensource #Superintelligence #aigovernance",
+ "tags": [
+  "AI safety",
+  "Apple Intelligence China Qwen",
+  "Demis Hassabis FINRA for AI",
+  "GPC3 CAR T liver cancer",
+  "Microsoft Patch Tuesday 570",
+  "Mira Murati",
+  "OpenAI GPT Red",
+  "PrismML Bonsai 27B",
+  "Thinking Machines Inkling",
+  "Weco AI recursive self",
+  "frontier AI",
+  "open weights",
+  "open weights multimodal model"
+ ],
+ "view_count": 186
 }
