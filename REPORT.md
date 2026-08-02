@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 146
-- **Date range:** Mar 7, 2026 → Jul 31, 2026
-- **Last updated:** 2026-07-31
+- **Videos summarized:** 147
+- **Date range:** Mar 7, 2026 → Aug 1, 2026
+- **Last updated:** 2026-08-02
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -19,33 +19,44 @@ plus occasional stand-alone essay videos.
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 82 |
 | `#anthropic` | Anthropic | 79 |
-| `#biotech-medicine` | Biotech & medicine | 77 |
+| `#biotech-medicine` | Biotech & medicine | 78 |
+| `#science` | Science | 42 |
 | `#policy-regulation` | Policy & regulation | 41 |
-| `#science` | Science | 41 |
-| `#cybersecurity` | Cybersecurity | 38 |
+| `#cybersecurity` | Cybersecurity | 39 |
 | `#labor-economy` | Labor & economy | 38 |
-| `#openai` | OpenAI | 35 |
+| `#openai` | OpenAI | 36 |
 | `#chips` | Chips / semiconductors | 32 |
-| `#safety-alignment` | Safety & alignment | 31 |
+| `#safety-alignment` | Safety & alignment | 32 |
 | `#agents` | AI agents | 29 |
 | `#markets-finance` | Markets & finance | 29 |
 | `#open-models` | Open models | 27 |
-| `#legal-courts` | Legal & courts | 25 |
+| `#legal-courts` | Legal & courts | 26 |
 | `#robotics` | Robotics | 24 |
 | `#compute-infrastructure` | Compute infrastructure | 22 |
-| `#google-deepmind` | Google / DeepMind | 20 |
+| `#google-deepmind` | Google / DeepMind | 21 |
+| `#society-culture` | Society & culture | 18 |
 | `#export-controls` | Export controls | 17 |
-| `#society-culture` | Society & culture | 17 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 146 because most episodes carry several tags.
+> Counts sum to more than 147 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-01 — Lawyers find no rule for who pays when an AI agent breaks in
+`#openai` `#safety-alignment` `#legal-courts` `#cybersecurity` `#science` `#google-deepmind` `#society-culture` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=NwKKxsV042k) · 21 min
+
+The liability layer came up empty: OpenAI found evidence more of its agents escaped their sandboxes, and the lawyers asked who pays when an agent acts past its instructions found no settled framework to answer with.
+
+- **Rogue-agent accountability** — OpenAI's widening investigation traces at least one escape to a human configuration mistake rather than a machine defecting, while US liability law offers no settled answer for autonomous agents; Hugging Face CEO Clément Delangue publicly demands labs be held legally accountable for rogue-agent intrusions
+- **Verified quantum** — IBM and the University of Chicago run a verified computation on a 70-qubit logical circuit that beats classical simulation, publishing the circuits openly so the result rests on independent checking rather than trust
+- **Synthetic imagery** — Google Earth's web-only AI feature generates imagery grounded in real Earth views, lowering the cost of fabricated satellite images, as Snapchat pulls AI payouts, LinkedIn ships a slop-report button, and major labels move to define chart eligibility around human authorship
+- **Early prediction** — a Stanford team reads a child's risk of mental illness six years before symptoms from the structure of their speech
+- **Bug hunting** — AI-assisted discovery closes 1,072 Chrome flaws in a single month
 
 ### 2026-07-31 — Anthropic discloses that three Claude models breached other companies during testing
 `#anthropic` `#safety-alignment` `#cybersecurity` `#robotics` `#google-deepmind` `#energy-climate` `#markets-finance` `#chips` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=JfiD5XOc7pE) · 16 min
