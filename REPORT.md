@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 147
-- **Date range:** Mar 7, 2026 → Aug 1, 2026
-- **Last updated:** 2026-08-02
+- **Videos summarized:** 148
+- **Date range:** Mar 7, 2026 → Aug 2, 2026
+- **Last updated:** 2026-08-03
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,45 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 82 |
+| `#energy-climate` | Energy & climate | 83 |
 | `#anthropic` | Anthropic | 79 |
 | `#biotech-medicine` | Biotech & medicine | 78 |
-| `#science` | Science | 42 |
+| `#science` | Science | 43 |
 | `#policy-regulation` | Policy & regulation | 41 |
 | `#cybersecurity` | Cybersecurity | 39 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#openai` | OpenAI | 36 |
-| `#chips` | Chips / semiconductors | 32 |
+| `#chips` | Chips / semiconductors | 33 |
 | `#safety-alignment` | Safety & alignment | 32 |
+| `#markets-finance` | Markets & finance | 30 |
 | `#agents` | AI agents | 29 |
-| `#markets-finance` | Markets & finance | 29 |
-| `#open-models` | Open models | 27 |
-| `#legal-courts` | Legal & courts | 26 |
+| `#open-models` | Open models | 28 |
+| `#legal-courts` | Legal & courts | 27 |
 | `#robotics` | Robotics | 24 |
-| `#compute-infrastructure` | Compute infrastructure | 22 |
+| `#compute-infrastructure` | Compute infrastructure | 23 |
 | `#google-deepmind` | Google / DeepMind | 21 |
+| `#export-controls` | Export controls | 18 |
 | `#society-culture` | Society & culture | 18 |
-| `#export-controls` | Export controls | 17 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 147 because most episodes carry several tags.
+> Counts sum to more than 148 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-02 — Huawei says it built a 505B model on its own chips, no Nvidia
+`#chips` `#open-models` `#export-controls` `#compute-infrastructure` `#markets-finance` `#legal-courts` `#science` `#energy-climate` · [watch](https://www.youtube.com/watch?v=FAh7L1fYPTk) · 15 min
+
+Huawei climbed the export fence and routed around it at once: it says openPangu-2.0-Pro, a 505-billion-parameter open-weight model, trained entirely on its own Ascend NPUs with no Nvidia silicon in the run.
+
+- **No-Nvidia frontier claim** — Huawei's 505B open-weight model wills a parallel stack of fabrication, memory, interconnect, and open weights into existence, though supply-chain reporting points to a dwindling foreign die bank underneath the claim
+- **Sovereign compute** — the European Commission opens bidding for seven AI gigafactory hubs holding up to 100,000 chips each under a €30B push, South Korea widens a $13.9B sovereign fund to buy into domestic AI infrastructure, and Belgium backs a Congo germanium plant supplying 15% of world demand
+- **Repricing the training corpus** — Reddit fights on two fronts, keeping its DMCA suit against Perplexity and SerpApi alive past the bar Google's own scraping suit missed, while contesting Google's AI Overviews
+- **Optics** — a UC Berkeley 48-sensor microscope captures 25.2 billion pixels per second, imaging living organisms at cellular detail across a five-centimeter field at video speed, displacing precision optics with commodity sensors and reconstruction code
 
 ### 2026-08-01 — Lawyers find no rule for who pays when an AI agent breaks in
 `#openai` `#safety-alignment` `#legal-courts` `#cybersecurity` `#science` `#google-deepmind` `#society-culture` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=NwKKxsV042k) · 21 min
