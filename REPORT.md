@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 149
-- **Date range:** Mar 7, 2026 → Aug 3, 2026
+- **Videos summarized:** 150
+- **Date range:** Mar 7, 2026 → Aug 4, 2026
 - **Last updated:** 2026-08-04
 - **How to update / search:** see [README.md](README.md)
 
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 84 |
-| `#anthropic` | Anthropic | 80 |
-| `#biotech-medicine` | Biotech & medicine | 79 |
+| `#energy-climate` | Energy & climate | 85 |
+| `#anthropic` | Anthropic | 81 |
+| `#biotech-medicine` | Biotech & medicine | 80 |
 | `#science` | Science | 44 |
-| `#policy-regulation` | Policy & regulation | 41 |
-| `#cybersecurity` | Cybersecurity | 39 |
+| `#policy-regulation` | Policy & regulation | 42 |
+| `#cybersecurity` | Cybersecurity | 40 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#openai` | OpenAI | 36 |
 | `#chips` | Chips / semiconductors | 34 |
 | `#safety-alignment` | Safety & alignment | 33 |
 | `#markets-finance` | Markets & finance | 31 |
+| `#open-models` | Open models | 30 |
 | `#agents` | AI agents | 29 |
-| `#open-models` | Open models | 29 |
 | `#legal-courts` | Legal & courts | 27 |
+| `#compute-infrastructure` | Compute infrastructure | 24 |
 | `#robotics` | Robotics | 24 |
-| `#compute-infrastructure` | Compute infrastructure | 23 |
 | `#google-deepmind` | Google / DeepMind | 21 |
+| `#society-culture` | Society & culture | 19 |
 | `#export-controls` | Export controls | 18 |
-| `#society-culture` | Society & culture | 18 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 11 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 149 because most episodes carry several tags.
+> Counts sum to more than 150 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-04 — Texas orders an audit before any new data center plugs in
+`#energy-climate` `#compute-infrastructure` `#policy-regulation` `#open-models` `#anthropic` `#cybersecurity` `#society-culture` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=IEF_rspBTT0) · 14 min
+
+Arrangements built to keep costs invisible got dragged into daylight: Texas, having courted the buildout, now requires operators in its grid queue to disclose water use, tax breaks, and ownership before any capacity is allocated.
+
+- **Texas grid freeze** — new data-center interconnection approvals are barred until an audit of every pending request finishes, against a 65-gigawatt queue, while a federal bill moves to price interconnection costs onto the beneficiary rather than every household's bill
+- **Open-weight Europe** — a French lab tells Wired its revenue climbed roughly twentyfold, with curbs on some of Anthropic's most capable models reportedly accelerating European enterprise adoption of models they can run themselves; DeepSeek's V4-Flash halves agent-token costs amid Beijing's involution warnings
+- **Surveillance playbook** — a leaked Flock guide shows the vendor coaching police to brief councils before public comment, scripting the answer before residents can object
+- **Gated defense** — Cogent ships VR-1, a cyber-reasoning model, only to vetted and best-defended buyers, pairing it with a model-agnostic containment runtime any organization can run
+- **Diagnostic equity** — a skin-disease model shows how much a system explains is a measurable, tunable variable, one that can narrow diagnostic gaps across skin tones, with MIT finding AI assistance benefits vary by user expertise
 
 ### 2026-08-03 — Qwen3.8-Max goes public, weights promised next week
 `#open-models` `#anthropic` `#safety-alignment` `#chips` `#energy-climate` `#science` `#biotech-medicine` `#markets-finance` · [watch](https://www.youtube.com/watch?v=65t2RR1LNs0) · 18 min
