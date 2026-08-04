@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 148
-- **Date range:** Mar 7, 2026 → Aug 2, 2026
-- **Last updated:** 2026-08-03
+- **Videos summarized:** 149
+- **Date range:** Mar 7, 2026 → Aug 3, 2026
+- **Last updated:** 2026-08-04
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,19 +17,19 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 83 |
-| `#anthropic` | Anthropic | 79 |
-| `#biotech-medicine` | Biotech & medicine | 78 |
-| `#science` | Science | 43 |
+| `#energy-climate` | Energy & climate | 84 |
+| `#anthropic` | Anthropic | 80 |
+| `#biotech-medicine` | Biotech & medicine | 79 |
+| `#science` | Science | 44 |
 | `#policy-regulation` | Policy & regulation | 41 |
 | `#cybersecurity` | Cybersecurity | 39 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#openai` | OpenAI | 36 |
-| `#chips` | Chips / semiconductors | 33 |
-| `#safety-alignment` | Safety & alignment | 32 |
-| `#markets-finance` | Markets & finance | 30 |
+| `#chips` | Chips / semiconductors | 34 |
+| `#safety-alignment` | Safety & alignment | 33 |
+| `#markets-finance` | Markets & finance | 31 |
 | `#agents` | AI agents | 29 |
-| `#open-models` | Open models | 28 |
+| `#open-models` | Open models | 29 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#robotics` | Robotics | 24 |
 | `#compute-infrastructure` | Compute infrastructure | 23 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 148 because most episodes carry several tags.
+> Counts sum to more than 149 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-03 — Qwen3.8-Max goes public, weights promised next week
+`#open-models` `#anthropic` `#safety-alignment` `#chips` `#energy-climate` `#science` `#biotech-medicine` `#markets-finance` · [watch](https://www.youtube.com/watch?v=65t2RR1LNs0) · 18 min
+
+Alibaba compressed the distance from controlled access to full ownership into days: Qwen3.8-Max opened through QwenWork with downloadable weights promised within a week.
+
+- **Qwen3.8-Max** — the 2.4-trillion-parameter model goes widely accessible ahead of its open-weights release, while Thinking Machines argues for staging some capability to vetted defenders first, a case sharpened by a Reuters finding that PLA-linked researchers trained defense systems on outputs from US models
+- **Lead compression** — Anthropic engineer Levent Alpöge says Fable produced proposed solutions to five of the ten math problems OpenAI attributed to its unreleased Astra model, within 24 hours, suggesting a temporary lead may be hard to convert into a lasting one
+- **Circuit boards** — AI server demand reaches the PCB layer, pushing prices up more than 20% as it competes with grid and electric-vehicle equipment for capacity
+- **Nuclear** — China approves eight 1,127 MW Hualong One reactors across four provinces, more than nine gigawatts of repeatable firm power for the buildout
+- **Chemistry and medicine** — two electrochemical cells turn nitrate waste into ammonia and formamide, a botulinum-derived neurotoxin is reprogrammed into a cancer-cell switch, and a trace-polymer cement heals its own cracks in hours
 
 ### 2026-08-02 — Huawei says it built a 505B model on its own chips, no Nvidia
 `#chips` `#open-models` `#export-controls` `#compute-infrastructure` `#markets-finance` `#legal-courts` `#science` `#energy-climate` · [watch](https://www.youtube.com/watch?v=FAh7L1fYPTk) · 15 min

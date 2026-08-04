@@ -9,7 +9,7 @@ Tracking and summarizing every video on
 |---|---|
 | `REPORT.md` | The report: channel overview, topic index, one summary per video (newest first). |
 | `update.py` | Incremental updater — finds new videos, caches their metadata, writes summary stubs to `PENDING.md`. Never touches `REPORT.md`. `--refetch` re-pulls metadata for videos already cached. |
-| `data/meta/*.json` | Metadata cache, one JSON per video (title, date, duration, description, tags). This is what "already summarized" is diffed against. |
+| `data/meta/*.json` | Metadata cache, one JSON per video (title, date, duration, description, tags). Reused when a video was fetched but never summarized, so no refetch is needed. |
 | `PENDING.md` | Created by `update.py` when new videos exist; holds raw material for summaries. Delete after folding into `REPORT.md`. |
 | `refresh_report.py` | Recomputes `REPORT.md`'s header stats and topic index from its entries. Run after adding/editing entries. |
 | `build_site.py` | Regenerates the website from `REPORT.md`. Run after updating the report. |
@@ -21,6 +21,14 @@ Tracking and summarizing every video on
 ```sh
 python3 update.py            # needs yt-dlp on PATH (brew install yt-dlp)
 ```
+
+`update.py` decides what's new by diffing the channel listing against the video
+IDs already written up in `REPORT.md` — not against the metadata cache. That
+matters: a video whose metadata was fetched but never summarized still counts
+as new and gets re-stubbed, instead of the script reporting "up to date" while
+the report sits a video behind. Re-running is safe — cached metadata is reused
+rather than refetched, and a video already stubbed in `PENDING.md` isn't
+stubbed twice.
 
 Then ask Claude:
 

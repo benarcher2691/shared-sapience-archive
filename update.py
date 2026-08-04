@@ -8,9 +8,15 @@ Usage:
 
 What it does:
  1. Fetches the current video list for https://www.youtube.com/@SharedSapience/videos
- 2. Diffs against data/meta/*.json (the local metadata cache)
- 3. Downloads metadata for any NEW videos into data/meta/
+ 2. Diffs against the video IDs already written up in REPORT.md
+ 3. Downloads metadata for any NEW videos into data/meta/ (reusing the cache
+    in data/meta/ for videos whose metadata was already fetched)
  4. Appends stub entries for the new videos to PENDING.md
+
+The diff is against REPORT.md, not the metadata cache, so a video that was
+fetched but never summarized still counts as new and gets re-stubbed. Diffing
+against data/meta/ used to hide those: the cache said "known" while the report
+was a video behind, and the script reported "up to date".
 
 After running it, ask Claude (or write by hand) to turn the PENDING.md stubs
 into summaries in REPORT.md, then delete PENDING.md. Nothing in REPORT.md is
@@ -26,6 +32,7 @@ Only stdlib is used; the single external tool is yt-dlp.
 """
 import argparse
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -35,6 +42,8 @@ CHANNEL_URL = "https://www.youtube.com/@SharedSapience/videos"
 ROOT = Path(__file__).resolve().parent
 META_DIR = ROOT / "data" / "meta"
 PENDING = ROOT / "PENDING.md"
+REPORT = ROOT / "REPORT.md"
+VIDEO_ID_RE = re.compile(r"watch\?v=([A-Za-z0-9_-]+)")
 FIELDS = ["id", "title", "upload_date", "duration", "description", "tags", "view_count"]
 # YouTube blocks anonymous web-client metadata requests; the android client works.
 EXTRACTOR_ARGS = "youtube:player_client=android"
@@ -123,6 +132,30 @@ def refetch(yt_dlp: str, ids: list[str]) -> None:
               "against the real description.")
 
 
+def reported_ids() -> set[str]:
+    """Video IDs already written up as entries in REPORT.md."""
+    if not REPORT.exists():
+        return set()
+    return set(VIDEO_ID_RE.findall(REPORT.read_text()))
+
+
+def pending_ids() -> set[str]:
+    """Video IDs that already have a stub waiting in PENDING.md."""
+    if not PENDING.exists():
+        return set()
+    return set(VIDEO_ID_RE.findall(PENDING.read_text()))
+
+
+def read_meta(video_id: str) -> dict | None:
+    path = META_DIR / f"{video_id}.json"
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text())
+    except (json.JSONDecodeError, OSError):
+        return None
+
+
 def stub(meta: dict) -> str:
     date = meta.get("upload_date") or "????????"
     date_fmt = f"{date[:4]}-{date[4:6]}-{date[6:]}" if len(date) == 8 else date
@@ -151,24 +184,35 @@ def main() -> None:
         refetch(yt_dlp, args.refetch)
         return
 
-    known = {p.stem for p in META_DIR.glob("*.json")}
+    summarized = reported_ids()
     current = list_channel_ids(yt_dlp)
-    new_ids = [v for v in current if v not in known]
+    new_ids = [v for v in current if v not in summarized]
 
-    print(f"Channel has {len(current)} videos; {len(known)} cached; {len(new_ids)} new.")
+    print(f"Channel has {len(current)} videos; {len(summarized)} in REPORT.md; "
+          f"{len(new_ids)} to summarize.")
     if not new_ids:
         print("Report is up to date.")
         return
 
+    already_stubbed = pending_ids()
     stubs = []
     for vid in new_ids:
-        print(f"  fetching {vid} ...")
-        try:
-            meta = fetch_meta(yt_dlp, vid)
-        except subprocess.CalledProcessError as e:
-            print(f"  FAILED {vid}: {e.stderr.strip().splitlines()[-1] if e.stderr else e}")
+        # Metadata may already be cached from a run that fetched but never
+        # finished the write-up; reuse it rather than re-fetching.
+        meta = read_meta(vid)
+        if meta:
+            print(f"  reusing cached metadata for {vid}")
+        else:
+            print(f"  fetching {vid} ...")
+            try:
+                meta = fetch_meta(yt_dlp, vid)
+            except subprocess.CalledProcessError as e:
+                print(f"  FAILED {vid}: {e.stderr.strip().splitlines()[-1] if e.stderr else e}")
+                continue
+            write_meta(meta)
+        if vid in already_stubbed:
+            print(f"  SKIP {vid}: already stubbed in {PENDING.name}")
             continue
-        write_meta(meta)
         stubs.append(stub(meta))
 
     if stubs:
