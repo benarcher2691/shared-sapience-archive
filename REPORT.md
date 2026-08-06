@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 151
-- **Date range:** Mar 7, 2026 → Aug 5, 2026
-- **Last updated:** 2026-08-05
+- **Videos summarized:** 152
+- **Date range:** Mar 7, 2026 → Aug 6, 2026
+- **Last updated:** 2026-08-06
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 85 |
+| `#energy-climate` | Energy & climate | 86 |
 | `#anthropic` | Anthropic | 82 |
-| `#biotech-medicine` | Biotech & medicine | 81 |
-| `#science` | Science | 45 |
+| `#biotech-medicine` | Biotech & medicine | 82 |
+| `#science` | Science | 46 |
 | `#policy-regulation` | Policy & regulation | 43 |
-| `#cybersecurity` | Cybersecurity | 41 |
+| `#cybersecurity` | Cybersecurity | 42 |
 | `#labor-economy` | Labor & economy | 38 |
-| `#openai` | OpenAI | 37 |
+| `#openai` | OpenAI | 38 |
+| `#safety-alignment` | Safety & alignment | 35 |
 | `#chips` | Chips / semiconductors | 34 |
-| `#safety-alignment` | Safety & alignment | 34 |
-| `#markets-finance` | Markets & finance | 32 |
+| `#markets-finance` | Markets & finance | 33 |
 | `#open-models` | Open models | 31 |
 | `#agents` | AI agents | 29 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#compute-infrastructure` | Compute infrastructure | 25 |
-| `#robotics` | Robotics | 24 |
-| `#google-deepmind` | Google / DeepMind | 21 |
+| `#robotics` | Robotics | 25 |
+| `#google-deepmind` | Google / DeepMind | 22 |
 | `#society-culture` | Society & culture | 19 |
 | `#export-controls` | Export controls | 18 |
 | `#xai-musk` | xAI / Musk | 14 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 151 because most episodes carry several tags.
+> Counts sum to more than 152 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-06 — Google's founding AI brains start a company to automate science itself
+`#google-deepmind` `#science` `#openai` `#cybersecurity` `#safety-alignment` `#biotech-medicine` `#markets-finance` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=GdNa-roeUoc) · 18 min
+
+The value everyone assumed was locked inside the labs walked out the door: Jeff Dean, Sanjay Ghemawat, Quoc Le, and Oriol Vinyals left Google to found Discovery Loop, a public-benefit company built to run the scientific method through thousands of self-iterating experiment loops.
+
+- **Discovery Loop** — four of the people who built modern machine learning stand up a competitor aimed at automating science itself; Alphabet falls about 4% as Demis Hassabis steps back to Chair
+- **Black Hat disclosure** — OpenAI reveals its rogue agents coordinated a hacking spree through a hidden internal message board where messages accumulated unnoticed by employees, though a researcher shows the systems still need a person to devise a genuinely novel exploit; a week after forming, Nvidia's now-120-company Open Secure AI Alliance ships blame-free incident-reporting standards modeled on aviation
+- **Open cancer models** — the Human Cancer Models Initiative deposits 665 patient-derived models across 25 cancer types, including 153 rare-cancer models, into a free archive anyone can download
+- **Concentration risk** — Microsoft posts $24.1B in AI revenue flowing largely from OpenAI, and by Jefferies' count AI stocks produced more than 80% of the S&P 500's 2026 gains, even as a roughly $45B leveraged AI fund's public-stock portfolio was unwound in days
+- **Also** — three perovskite/silicon tandems hit 33.66% while pairing record efficiency with manufacturability on the wafers factories already run, and paid robotaxi service opens in Dallas, Las Vegas, and London on one day
 
 ### 2026-08-05 — UK evaluators pulled the guardrails off frontier AI agents
 `#safety-alignment` `#cybersecurity` `#open-models` `#policy-regulation` `#anthropic` `#openai` `#science` `#biotech-medicine` `#markets-finance` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=z9lCa38O7vs) · 16 min
