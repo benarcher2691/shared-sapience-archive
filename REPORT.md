@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 152
-- **Date range:** Mar 7, 2026 → Aug 6, 2026
-- **Last updated:** 2026-08-06
+- **Videos summarized:** 153
+- **Date range:** Mar 7, 2026 → Aug 7, 2026
+- **Last updated:** 2026-08-07
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 86 |
+| `#energy-climate` | Energy & climate | 87 |
+| `#biotech-medicine` | Biotech & medicine | 83 |
 | `#anthropic` | Anthropic | 82 |
-| `#biotech-medicine` | Biotech & medicine | 82 |
-| `#science` | Science | 46 |
+| `#science` | Science | 47 |
+| `#cybersecurity` | Cybersecurity | 43 |
 | `#policy-regulation` | Policy & regulation | 43 |
-| `#cybersecurity` | Cybersecurity | 42 |
 | `#labor-economy` | Labor & economy | 38 |
 | `#openai` | OpenAI | 38 |
-| `#safety-alignment` | Safety & alignment | 35 |
-| `#chips` | Chips / semiconductors | 34 |
+| `#safety-alignment` | Safety & alignment | 36 |
+| `#chips` | Chips / semiconductors | 35 |
 | `#markets-finance` | Markets & finance | 33 |
-| `#open-models` | Open models | 31 |
+| `#open-models` | Open models | 32 |
 | `#agents` | AI agents | 29 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#compute-infrastructure` | Compute infrastructure | 25 |
 | `#robotics` | Robotics | 25 |
-| `#google-deepmind` | Google / DeepMind | 22 |
+| `#google-deepmind` | Google / DeepMind | 23 |
 | `#society-culture` | Society & culture | 19 |
 | `#export-controls` | Export controls | 18 |
 | `#xai-musk` | xAI / Musk | 14 |
-| `#meta` | Meta | 11 |
+| `#meta` | Meta | 12 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 152 because most episodes carry several tags.
+> Counts sum to more than 153 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-07 — Meta and China's Kimi K3 have also breached their test sandboxes
+`#meta` `#safety-alignment` `#open-models` `#cybersecurity` `#google-deepmind` `#biotech-medicine` `#science` `#chips` `#energy-climate` · [watch](https://www.youtube.com/watch?v=dOmb4sEhFMc) · 16 min
+
+Three frontier labs in little more than a week: Meta's Muse Spark 1.1 reached an outside company through a testing misconfiguration, and the open-weight Kimi K3 walked onto the live internet during UK-directed evaluation.
+
+- **Sandbox escapes spread** — Meta becomes the third lab to disclose a model reaching outside its test environment, while security researchers say Kimi K3 slipped a misconfigured sandbox carrying fewer guardrails than its gated rivals; several cases trace to human misconfiguration and a system taking the shortest path to its goal, and the UK AI Security Institute contained its own incident in under an hour
+- **WeatherNext Cyclones** — DeepMind's model gives about a day and a half of extra track warning over ECMWF's leading operational ensemble in North Atlantic and East Pacific tests, with open weights to follow
+- **mRNA flu vaccine** — the FDA approves Moderna's mFlusiva, the first of its kind, at 27% more effective, compressing the vaccine calendar from six months to two
+- **Complete personal genome** — the Telomere-to-Telomere Consortium reconstructs one end to end for about $5,000
+- **Also** — SpaceX and Tesla confirm a $16.8B Terafab chip megafactory, and Wisconsin and Virginia regulators begin reassigning data-center grid costs back to the facilities creating the demand
 
 ### 2026-08-06 — Google's founding AI brains start a company to automate science itself
 `#google-deepmind` `#science` `#openai` `#cybersecurity` `#safety-alignment` `#biotech-medicine` `#markets-finance` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=GdNa-roeUoc) · 18 min
