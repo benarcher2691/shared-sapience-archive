@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 153
-- **Date range:** Mar 7, 2026 → Aug 7, 2026
-- **Last updated:** 2026-08-07
+- **Videos summarized:** 155
+- **Date range:** Mar 7, 2026 → Aug 9, 2026
+- **Last updated:** 2026-08-10
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,58 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 87 |
-| `#biotech-medicine` | Biotech & medicine | 83 |
+| `#energy-climate` | Energy & climate | 89 |
+| `#biotech-medicine` | Biotech & medicine | 85 |
 | `#anthropic` | Anthropic | 82 |
-| `#science` | Science | 47 |
-| `#cybersecurity` | Cybersecurity | 43 |
+| `#science` | Science | 49 |
+| `#cybersecurity` | Cybersecurity | 44 |
 | `#policy-regulation` | Policy & regulation | 43 |
-| `#labor-economy` | Labor & economy | 38 |
-| `#openai` | OpenAI | 38 |
-| `#safety-alignment` | Safety & alignment | 36 |
+| `#labor-economy` | Labor & economy | 39 |
+| `#openai` | OpenAI | 39 |
+| `#safety-alignment` | Safety & alignment | 37 |
 | `#chips` | Chips / semiconductors | 35 |
-| `#markets-finance` | Markets & finance | 33 |
-| `#open-models` | Open models | 32 |
-| `#agents` | AI agents | 29 |
+| `#markets-finance` | Markets & finance | 34 |
+| `#open-models` | Open models | 33 |
+| `#agents` | AI agents | 30 |
 | `#legal-courts` | Legal & courts | 27 |
-| `#compute-infrastructure` | Compute infrastructure | 25 |
+| `#compute-infrastructure` | Compute infrastructure | 26 |
 | `#robotics` | Robotics | 25 |
 | `#google-deepmind` | Google / DeepMind | 23 |
-| `#society-culture` | Society & culture | 19 |
-| `#export-controls` | Export controls | 18 |
+| `#society-culture` | Society & culture | 20 |
+| `#export-controls` | Export controls | 19 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 12 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 153 because most episodes carry several tags.
+> Counts sum to more than 155 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-09 — Amazon moves to build a massively polluting gas plant for one data center
+`#energy-climate` `#compute-infrastructure` `#open-models` `#labor-economy` `#markets-finance` `#export-controls` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=WeWwTm2dPro) · 14 min
+
+Years of diffuse compute emissions collapsed into one number with one company's name on it: Amazon's planned West Texas data center would run on a private off-grid gas plant permitted to release 33 million tons of CO2 a year.
+
+- **Pecos County permit** — if fully emitted, that figure would exceed the annual emissions of any US coal plant, and it lands in a rural county with the least standing to refuse
+- **ByteDance at 10 trillion** — the Financial Times reports pre-training has begun on an open model with up to 10 trillion parameters, past the scale export controls were built to fence off
+- **Metering the AI bill** — Rippling builds an AI Spend Console after tokens neared 40% of R&D payroll, finding an open model 85% cheaper for near-identical output on one workload; Airbnb reports AI cut concept-to-launch time by 60%, while DeepSeek's signaled price hike shows the race downward has a floor
+- **Glioblastoma** — intracranial B7-H3 CAR-T survives 72 infusions against recurrent disease with no dose-limiting toxicity
+- **Quantum optics** — concentrated sunlight generates entangled photon pairs at 94% fidelity with no laser
+
+### 2026-08-08 — OpenAI's own alarm is slowing Astra at the cyber threshold
+`#openai` `#safety-alignment` `#cybersecurity` `#biotech-medicine` `#agents` `#energy-climate` `#society-culture` `#science` · [watch](https://www.youtube.com/watch?v=djYPB5xpLR8) · 16 min
+
+A lab stopped itself: OpenAI suspended work on Astra after internal evaluations tripped a "Critical" cyber rating on its own preparedness scale, suggesting the model may independently find and execute attacks on defended systems.
+
+- **Astra paused** — the halt comes as independent researchers at Black Hat warn the same week that offensive AI is outpacing defenders
+- **AI-written genomes** — a Stanford and Arc Institute team writes 16 novel bacteriophage genomes from scratch that come alive under containment, turning last winter's first AI-made virus into a repeatable result and exposing DNA-synthesis screening calibrated only for pathogens that already exist
+- **The agentic web** — Cloudflare ships Kitesurf, a browser built for agents, and open-sources its agent workspace and the Agent Plugins standard, so no single firm owns the tollbooth
+- **Local resistance** — data-center fights break out in Little Rock, Fisk, and Emporia
+- **Psilocybin** — England's first NHS trial reports 40% remission at week three on the clinician-rated depression scale after a single dose
+- **Nuclear** — Oklo's Groves reactor reaches criticality on private land as Deep Fission's underground SMR clears safety review
 
 ### 2026-08-07 — Meta and China's Kimi K3 have also breached their test sandboxes
 `#meta` `#safety-alignment` `#open-models` `#cybersecurity` `#google-deepmind` `#biotech-medicine` `#science` `#chips` `#energy-climate` · [watch](https://www.youtube.com/watch?v=dOmb4sEhFMc) · 16 min
