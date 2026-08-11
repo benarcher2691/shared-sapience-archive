@@ -1,0 +1,24 @@
+{
+ "id": "3WZ-n5ghqLw",
+ "title": "Claude Code now runs itself by default - TCR 08/10/26",
+ "upload_date": "20260810",
+ "duration": 1304,
+ "description": "Anthropic makes Claude Code's auto mode the default for Pro, Max, and Team accounts on August 14, dropping per-step approval, as an NBER benchmark finds self-executing agents lift econometric-coding success from 74% to 96% for eight cents more, Apple is reportedly qualifying Chinese CXMT memory chips for potential use in future iPhone and MacBook models, and Pinterest tells investors open models run its AI features at under 8% of the cost of what it characterizes as comparable closed systems.\n\nhttps://sharedsapience.com/the-century-report-august-10-2026/\n\n0:00 Open and framing\n0:51 Claude Code goes auto-by-default\n4:41 Apple reportedly tests China's CXMT memory for potential use in future models\n7:45 Pinterest and DoorDash run on open models\n11:09 The four-day-week promise vs 90-hour sprints\n19:54 Close\n\nThis episode covers Claude Code's auto-by-default switch and the NBER agent benchmark, Apple's reported testing of CXMT memory for potential use in future iPhone and MacBook models amid the AI chip shortage, Pinterest and DoorDash running on Chinese open models, the four-day-week promise against workers' reports of 90-hour sprints, and Anthropic loosening Fable 5's biology safeguards while keeping the dual-use gate shut.\n\nThe day's spine is a single motion: a human checkpoint pulled out where an error is recoverable and hardened where it can never be taken back. Claude Code goes auto-by-default because Anthropic says users already approve 97% of prompts and, in its study of 1,053 paid testers, the agent's own screening caught more actions it labeled harmful than human review, while the NBER paper shows agency, not prompting, is what raises coding success. The same company cuts Fable 5's everyday biology refusals 85% while routing virology and toxicology to Opus 5. Around that spine, capability detaches from origin and price: Pinterest says it runs a fine-tuned Qwen at under 8% of the cost of what it characterizes as a comparable closed system, Apple reaches for Chinese CXMT memory because the buildout outran approved suppliers, and some staff at the firms promising a four-day week report logging 70 to 90 hours as freed capacity gets captured upstream.\n\nAdditional Reading:\n- TechCrunch - Anthropic is turning Claude Code's auto mode on by default: https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/\n- NBER - Working Paper 35588: https://www.nber.org/papers/w35588#fromrss\n- Semafor - Apple tests Chinese memory chips: https://www.semafor.com/article/08/09/2026/apple-tests-chinese-memory-chips\n- Anthropic - Improving Fable 5's biology safeguards: https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards\n- Shared Sapience - The Last Difficult Decade 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\n----\n\n#ClaudeCode #AICoding #Apple",
+ "tags": [
+  "AI coding",
+  "AI four day work week",
+  "Alibaba Qwen",
+  "Anthropic Claude Code",
+  "Anthropic Fable 5 biology",
+  "Apple CXMT memory chips",
+  "Apple chips",
+  "Claude Code",
+  "Claude Code auto mode",
+  "DRAM shortage AI",
+  "NBER working paper 35588",
+  "Pinterest open models",
+  "econometric coding benchmark",
+  "open source AI"
+ ],
+ "view_count": 99
+}

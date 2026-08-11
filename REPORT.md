@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 155
-- **Date range:** Mar 7, 2026 → Aug 9, 2026
-- **Last updated:** 2026-08-10
+- **Videos summarized:** 156
+- **Date range:** Mar 7, 2026 → Aug 10, 2026
+- **Last updated:** 2026-08-11
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,18 +18,18 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 89 |
-| `#biotech-medicine` | Biotech & medicine | 85 |
-| `#anthropic` | Anthropic | 82 |
+| `#biotech-medicine` | Biotech & medicine | 86 |
+| `#anthropic` | Anthropic | 83 |
 | `#science` | Science | 49 |
 | `#cybersecurity` | Cybersecurity | 44 |
 | `#policy-regulation` | Policy & regulation | 43 |
-| `#labor-economy` | Labor & economy | 39 |
+| `#labor-economy` | Labor & economy | 40 |
 | `#openai` | OpenAI | 39 |
-| `#safety-alignment` | Safety & alignment | 37 |
-| `#chips` | Chips / semiconductors | 35 |
-| `#markets-finance` | Markets & finance | 34 |
-| `#open-models` | Open models | 33 |
-| `#agents` | AI agents | 30 |
+| `#safety-alignment` | Safety & alignment | 38 |
+| `#chips` | Chips / semiconductors | 36 |
+| `#markets-finance` | Markets & finance | 35 |
+| `#open-models` | Open models | 34 |
+| `#agents` | AI agents | 31 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#compute-infrastructure` | Compute infrastructure | 26 |
 | `#robotics` | Robotics | 25 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 155 because most episodes carry several tags.
+> Counts sum to more than 156 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-10 — Claude Code now runs itself by default
+`#anthropic` `#agents` `#safety-alignment` `#open-models` `#chips` `#labor-economy` `#markets-finance` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=3WZ-n5ghqLw) · 22 min
+
+The human checkpoint moved: pulled out where an error is recoverable, hardened where it can't be taken back. Claude Code's auto mode becomes the default for Pro, Max, and Team accounts on August 14, dropping per-step approval.
+
+- **Auto by default** — Anthropic says users already approve 97% of prompts and that in a study of 1,053 paid testers the agent's own screening caught more actions it labeled harmful than human review did; an NBER benchmark finds self-executing agents lift econometric-coding success from 74% to 96% for eight cents more, making agency rather than prompting the thing that raises success
+- **Safeguards retuned** — the same company cuts Fable 5's everyday biology refusals 85% while routing virology and toxicology to Opus 5, loosening the recoverable case and keeping the dual-use gate shut
+- **Memory shortage** — Apple is reportedly qualifying Chinese CXMT memory for potential use in future iPhone and MacBook models, reaching past approved suppliers the buildout outran
+- **Open models in production** — Pinterest tells investors a fine-tuned Qwen runs its AI features at under 8% of the cost of what it characterizes as a comparable closed system, with DoorDash also running on Chinese open weights
+- **Labor** — some staff at firms promising a four-day week report logging 70 to 90 hours, freed capacity getting captured upstream
 
 ### 2026-08-09 — Amazon moves to build a massively polluting gas plant for one data center
 `#energy-climate` `#compute-infrastructure` `#open-models` `#labor-economy` `#markets-finance` `#export-controls` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=WeWwTm2dPro) · 14 min
