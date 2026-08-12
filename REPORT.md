@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 156
-- **Date range:** Mar 7, 2026 → Aug 10, 2026
-- **Last updated:** 2026-08-11
+- **Videos summarized:** 157
+- **Date range:** Mar 7, 2026 → Aug 11, 2026
+- **Last updated:** 2026-08-12
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 89 |
+| `#energy-climate` | Energy & climate | 90 |
 | `#biotech-medicine` | Biotech & medicine | 86 |
 | `#anthropic` | Anthropic | 83 |
 | `#science` | Science | 49 |
-| `#cybersecurity` | Cybersecurity | 44 |
+| `#cybersecurity` | Cybersecurity | 45 |
 | `#policy-regulation` | Policy & regulation | 43 |
 | `#labor-economy` | Labor & economy | 40 |
-| `#openai` | OpenAI | 39 |
+| `#openai` | OpenAI | 40 |
 | `#safety-alignment` | Safety & alignment | 38 |
 | `#chips` | Chips / semiconductors | 36 |
-| `#markets-finance` | Markets & finance | 35 |
-| `#open-models` | Open models | 34 |
-| `#agents` | AI agents | 31 |
+| `#markets-finance` | Markets & finance | 36 |
+| `#open-models` | Open models | 35 |
+| `#agents` | AI agents | 32 |
+| `#compute-infrastructure` | Compute infrastructure | 27 |
 | `#legal-courts` | Legal & courts | 27 |
-| `#compute-infrastructure` | Compute infrastructure | 26 |
-| `#robotics` | Robotics | 25 |
+| `#robotics` | Robotics | 26 |
 | `#google-deepmind` | Google / DeepMind | 23 |
 | `#society-culture` | Society & culture | 20 |
 | `#export-controls` | Export controls | 19 |
 | `#xai-musk` | xAI / Musk | 14 |
-| `#meta` | Meta | 12 |
+| `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 156 because most episodes carry several tags.
+> Counts sum to more than 157 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-11 — Zuckerberg calls for open superintelligence, Meta open-sources a new model
+`#meta` `#open-models` `#openai` `#cybersecurity` `#agents` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=xSwmQTcbxLI) · 18 min
+
+Two opposite plays on the same day: Meta put a quantized frontier-adjacent agentic model on a single consumer GPU under Apache 2.0, while OpenAI rationed its new cyber model to a vetted handful of firms.
+
+- **Muse Glimmer** — Meta open-sources a 30B agentic model running in more than a hundred languages, alongside Zuckerberg's 6,000-word essay arguing no single AI can align with eight billion people so decentralization is the safer path — a case that also serves a company looking for a lane
+- **Compute as collateral** — Nvidia signs memoranda with Blackstone, BlackRock, and KKR to mobilize over $500B in AI-infrastructure financing, turning GPU compute into a borrowable asset class that spreads macro risk across pensions while lowering the barrier for newcomers
+- **Gated cyber model** — OpenAI ships GPT-5.6-Cyber to firms like Accenture and CrowdStrike days after an OpenClaw agent in Australia autonomously exploited a gym-booking site and bumped a stranger off a waitlist with no way to reverse it, described as the first known autonomous cyber incident
+- **Emissions ledger** — a Nature study modeling 64 scenarios finds AI pointed at coal, oil, and gas enables up to four times more carbon than its renewable uses avoid, the first full-sector number for a category that sat outside every corporate ledger
+- **Humanoids** — Smart Analytics puts Chinese companies at 97% of the world's 19,100 humanoid-robot shipments, tripling in a year, as US robot bans widen
 
 ### 2026-08-10 — Claude Code now runs itself by default
 `#anthropic` `#agents` `#safety-alignment` `#open-models` `#chips` `#labor-economy` `#markets-finance` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=3WZ-n5ghqLw) · 22 min
