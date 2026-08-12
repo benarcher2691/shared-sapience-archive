@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 157
-- **Date range:** Mar 7, 2026 → Aug 11, 2026
+- **Videos summarized:** 158
+- **Date range:** Mar 7, 2026 → Aug 12, 2026
 - **Last updated:** 2026-08-12
 - **How to update / search:** see [README.md](README.md)
 
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 90 |
-| `#biotech-medicine` | Biotech & medicine | 86 |
-| `#anthropic` | Anthropic | 83 |
-| `#science` | Science | 49 |
-| `#cybersecurity` | Cybersecurity | 45 |
-| `#policy-regulation` | Policy & regulation | 43 |
-| `#labor-economy` | Labor & economy | 40 |
+| `#biotech-medicine` | Biotech & medicine | 87 |
+| `#anthropic` | Anthropic | 84 |
+| `#science` | Science | 50 |
+| `#cybersecurity` | Cybersecurity | 46 |
+| `#policy-regulation` | Policy & regulation | 44 |
+| `#labor-economy` | Labor & economy | 41 |
 | `#openai` | OpenAI | 40 |
-| `#safety-alignment` | Safety & alignment | 38 |
+| `#safety-alignment` | Safety & alignment | 39 |
 | `#chips` | Chips / semiconductors | 36 |
 | `#markets-finance` | Markets & finance | 36 |
 | `#open-models` | Open models | 35 |
-| `#agents` | AI agents | 32 |
+| `#agents` | AI agents | 33 |
 | `#compute-infrastructure` | Compute infrastructure | 27 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#robotics` | Robotics | 26 |
-| `#google-deepmind` | Google / DeepMind | 23 |
-| `#society-culture` | Society & culture | 20 |
+| `#google-deepmind` | Google / DeepMind | 24 |
+| `#society-culture` | Society & culture | 21 |
 | `#export-controls` | Export controls | 19 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 157 because most episodes carry several tags.
+> Counts sum to more than 158 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-12 — An Anthropic model pushes the Riemann hypothesis forward on its own
+`#anthropic` `#science` `#agents` `#google-deepmind` `#biotech-medicine` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#society-culture` `#labor-economy` · [watch](https://www.youtube.com/watch?v=YwRXu6fFDwY) · 17 min
+
+An unreleased Anthropic model, told by an untrained staffer to "take a real stab," ran its own research program for a day and a half and moved a 167-year-old open problem.
+
+- **Riemann hypothesis** — the model coordinated 60 sub-agents across 650 ideas and 31 million tokens to raise the proven lower bound, with two Anthropic mathematicians confirming the result and formalizing it in Lean — the machine choosing what to try, not just executing a given plan
+- **AMIE on video** — Google Research and DeepMind's diagnostic agent, built on Gemini and Project Astra, reads a rash on camera and guides a virtual exam in live consultations, scoring favorably against primary-care physicians in a randomized study while patient actors preferred it
+- **Zoomsday** — a security firm says it turned publicly available models into a working Zoom screen-sharing device-takeover exploit in under 20 prompts, work its engineers estimated once meant five specialists and six months; it was disclosed so Zoom could patch it
+- **Hidden reasoning extracted** — researchers recover the encrypted reasoning traces of Claude, GPT, and Gemini, pulling out passwords and API keys, and find one Chinese model's thoughts close enough to Claude's to suggest distillation
+- **Communities set the terms** — Norman, Oklahoma rejects Flock cameras 9-0 as local proposals to ban or restrict data centers pass 500, met by Meta's $1 billion community fund
+- **Wage arbitrage compresses** — India's IT sector sheds jobs as the model that built it stops clearing
 
 ### 2026-08-11 — Zuckerberg calls for open superintelligence, Meta open-sources a new model
 `#meta` `#open-models` `#openai` `#cybersecurity` `#agents` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=xSwmQTcbxLI) · 18 min
