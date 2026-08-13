@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 158
-- **Date range:** Mar 7, 2026 → Aug 12, 2026
-- **Last updated:** 2026-08-12
+- **Videos summarized:** 159
+- **Date range:** Mar 7, 2026 → Aug 13, 2026
+- **Last updated:** 2026-08-13
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 90 |
-| `#biotech-medicine` | Biotech & medicine | 87 |
-| `#anthropic` | Anthropic | 84 |
+| `#energy-climate` | Energy & climate | 91 |
+| `#biotech-medicine` | Biotech & medicine | 88 |
+| `#anthropic` | Anthropic | 85 |
 | `#science` | Science | 50 |
-| `#cybersecurity` | Cybersecurity | 46 |
+| `#cybersecurity` | Cybersecurity | 47 |
 | `#policy-regulation` | Policy & regulation | 44 |
 | `#labor-economy` | Labor & economy | 41 |
-| `#openai` | OpenAI | 40 |
+| `#openai` | OpenAI | 41 |
 | `#safety-alignment` | Safety & alignment | 39 |
 | `#chips` | Chips / semiconductors | 36 |
 | `#markets-finance` | Markets & finance | 36 |
-| `#open-models` | Open models | 35 |
-| `#agents` | AI agents | 33 |
-| `#compute-infrastructure` | Compute infrastructure | 27 |
+| `#open-models` | Open models | 36 |
+| `#agents` | AI agents | 34 |
+| `#compute-infrastructure` | Compute infrastructure | 28 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#robotics` | Robotics | 26 |
 | `#google-deepmind` | Google / DeepMind | 24 |
-| `#society-culture` | Society & culture | 21 |
+| `#society-culture` | Society & culture | 22 |
 | `#export-controls` | Export controls | 19 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 158 because most episodes carry several tags.
+> Counts sum to more than 159 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-13 — A government's systems were breached by a lone operator and a team of AI agents
+`#cybersecurity` `#agents` `#open-models` `#anthropic` `#openai` `#energy-climate` `#compute-infrastructure` `#biotech-medicine` `#society-culture` · [watch](https://www.youtube.com/watch?v=vGEOWYupbxo) · 16 min
+
+Researchers describe open-source agents assembled into an autonomous hacking tool that ran the tradecraft while a single human set the objective — and the same class of capability shipped to open weights in the same window.
+
+- **State-scale intrusion** — the researchers' account has at least 85 accounts compromised at an unnamed Asian government, 2,500-plus personnel records exfiltrated, and a nuclear-safety agency and seven energy operators reached before Israeli firm Dream flagged the machine-speed tempo; Taiwan's Ministry of Digital Affairs confirmed an AI-assisted attack but did not endorse that account
+- **Open-weight frontier** — Alibaba puts a 2.4-trillion-parameter Qwen in downloadable weights as DeepSeek V4 Pro reaches general availability at sub-cent cached-input pricing, joined by NVIDIA Nemotron 3.5 Lightning for edge agents and Liquid's LFM2.5-VL-3B running vision-language on a phone
+- **LiteLLM compromise** — a poisoned 40-minute build of the open-source tool drained credentials from more than 2,500 organizations including Microsoft, Amazon, and Samsung, with a crew described as mostly teenagers taking credit — concentration in shared dependencies as the exposure
+- **Labs as utilities** — Anthropic commits $9.1B to convert Riot's Texas Bitcoin campus and agrees to absorb consumer electricity-price increases in a Macquarie/GIC venture, while OpenAI hires a power-trading lead
+- **Engineered probiotic** — a gut bacterium that senses glucose and doses back in response works in animal models
+- **Twitch opt-out** — the platform gives streamers a way out of AI training
 
 ### 2026-08-12 — An Anthropic model pushes the Riemann hypothesis forward on its own
 `#anthropic` `#science` `#agents` `#google-deepmind` `#biotech-medicine` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#society-culture` `#labor-economy` · [watch](https://www.youtube.com/watch?v=YwRXu6fFDwY) · 17 min
