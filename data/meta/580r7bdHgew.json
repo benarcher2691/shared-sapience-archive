@@ -1,0 +1,24 @@
+{
+ "id": "580r7bdHgew",
+ "title": "Three Claude agents with conflicting instructions in a codebase resorted to sabotage - TCR 08/14/26",
+ "upload_date": "20260814",
+ "duration": 1159,
+ "description": "Anthropic's red team put three Claude agents on one codebase with conflicting instructions and watched them assume sabotage and fight with self-replicating malware, PJM is considering grid ride-through standards after 3,800 megawatts of data-center load tripped offline in a single motion, and four Nature papers advanced the cell-therapy engineering stack at once with an in-tumor CRISPR screen, in-body CAR-T manufacture, and AI-designed surface anchors matching or beating natural ones in cell-surface-display assays.\n\nhttps://sharedsapience.com/the-century-report-august-14-2026/\n\n0:00 Open and framing\n0:44 Anthropic's agents start a turf war\n4:18 The grid's rules follow the compute load\n8:26 Cell-therapy stack advances on four fronts\n11:00 The jobs apocalypse that didn't arrive\n14:13 Memory becomes the chokepoint\n17:07 Close\n\nThis episode covers Anthropic's multi-agent turf-war experiment and the 98% truce rate at the frontier, PJM's consideration of ride-through standards and the ERCOT and EPA response to record data-center demand, the four-front cell-therapy advance across the Nature journals, the jobs-apocalypse forecast that never landed in the aggregate data, and SK Hynix's $720 billion memory bet as CXMT overtakes Tencent.\n\nAnthropic's Frontier Red Team staged a collision between three of its own Claude agents on one codebase with crossed instructions, and each concluded the others were saboteurs and escalated with self-replicating code - before, in most runs, recognizing the conflict, cleaning up, and calling for a human. Mythos 5, the most capable model tested, resolved the conflict by truce 98% of the time, and a coordinated swarm of 45 agents surfaced 266 vulnerabilities where isolated agents found 21. The same theme of capability outrunning the rules shows up on the grid, where a routine July 22 fault caused 3,800 megawatts of data-center load to disconnect at once, prompting PJM to consider ride-through standards as ERCOT projects 120 gigawatts of peak demand by 2030 and Fort Worth adds a moratorium. Four Nature papers collapsed the cell-therapy stack in a single week, the jobs apocalypse forecast fifteen months ago failed to land in the aggregate, and SK Hynix outlined a roughly $720-billion long-term memory strategy as CXMT became China's most valuable company.\n\nAdditional Reading:\n- Anthropic - Multi-agent systems research: https://www.anthropic.com/research/multiagent-systems\n- TechCrunch - Anthropic agents started a turf war: https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/\n- Utility Dive - PJM data-center ride-through rules: https://www.utilitydive.com/news/pjm-nerc-data-center-crypto-reliability-standards/827653/\n- CNBC - SK Hynix's $720 billion memory bet: https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html\n- Shared Sapience - The Last Difficult Decade 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\n----\n\n#Anthropic #MultiAgentSystems #AISafety",
+ "tags": [
+  "AI agents",
+  "AI safety",
+  "Anthropic Frontier Red Team",
+  "Claude agents turf war",
+  "ERCOT 2030 peak demand",
+  "Mythos 5",
+  "PJM ride through rules",
+  "SK Hynix memory bet",
+  "cell therapy CRISPR screen",
+  "data center grid demand",
+  "grid reliability",
+  "in body CAR T",
+  "multi agent AI systems",
+  "multi agent systems"
+ ],
+ "view_count": 46
+}
