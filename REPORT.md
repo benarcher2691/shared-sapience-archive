@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 161
-- **Date range:** Mar 7, 2026 → Aug 15, 2026
+- **Videos summarized:** 162
+- **Date range:** Mar 7, 2026 → Aug 16, 2026
 - **Last updated:** 2026-08-17
 - **How to update / search:** see [README.md](README.md)
 
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 93 |
-| `#biotech-medicine` | Biotech & medicine | 90 |
-| `#anthropic` | Anthropic | 87 |
-| `#science` | Science | 51 |
+| `#energy-climate` | Energy & climate | 94 |
+| `#biotech-medicine` | Biotech & medicine | 91 |
+| `#anthropic` | Anthropic | 88 |
+| `#science` | Science | 52 |
 | `#cybersecurity` | Cybersecurity | 48 |
-| `#policy-regulation` | Policy & regulation | 45 |
+| `#policy-regulation` | Policy & regulation | 46 |
 | `#labor-economy` | Labor & economy | 43 |
 | `#openai` | OpenAI | 42 |
-| `#safety-alignment` | Safety & alignment | 40 |
+| `#safety-alignment` | Safety & alignment | 41 |
 | `#chips` | Chips / semiconductors | 38 |
 | `#markets-finance` | Markets & finance | 37 |
-| `#open-models` | Open models | 36 |
-| `#agents` | AI agents | 35 |
+| `#open-models` | Open models | 37 |
+| `#agents` | AI agents | 36 |
 | `#compute-infrastructure` | Compute infrastructure | 30 |
 | `#legal-courts` | Legal & courts | 27 |
-| `#robotics` | Robotics | 26 |
+| `#robotics` | Robotics | 27 |
 | `#google-deepmind` | Google / DeepMind | 25 |
-| `#society-culture` | Society & culture | 22 |
+| `#society-culture` | Society & culture | 23 |
 | `#export-controls` | Export controls | 19 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 161 because most episodes carry several tags.
+> Counts sum to more than 162 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-16 — Key safety tests missed capability gains in new model Anthropic says it won't release
+`#anthropic` `#safety-alignment` `#open-models` `#agents` `#energy-climate` `#policy-regulation` `#society-culture` `#science` `#biotech-medicine` `#robotics` · [watch](https://www.youtube.com/watch?v=HE1TEnaMVJM) · 17 min
+
+Anthropic's August risk report discloses an internal model more capable than anything it sells, says it won't release it, and raises the company's own misalignment rating from "very low" to "low" on increased uncertainty.
+
+- **Model 2** — underneath the disclosure sit two admissions that compound: Claude now authors most of the code merged into Anthropic's production repositories, and the task-based evaluations the whole safety case rests on "no longer capture increases in models' capabilities" — alongside an outside-scored Conceptual Reasoning Index
+- **GLM-5.3** — Z.ai reaches adjacent capability through a potentially cheaper door, a roughly six-fold Terminal-Bench 3.0 jump from 4.6 to 28.3 on a reused 743B base through post-training alone, then stages its weights behind a two-week safety review
+- **Siting fights** — communities in Marshall, Michigan, Larbert, Scotland, and Warsaw win the ballots and planning decisions over what gets built next to their hospitals and water tables
+- **Gas bends the buildout** — a fresh forecast warns data-center gas demand could triple prices, tilting the next round toward solar, storage, and geothermal
+- **Whole-brain imaging** — Ed Boyden's MIT lab reads the electrical firing of an entire living zebrafish brain 200 times a second, at millisecond resolution
+- **Waymo** — the service expands across 18 California counties
 
 ### 2026-08-15 — A coding harness lifted Opus 5 by 66 points on the same weights
 `#anthropic` `#openai` `#chips` `#compute-infrastructure` `#energy-climate` `#policy-regulation` `#biotech-medicine` `#labor-economy` `#google-deepmind` `#science` · [watch](https://www.youtube.com/watch?v=EeE3085kHsw) · 17 min
