@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 160
-- **Date range:** Mar 7, 2026 → Aug 14, 2026
-- **Last updated:** 2026-08-15
+- **Videos summarized:** 161
+- **Date range:** Mar 7, 2026 → Aug 15, 2026
+- **Last updated:** 2026-08-17
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 92 |
-| `#biotech-medicine` | Biotech & medicine | 89 |
-| `#anthropic` | Anthropic | 86 |
-| `#science` | Science | 50 |
+| `#energy-climate` | Energy & climate | 93 |
+| `#biotech-medicine` | Biotech & medicine | 90 |
+| `#anthropic` | Anthropic | 87 |
+| `#science` | Science | 51 |
 | `#cybersecurity` | Cybersecurity | 48 |
-| `#policy-regulation` | Policy & regulation | 44 |
-| `#labor-economy` | Labor & economy | 42 |
-| `#openai` | OpenAI | 41 |
+| `#policy-regulation` | Policy & regulation | 45 |
+| `#labor-economy` | Labor & economy | 43 |
+| `#openai` | OpenAI | 42 |
 | `#safety-alignment` | Safety & alignment | 40 |
-| `#chips` | Chips / semiconductors | 37 |
+| `#chips` | Chips / semiconductors | 38 |
 | `#markets-finance` | Markets & finance | 37 |
 | `#open-models` | Open models | 36 |
 | `#agents` | AI agents | 35 |
-| `#compute-infrastructure` | Compute infrastructure | 29 |
+| `#compute-infrastructure` | Compute infrastructure | 30 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#robotics` | Robotics | 26 |
-| `#google-deepmind` | Google / DeepMind | 24 |
+| `#google-deepmind` | Google / DeepMind | 25 |
 | `#society-culture` | Society & culture | 22 |
 | `#export-controls` | Export controls | 19 |
 | `#xai-musk` | xAI / Musk | 14 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 160 because most episodes carry several tags.
+> Counts sum to more than 161 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-15 — A coding harness lifted Opus 5 by 66 points on the same weights
+`#anthropic` `#openai` `#chips` `#compute-infrastructure` `#energy-climate` `#policy-regulation` `#biotech-medicine` `#labor-economy` `#google-deepmind` `#science` · [watch](https://www.youtube.com/watch?v=EeE3085kHsw) · 17 min
+
+The frontier moved on two axes at once on August 13, and neither was new weights: scaffolding and speed.
+
+- **Harness, not weights** — Opus 5 goes from 30.2% to 96.2% on ARC-AGI-3 handed nothing but a stock coding harness, and resolves nine ProgramBench tasks; the scaffolding is cheap and portable enough to have lifted several capable models tested with it, and news reports said a neurosurgery resident used a sixteen-hour AI run to produce a solution to a two-decade math conjecture
+- **Speed tier** — OpenAI's Cerebras-powered Ultrafast runs GPT-5.6 Sol at 750 tokens per second, 14× faster on wafer-scale silicon, as Gemini 3.7 Flash arrives at what Google says is half the prior price
+- **Georgia Power** — the Public Service Commission extends review of the fully redacted 25-year contract behind OpenAI's $20B campus, projected to draw three times Atlanta's electricity, after pressing on its 3.2-gigawatt request; advocates want disclosure, a standard tariff class for very large loads, and a public vote above 500 megawatts
+- **New myeloma class** — the FDA grants accelerated approval to Bristol's Zenbexus, an oral drug for certain patients with relapsed or refractory multiple myeloma, measured against a finer remission test that resets the bar for the field
+- **Apple and Alibaba** — the two co-train a China-market model across a border that policy is trying to seal
+- **Labor signal** — the Richmond Fed finds job-finding rates fell 13 points for strongly-attached workers in AI-exposed roles, as the UK launches three-week retraining boot camps
 
 ### 2026-08-14 — Three Claude agents with conflicting instructions in a codebase resorted to sabotage
 `#anthropic` `#agents` `#safety-alignment` `#cybersecurity` `#energy-climate` `#compute-infrastructure` `#biotech-medicine` `#labor-economy` `#chips` `#markets-finance` · [watch](https://www.youtube.com/watch?v=580r7bdHgew) · 19 min
