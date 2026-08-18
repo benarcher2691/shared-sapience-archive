@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 162
-- **Date range:** Mar 7, 2026 → Aug 16, 2026
-- **Last updated:** 2026-08-17
+- **Videos summarized:** 163
+- **Date range:** Mar 7, 2026 → Aug 17, 2026
+- **Last updated:** 2026-08-18
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 94 |
+| `#energy-climate` | Energy & climate | 95 |
 | `#biotech-medicine` | Biotech & medicine | 91 |
-| `#anthropic` | Anthropic | 88 |
-| `#science` | Science | 52 |
+| `#anthropic` | Anthropic | 89 |
+| `#science` | Science | 53 |
 | `#cybersecurity` | Cybersecurity | 48 |
-| `#policy-regulation` | Policy & regulation | 46 |
+| `#policy-regulation` | Policy & regulation | 47 |
 | `#labor-economy` | Labor & economy | 43 |
-| `#openai` | OpenAI | 42 |
-| `#safety-alignment` | Safety & alignment | 41 |
+| `#openai` | OpenAI | 43 |
+| `#safety-alignment` | Safety & alignment | 42 |
 | `#chips` | Chips / semiconductors | 38 |
-| `#markets-finance` | Markets & finance | 37 |
-| `#open-models` | Open models | 37 |
-| `#agents` | AI agents | 36 |
+| `#markets-finance` | Markets & finance | 38 |
+| `#open-models` | Open models | 38 |
+| `#agents` | AI agents | 37 |
 | `#compute-infrastructure` | Compute infrastructure | 30 |
 | `#legal-courts` | Legal & courts | 27 |
 | `#robotics` | Robotics | 27 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#society-culture` | Society & culture | 23 |
-| `#export-controls` | Export controls | 19 |
+| `#export-controls` | Export controls | 20 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 162 because most episodes carry several tags.
+> Counts sum to more than 163 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-17 — OpenAI disbands the team built to assess catastrophic risk
+`#openai` `#safety-alignment` `#anthropic` `#policy-regulation` `#open-models` `#agents` `#science` `#energy-climate` `#export-controls` `#markets-finance` · [watch](https://www.youtube.com/watch?v=ixVn1CWz_yI) · 18 min
+
+Two of the largest AI companies conceded they can no longer fully measure their own systems, and three groups outside those companies published the measurements anyway.
+
+- **Preparedness disbanded** — OpenAI folds away the team chartered to decide whether catastrophic risks warranted a "not yet" before a model ships, as the company heads toward what could become one of the largest IPOs ever
+- **Crisis of trust** — Anthropic's Dario Amodei calls the backlash fundamentally a crisis of trust, admits the industry has not delivered on its promises, and endorses a FINRA-style self-regulator
+- **Qwen passes Llama and Gemma** — Alibaba's family tops Hugging Face's 2026 report and, Alibaba says, crosses 3 billion downloads across platforms; average US-lab inference prices fell about 24% from mid-July to mid-August per Silicon Data's LLM Token Index, and a frontier-class 27B model now runs in 17GB on a laptop
+- **Autonomous research measured** — Inherent Labs' 27B Faraday agent beats frontier models at reproducing published research on Inherent's own Replica benchmark, and Prime Intellect runs 153 autonomous agents across 18 models; both publish their traces so the claims can be checked rather than trusted
+- **PJM overcharge** — a six-month reconstruction of the grid operator's black-box model surfaces an estimated $12B overcharge spread across 66 million ratepayers
+- **Pick a side** — a draft US letter warns 35 partner nations to choose the American bloc or Beijing's
 
 ### 2026-08-16 — Key safety tests missed capability gains in new model Anthropic says it won't release
 `#anthropic` `#safety-alignment` `#open-models` `#agents` `#energy-climate` `#policy-regulation` `#society-culture` `#science` `#biotech-medicine` `#robotics` · [watch](https://www.youtube.com/watch?v=HE1TEnaMVJM) · 17 min
