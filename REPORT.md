@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 163
-- **Date range:** Mar 7, 2026 → Aug 17, 2026
-- **Last updated:** 2026-08-18
+- **Videos summarized:** 164
+- **Date range:** Mar 7, 2026 → Aug 18, 2026
+- **Last updated:** 2026-08-19
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 95 |
-| `#biotech-medicine` | Biotech & medicine | 91 |
+| `#energy-climate` | Energy & climate | 96 |
+| `#biotech-medicine` | Biotech & medicine | 92 |
 | `#anthropic` | Anthropic | 89 |
-| `#science` | Science | 53 |
+| `#science` | Science | 54 |
 | `#cybersecurity` | Cybersecurity | 48 |
-| `#policy-regulation` | Policy & regulation | 47 |
+| `#policy-regulation` | Policy & regulation | 48 |
+| `#openai` | OpenAI | 44 |
 | `#labor-economy` | Labor & economy | 43 |
-| `#openai` | OpenAI | 43 |
 | `#safety-alignment` | Safety & alignment | 42 |
-| `#chips` | Chips / semiconductors | 38 |
-| `#markets-finance` | Markets & finance | 38 |
+| `#chips` | Chips / semiconductors | 39 |
+| `#markets-finance` | Markets & finance | 39 |
 | `#open-models` | Open models | 38 |
 | `#agents` | AI agents | 37 |
-| `#compute-infrastructure` | Compute infrastructure | 30 |
-| `#legal-courts` | Legal & courts | 27 |
+| `#compute-infrastructure` | Compute infrastructure | 31 |
+| `#legal-courts` | Legal & courts | 28 |
 | `#robotics` | Robotics | 27 |
 | `#google-deepmind` | Google / DeepMind | 25 |
-| `#society-culture` | Society & culture | 23 |
+| `#society-culture` | Society & culture | 24 |
 | `#export-controls` | Export controls | 20 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 163 because most episodes carry several tags.
+> Counts sum to more than 164 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-18 — OpenAI's Ohio megacampus leans on Nvidia's balance sheet
+`#openai` `#chips` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#society-culture` `#legal-courts` `#policy-regulation` `#science` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=weCHVjhNdJ8) · 18 min
+
+A chip supplier is now financing its largest customer's ability to keep buying chips: Nvidia agrees to backstop up to $105B for OpenAI's PORTS-Pike campus in Ohio, per 404 Media, with 4.25 gigawatts of AI-factory capacity planned.
+
+- **Off the operating books** — the debt is routed onto special-purpose vehicles and supplier balance sheets rather than the operating company, the clearest sign yet that the financing spans multiple balance sheets
+- **Shredded archives** — 404 Media traced an AirTagged shipment of 1,000 rare books to an Amazon warehouse where it reported workers shred bindings, apparently to scan clean human-written text printed before generative filler seeded the open web
+- **Text outruns verification** — fluent AI output cleared checkpoints it should not have, from a 3M expert report to the evidence base for Australia's under-sixteen social-media ban to error-riddled bills in Congress — each caught by the verification layer now forming around it
+- **Grid watchdogs** — Jim Robb estimates a need for roughly 200 gigawatts of new capacity as ERCOT warns of West Texas blackouts absent new transmission
+- **Living transistors** — MIT engineers wire the bacterium *Pantoea agglomerans* into working transistors, coordinating 24 colonies into a two-input adder
+- **Proof and photovoltaics** — Axiom Math's prover verifies the 246 theorem on the path to checking AI-generated code, and a perovskite triple-junction cell reaches a certified 32.22% efficiency, past silicon's ceiling
 
 ### 2026-08-17 — OpenAI disbands the team built to assess catastrophic risk
 `#openai` `#safety-alignment` `#anthropic` `#policy-regulation` `#open-models` `#agents` `#science` `#energy-climate` `#export-controls` `#markets-finance` · [watch](https://www.youtube.com/watch?v=ixVn1CWz_yI) · 18 min
