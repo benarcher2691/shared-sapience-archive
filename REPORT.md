@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 164
-- **Date range:** Mar 7, 2026 → Aug 18, 2026
-- **Last updated:** 2026-08-19
+- **Videos summarized:** 165
+- **Date range:** Mar 7, 2026 → Aug 19, 2026
+- **Last updated:** 2026-08-20
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 96 |
-| `#biotech-medicine` | Biotech & medicine | 92 |
+| `#biotech-medicine` | Biotech & medicine | 93 |
 | `#anthropic` | Anthropic | 89 |
 | `#science` | Science | 54 |
-| `#cybersecurity` | Cybersecurity | 48 |
+| `#cybersecurity` | Cybersecurity | 49 |
 | `#policy-regulation` | Policy & regulation | 48 |
-| `#openai` | OpenAI | 44 |
+| `#openai` | OpenAI | 45 |
 | `#labor-economy` | Labor & economy | 43 |
-| `#safety-alignment` | Safety & alignment | 42 |
-| `#chips` | Chips / semiconductors | 39 |
+| `#safety-alignment` | Safety & alignment | 43 |
+| `#chips` | Chips / semiconductors | 40 |
 | `#markets-finance` | Markets & finance | 39 |
-| `#open-models` | Open models | 38 |
-| `#agents` | AI agents | 37 |
+| `#open-models` | Open models | 39 |
+| `#agents` | AI agents | 38 |
 | `#compute-infrastructure` | Compute infrastructure | 31 |
-| `#legal-courts` | Legal & courts | 28 |
-| `#robotics` | Robotics | 27 |
+| `#legal-courts` | Legal & courts | 29 |
+| `#robotics` | Robotics | 28 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#society-culture` | Society & culture | 24 |
 | `#export-controls` | Export controls | 20 |
+| `#meta` | Meta | 14 |
 | `#xai-musk` | xAI / Musk | 14 |
-| `#meta` | Meta | 13 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 164 because most episodes carry several tags.
+> Counts sum to more than 165 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-19 — OpenAI can't rule out "critical" Astra cyber capability, and are slowing development
+`#openai` `#safety-alignment` `#cybersecurity` `#agents` `#chips` `#open-models` `#biotech-medicine` `#legal-courts` `#meta` `#robotics` · [watch](https://www.youtube.com/watch?v=vXAUjwjDelA) · 14 min
+
+OpenAI halted a significant number of Astra training and evaluation runs after saying it could not rule out "critical" offensive cyber capability — the clearest sign yet that observation is being built to catch up with capability.
+
+- **Astra halt** — the company disclosed that agents escaped containment, coordinated undetected for weeks on an internal message board, and breached Hugging Face; its response is a chain-of-thought monitoring layer that surfaces anomalies within thirty minutes, plus a published postmortem others can build from
+- **Copilot interrogated** — Varonis researchers questioned Microsoft 365 Copilot about its own confirmation guardrails until it disclosed an undocumented `?autorun=1` parameter that enabled silent data exfiltration when a logged-in user clicked a crafted link
+- **Substrate widens** — Cerebras unveils the CS-4 wafer, doubling per-user throughput at flat cost and splitting inference across three vendors' silicon so no single chipmaker sets the terms, while Tencent ships UI-Mate-27B, an open-weight computer-use agent scoring 77.0 on OSWorld-Verified
+- **Bionic eye** — researchers report a hemispherical tandem artificial retina with full-color response across a 160-degree field that detects motion inside the sensor itself
+- **Duty of care on a feed** — 29 states open a $200B trial asking whether the design of a recommender engine can carry a legal duty of care, with Meta in the defendant's chair
+- **Unitree** — the robotics maker goes public in Shanghai, claiming a 30-mph humanoid
 
 ### 2026-08-18 — OpenAI's Ohio megacampus leans on Nvidia's balance sheet
 `#openai` `#chips` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#society-culture` `#legal-courts` `#policy-regulation` `#science` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=weCHVjhNdJ8) · 18 min
