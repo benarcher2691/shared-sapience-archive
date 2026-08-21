@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 165
-- **Date range:** Mar 7, 2026 → Aug 19, 2026
-- **Last updated:** 2026-08-20
+- **Videos summarized:** 166
+- **Date range:** Mar 7, 2026 → Aug 20, 2026
+- **Last updated:** 2026-08-21
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,13 +17,13 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 96 |
-| `#biotech-medicine` | Biotech & medicine | 93 |
-| `#anthropic` | Anthropic | 89 |
-| `#science` | Science | 54 |
-| `#cybersecurity` | Cybersecurity | 49 |
-| `#policy-regulation` | Policy & regulation | 48 |
-| `#openai` | OpenAI | 45 |
+| `#energy-climate` | Energy & climate | 97 |
+| `#biotech-medicine` | Biotech & medicine | 94 |
+| `#anthropic` | Anthropic | 90 |
+| `#science` | Science | 55 |
+| `#cybersecurity` | Cybersecurity | 50 |
+| `#policy-regulation` | Policy & regulation | 49 |
+| `#openai` | OpenAI | 46 |
 | `#labor-economy` | Labor & economy | 43 |
 | `#safety-alignment` | Safety & alignment | 43 |
 | `#chips` | Chips / semiconductors | 40 |
@@ -31,21 +31,34 @@ plus occasional stand-alone essay videos.
 | `#open-models` | Open models | 39 |
 | `#agents` | AI agents | 38 |
 | `#compute-infrastructure` | Compute infrastructure | 31 |
-| `#legal-courts` | Legal & courts | 29 |
-| `#robotics` | Robotics | 28 |
+| `#legal-courts` | Legal & courts | 30 |
+| `#robotics` | Robotics | 29 |
 | `#google-deepmind` | Google / DeepMind | 25 |
-| `#society-culture` | Society & culture | 24 |
+| `#society-culture` | Society & culture | 25 |
 | `#export-controls` | Export controls | 20 |
 | `#meta` | Meta | 14 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 165 because most episodes carry several tags.
+> Counts sum to more than 166 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-20 — Moderna and Merck's personalized cancer vaccine wins Phase 3
+`#biotech-medicine` `#openai` `#cybersecurity` `#society-culture` `#policy-regulation` `#energy-climate` `#robotics` `#science` `#anthropic` `#legal-courts` · [watch](https://www.youtube.com/watch?v=tTdGBIDPf-A) · 18 min
+
+A first for individualized neoantigen therapy: an mRNA vaccine manufactured from one patient's own tumor mutations, paired with Keytruda, cleared both survival endpoints in a 1,137-patient Phase 3.
+
+- **INTERPATH-001** — intismeran autogene plus Keytruda met recurrence-free and distant-metastasis-free survival endpoints in melanoma, with the same platform already running in lung, renal, and bladder trials
+- **Flock reconstructed** — WIRED rebuilt the OS Investigate identity-resolution engine from 450 of the company's own exposed files spanning 120,000+ cameras, after years of denials that such a system existed
+- **Defenders locked out** — OpenAI abruptly cut vetted cyber defenders outside the US and Europe from its strongest models under the Trusted Access program, then called it an error; Helen Toner warned about what the reversal implies
+- **Backlash turns electoral** — a Republican campaign committee warns candidates that data-center power bills are turning against them in Pennsylvania and Texas as approval of the buildout splits
+- **One-video learning** — Generalist AI's GEN-1.5 robot learned a chore from a single video and improvised with a banana when its tool was pulled
+- **No single author** — an MIT CSAIL team found a large model's image outputs disperse across thousands of training images with no single one decisive, which cuts against attribution-based copyright claims
+- **Designed binders** — Claude designed protein binders that hit 14 of 15 targets
 
 ### 2026-08-19 — OpenAI can't rule out "critical" Astra cyber capability, and are slowing development
 `#openai` `#safety-alignment` `#cybersecurity` `#agents` `#chips` `#open-models` `#biotech-medicine` `#legal-courts` `#meta` `#robotics` · [watch](https://www.youtube.com/watch?v=vXAUjwjDelA) · 14 min
