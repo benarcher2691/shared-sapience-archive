@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 166
-- **Date range:** Mar 7, 2026 → Aug 20, 2026
-- **Last updated:** 2026-08-21
+- **Videos summarized:** 167
+- **Date range:** Mar 7, 2026 → Aug 21, 2026
+- **Last updated:** 2026-08-22
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,14 +17,14 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 97 |
-| `#biotech-medicine` | Biotech & medicine | 94 |
+| `#energy-climate` | Energy & climate | 98 |
+| `#biotech-medicine` | Biotech & medicine | 95 |
 | `#anthropic` | Anthropic | 90 |
-| `#science` | Science | 55 |
+| `#science` | Science | 56 |
 | `#cybersecurity` | Cybersecurity | 50 |
-| `#policy-regulation` | Policy & regulation | 49 |
+| `#policy-regulation` | Policy & regulation | 50 |
 | `#openai` | OpenAI | 46 |
-| `#labor-economy` | Labor & economy | 43 |
+| `#labor-economy` | Labor & economy | 44 |
 | `#safety-alignment` | Safety & alignment | 43 |
 | `#chips` | Chips / semiconductors | 40 |
 | `#markets-finance` | Markets & finance | 39 |
@@ -33,19 +33,30 @@ plus occasional stand-alone essay videos.
 | `#compute-infrastructure` | Compute infrastructure | 31 |
 | `#legal-courts` | Legal & courts | 30 |
 | `#robotics` | Robotics | 29 |
+| `#society-culture` | Society & culture | 26 |
 | `#google-deepmind` | Google / DeepMind | 25 |
-| `#society-culture` | Society & culture | 25 |
 | `#export-controls` | Export controls | 20 |
 | `#meta` | Meta | 14 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 166 because most episodes carry several tags.
+> Counts sum to more than 167 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-21 — Over 30% of the English-language web is written by AI, according to Pew
+`#society-culture` `#science` `#biotech-medicine` `#policy-regulation` `#energy-climate` `#labor-economy` · [watch](https://www.youtube.com/watch?v=EkWq8mHu1fc) · 20 min
+
+Pew ran nearly 500,000 English-language webpages through an AI-detection analysis and found more than a third of those published since late 2022 carry significant signs of AI authorship, with the share climbing across the months measured.
+
+- **The machine-written web** — the verification layer is arriving on the same cycle as the flood: provenance signing, disclosure standards, and Pew's own classifier built to read who or what made a page
+- **AIntibody** — a prospective, blinded competition designed to be hard to game gives antibody design a report card: 511 designs from 29 organizations, real affinity-maturation work down to 95 picomolar, and honest failure to generalize on the harder tasks
+- **NSF contracts** — the agency is on course for its fewest grants since the early 1980s as $1B is steered toward a central White House AI project, even as open weights and shared compute diffuse the ability to ask questions
+- **Battery floor** — a peer-reviewed sodium-ion cathode reaches 99% oxygen-redox reversibility at a verified 206 Wh/kg against Geely's unverified 500 Wh/kg solid-state claim, while LG opens North America's largest cell plant in Michigan at 35+ GWh a year
+- **First AI feature** — Higgsfield ships a 110-minute film in four weeks for $2M, half of it compute, with director James Gray calling the push obscene
 
 ### 2026-08-20 — Moderna and Merck's personalized cancer vaccine wins Phase 3
 `#biotech-medicine` `#openai` `#cybersecurity` `#society-culture` `#policy-regulation` `#energy-climate` `#robotics` `#science` `#anthropic` `#legal-courts` · [watch](https://www.youtube.com/watch?v=tTdGBIDPf-A) · 18 min
