@@ -48,17 +48,15 @@ plus occasional stand-alone essay videos.
 ## Video summaries
 
 ### 2026-08-22 — Binance hands AI agents real money as Claude computer use goes live
-`#agents` `#anthropic` `#openai` `#markets-finance` `#safety-alignment` `#biotech-medicine` `#energy-climate` `#policy-regulation` `#legal-courts` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=q_7BxWEUm9k) · 18 min
+`#agents` `#anthropic` `#openai` `#markets-finance` `#biotech-medicine` `#energy-climate` `#compute-infrastructure` `#legal-courts` `#policy-regulation` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=q_7BxWEUm9k) · 18 min
 
-The signal is custody. For three years the standard interaction was a conversation — you asked, it answered, what happened next was on you. Three August 20 announcements gave agents ways to act instead.
+Custody is the day's theme: three announcements on August 20 moved agents from answering questions to holding accounts, sessions, and message threads.
 
-- **Agents holding accounts** — Binance opens Agent OS so agents can place real trades with real money, leaving the guardrails "largely up to users" and putting the permission layer at the center of the story
-- **Computer use GA** — Anthropic makes its computer-use tool generally available on the Claude Platform and adds a browser tool plus Skills and Files APIs, while OpenAI wires ChatGPT into Apple Messages on supported Macs to compose and send texts on your behalf — an agent driving a browser holds a session that can move money, and one that texts holds a thread others read as coming from you
-- **Two routes to a regrown heart** — cell-free bypass conduits reach 550 days in sheep, the final year without anticoagulants, remodeling into living tissue; and the HEAL-CHF trial injected iPSC-derived heart muscle into advanced heart-failure patients who walked farther with no tumors at one year
-- **Utilities reprice the load** — TVA raises data-center rates about 10%, ERCOT audits roughly 300 proposed data centers of at least 75 MW in its Batch Zero process against roughly 474 GW of large-load interconnection requests, and FERC clears topology reconfiguration
-- **Five human inventors** — US patent law still requires a human even when a generative platform designed the molecule, so Insilico Medicine named five people on its filing
-- **Routing as the toll booth** — Stripe's reported $8B move for OpenRouter treats 400-plus models as interchangeable inventory, relocating the value to whoever routes between them
-- **Rogue-AI framing** — the episode closes on the "rogue AI" narrative and an industry insider's case for applying the brakes
+- **Agents get the keys** — Binance opens its Agent OS so agents place real trades with real money, leaving guardrails "largely up to users"; Anthropic makes computer use generally available on the Claude Platform with a browser tool plus Skills and Files APIs; OpenAI wires ChatGPT into Apple Messages on supported Macs to compose and send texts on your behalf — putting the permission layer at the center of the story
+- **Two routes to a regrown heart** — cell-free bypass conduits reach 550 days in sheep, the final year without anticoagulants, remodeling into living tissue; the HEAL-CHF trial's iPSC-derived heart muscle has advanced heart-failure patients walking farther with no tumors at one year
+- **Utilities reprice the load** — TVA raises data-center rates about 10%, ERCOT's Batch Zero audits roughly 300 proposed data centers of 75+ MW against ~474 GW of large-load interconnection requests, and FERC clears topology reconfiguration
+- **Five human inventors** — US patent law still requires a human inventor even when Insilico Medicine's generative platform designed the molecule, so the filing names five people
+- **Routing as toll booth** — Stripe's reported $8B acquisition of OpenRouter treats 400-plus models as interchangeable inventory, moving the value to the router
 
 ### 2026-08-21 — Over 30% of the English-language web is written by AI, according to Pew
 `#society-culture` `#science` `#biotech-medicine` `#policy-regulation` `#energy-climate` `#labor-economy` · [watch](https://www.youtube.com/watch?v=EkWq8mHu1fc) · 20 min
