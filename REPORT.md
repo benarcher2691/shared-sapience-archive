@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 167
-- **Date range:** Mar 7, 2026 → Aug 21, 2026
-- **Last updated:** 2026-08-22
+- **Videos summarized:** 168
+- **Date range:** Mar 7, 2026 → Aug 22, 2026
+- **Last updated:** 2026-08-23
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,21 +17,21 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 98 |
-| `#biotech-medicine` | Biotech & medicine | 95 |
-| `#anthropic` | Anthropic | 90 |
+| `#energy-climate` | Energy & climate | 99 |
+| `#biotech-medicine` | Biotech & medicine | 96 |
+| `#anthropic` | Anthropic | 91 |
 | `#science` | Science | 56 |
+| `#policy-regulation` | Policy & regulation | 51 |
 | `#cybersecurity` | Cybersecurity | 50 |
-| `#policy-regulation` | Policy & regulation | 50 |
-| `#openai` | OpenAI | 46 |
+| `#openai` | OpenAI | 47 |
 | `#labor-economy` | Labor & economy | 44 |
-| `#safety-alignment` | Safety & alignment | 43 |
+| `#safety-alignment` | Safety & alignment | 44 |
 | `#chips` | Chips / semiconductors | 40 |
-| `#markets-finance` | Markets & finance | 39 |
+| `#markets-finance` | Markets & finance | 40 |
+| `#agents` | AI agents | 39 |
 | `#open-models` | Open models | 39 |
-| `#agents` | AI agents | 38 |
-| `#compute-infrastructure` | Compute infrastructure | 31 |
-| `#legal-courts` | Legal & courts | 30 |
+| `#compute-infrastructure` | Compute infrastructure | 32 |
+| `#legal-courts` | Legal & courts | 31 |
 | `#robotics` | Robotics | 29 |
 | `#society-culture` | Society & culture | 26 |
 | `#google-deepmind` | Google / DeepMind | 25 |
@@ -41,11 +41,24 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 167 because most episodes carry several tags.
+> Counts sum to more than 168 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-22 — Binance hands AI agents real money as Claude computer use goes live
+`#agents` `#anthropic` `#openai` `#markets-finance` `#safety-alignment` `#biotech-medicine` `#energy-climate` `#policy-regulation` `#legal-courts` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=q_7BxWEUm9k) · 18 min
+
+The signal is custody. For three years the standard interaction was a conversation — you asked, it answered, what happened next was on you. Three August 20 announcements gave agents ways to act instead.
+
+- **Agents holding accounts** — Binance opens Agent OS so agents can place real trades with real money, leaving the guardrails "largely up to users" and putting the permission layer at the center of the story
+- **Computer use GA** — Anthropic makes its computer-use tool generally available on the Claude Platform and adds a browser tool plus Skills and Files APIs, while OpenAI wires ChatGPT into Apple Messages on supported Macs to compose and send texts on your behalf — an agent driving a browser holds a session that can move money, and one that texts holds a thread others read as coming from you
+- **Two routes to a regrown heart** — cell-free bypass conduits reach 550 days in sheep, the final year without anticoagulants, remodeling into living tissue; and the HEAL-CHF trial injected iPSC-derived heart muscle into advanced heart-failure patients who walked farther with no tumors at one year
+- **Utilities reprice the load** — TVA raises data-center rates about 10%, ERCOT audits roughly 300 proposed data centers of at least 75 MW in its Batch Zero process against roughly 474 GW of large-load interconnection requests, and FERC clears topology reconfiguration
+- **Five human inventors** — US patent law still requires a human even when a generative platform designed the molecule, so Insilico Medicine named five people on its filing
+- **Routing as the toll booth** — Stripe's reported $8B move for OpenRouter treats 400-plus models as interchangeable inventory, relocating the value to whoever routes between them
+- **Rogue-AI framing** — the episode closes on the "rogue AI" narrative and an industry insider's case for applying the brakes
 
 ### 2026-08-21 — Over 30% of the English-language web is written by AI, according to Pew
 `#society-culture` `#science` `#biotech-medicine` `#policy-regulation` `#energy-climate` `#labor-economy` · [watch](https://www.youtube.com/watch?v=EkWq8mHu1fc) · 20 min
