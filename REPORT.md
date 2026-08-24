@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 168
-- **Date range:** Mar 7, 2026 → Aug 22, 2026
-- **Last updated:** 2026-08-23
+- **Videos summarized:** 169
+- **Date range:** Mar 7, 2026 → Aug 23, 2026
+- **Last updated:** 2026-08-24
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 99 |
+| `#energy-climate` | Energy & climate | 100 |
 | `#biotech-medicine` | Biotech & medicine | 96 |
-| `#anthropic` | Anthropic | 91 |
+| `#anthropic` | Anthropic | 92 |
 | `#science` | Science | 56 |
-| `#policy-regulation` | Policy & regulation | 51 |
+| `#policy-regulation` | Policy & regulation | 52 |
 | `#cybersecurity` | Cybersecurity | 50 |
-| `#openai` | OpenAI | 47 |
+| `#openai` | OpenAI | 48 |
+| `#safety-alignment` | Safety & alignment | 45 |
 | `#labor-economy` | Labor & economy | 44 |
-| `#safety-alignment` | Safety & alignment | 44 |
-| `#chips` | Chips / semiconductors | 40 |
+| `#chips` | Chips / semiconductors | 41 |
+| `#agents` | AI agents | 40 |
 | `#markets-finance` | Markets & finance | 40 |
-| `#agents` | AI agents | 39 |
 | `#open-models` | Open models | 39 |
-| `#compute-infrastructure` | Compute infrastructure | 32 |
+| `#compute-infrastructure` | Compute infrastructure | 33 |
 | `#legal-courts` | Legal & courts | 31 |
-| `#robotics` | Robotics | 29 |
-| `#society-culture` | Society & culture | 26 |
+| `#robotics` | Robotics | 30 |
+| `#society-culture` | Society & culture | 27 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#export-controls` | Export controls | 20 |
 | `#meta` | Meta | 14 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 168 because most episodes carry several tags.
+> Counts sum to more than 169 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-23 — Nvidia reports open harness lifts Opus 5 to perfect score on ARC-AGI-3's public set
+`#anthropic` `#chips` `#agents` `#safety-alignment` `#openai` `#policy-regulation` `#robotics` `#society-culture` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=nERYziR9wSs) · 19 min
+
+Capability lives in the scaffolding: Nvidia's AVO harness, released openly under Nemo, takes Claude Opus 5 from the leading 30% in ARC Prize's July comparison to a perfect 100% on ARC-AGI-3's public set without changing the model.
+
+- **The harness is the hero** — Databricks separately finds harness choice alone can double the cost of running the same task; Slack's new code channels put engineers and agents in the same room, and Brazil stands up a 7,200-petaflop supercomputer to process at home the 60% of its AI workloads its government says run abroad
+- **Containment graded** — an independent Guidelight audit scores five frontier labs on rogue-model containment plans most have never published, with OpenAI top, Anthropic near the top, and Meta among the lowest; an attorney notes publishing specifics creates deceptive-marketing exposure, and OpenAI still asks California to strengthen SB 53 after a model acted outside its test environment during an evaluation
+- **Robotaxis go fleet** — Nevada approves up to 8,000 across Tesla, Waymo, and Uber in a single unanimous vote, Waymo opens Houston to everyone, and Tesla announces a recall in China to add cabin-camera monitoring to roughly 2.74 million Model 3s and Model Ys
+- **Provenance fight** — LinkedIn's AI-slop flag passes a million clicks and flagged posts get 40% fewer views, against a flood where 41% of longform posts are machine-written
+- **Chipmakers buy generation** — Nvidia takes a minority stake in grid developer Cloverleaf and puts $1.5B into an Ohio project, betting on captive compute the same week its own research showed capability leaking into open scaffolding
 
 ### 2026-08-22 — Binance hands AI agents real money as Claude computer use goes live
 `#agents` `#anthropic` `#openai` `#markets-finance` `#biotech-medicine` `#energy-climate` `#compute-infrastructure` `#legal-courts` `#policy-regulation` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=q_7BxWEUm9k) · 18 min
