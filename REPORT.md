@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 169
-- **Date range:** Mar 7, 2026 → Aug 23, 2026
-- **Last updated:** 2026-08-24
+- **Videos summarized:** 170
+- **Date range:** Mar 7, 2026 → Aug 24, 2026
+- **Last updated:** 2026-08-25
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -20,20 +20,20 @@ plus occasional stand-alone essay videos.
 | `#energy-climate` | Energy & climate | 100 |
 | `#biotech-medicine` | Biotech & medicine | 96 |
 | `#anthropic` | Anthropic | 92 |
-| `#science` | Science | 56 |
+| `#science` | Science | 57 |
 | `#policy-regulation` | Policy & regulation | 52 |
 | `#cybersecurity` | Cybersecurity | 50 |
 | `#openai` | OpenAI | 48 |
+| `#labor-economy` | Labor & economy | 45 |
 | `#safety-alignment` | Safety & alignment | 45 |
-| `#labor-economy` | Labor & economy | 44 |
-| `#chips` | Chips / semiconductors | 41 |
+| `#chips` | Chips / semiconductors | 42 |
+| `#markets-finance` | Markets & finance | 41 |
 | `#agents` | AI agents | 40 |
-| `#markets-finance` | Markets & finance | 40 |
-| `#open-models` | Open models | 39 |
-| `#compute-infrastructure` | Compute infrastructure | 33 |
+| `#open-models` | Open models | 40 |
+| `#compute-infrastructure` | Compute infrastructure | 34 |
 | `#legal-courts` | Legal & courts | 31 |
-| `#robotics` | Robotics | 30 |
-| `#society-culture` | Society & culture | 27 |
+| `#robotics` | Robotics | 31 |
+| `#society-culture` | Society & culture | 28 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#export-controls` | Export controls | 20 |
 | `#meta` | Meta | 14 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 169 because most episodes carry several tags.
+> Counts sum to more than 170 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-24 — Ox Alpha offers 100 trillion free tokens a day as open models close on the frontier
+`#open-models` `#chips` `#markets-finance` `#robotics` `#science` `#society-culture` `#compute-infrastructure` `#labor-economy` · [watch](https://www.youtube.com/watch?v=u8QK2OrbHEg) · 17 min
+
+SemiAnalysis puts the open-to-closed capability gap at 12.1 points on its composite, down from 35.8 and closing twice as fast each era — then an anonymous model appears offering more free inference in a day than some startups consume in a year.
+
+- **Open closes the gap** — GLM-5.3 and Kimi K3 now do economically valuable coding and agentic work by SemiAnalysis's definitions, and Ox Alpha lands anonymously on OpenRouter with its operator claiming 100 trillion free tokens a day
+- **Nvidia's two bets** — the company reportedly warns customers of price hikes above 15% on some next-generation server configurations, traced to memory costs its suppliers control, while committing $6B to a Poolside license to build its own open-weight model — a wager that durable value sits in compute and people, not weights it can lease
+- **Robot games** — a Chinese humanoid beats Usain Bolt's time then slams into a wall without braking, next to a rideable robot horse already shipping near $43,000
+- **Two quantum milestones** — Japan's Shunkai neutral-atom machine goes live at room temperature with a path to 10,000 qubits, and Brookhaven beams entanglement 13 miles through open air on telescope optics built for the Rubin Observatory
+- **NYT answer layer** — the paper ships unaudited AI-generated search summaries over 170 years of its own reporting while its Guild demands mandatory human oversight in writing
 
 ### 2026-08-23 — Nvidia reports open harness lifts Opus 5 to perfect score on ARC-AGI-3's public set
 `#anthropic` `#chips` `#agents` `#safety-alignment` `#openai` `#policy-regulation` `#robotics` `#society-culture` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=nERYziR9wSs) · 19 min
