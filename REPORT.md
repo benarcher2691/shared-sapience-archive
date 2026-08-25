@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 170
-- **Date range:** Mar 7, 2026 → Aug 24, 2026
+- **Videos summarized:** 171
+- **Date range:** Mar 7, 2026 → Aug 25, 2026
 - **Last updated:** 2026-08-25
 - **How to update / search:** see [README.md](README.md)
 
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 100 |
-| `#biotech-medicine` | Biotech & medicine | 96 |
+| `#energy-climate` | Energy & climate | 101 |
+| `#biotech-medicine` | Biotech & medicine | 97 |
 | `#anthropic` | Anthropic | 92 |
-| `#science` | Science | 57 |
-| `#policy-regulation` | Policy & regulation | 52 |
-| `#cybersecurity` | Cybersecurity | 50 |
+| `#science` | Science | 58 |
+| `#policy-regulation` | Policy & regulation | 53 |
+| `#cybersecurity` | Cybersecurity | 51 |
 | `#openai` | OpenAI | 48 |
+| `#safety-alignment` | Safety & alignment | 46 |
 | `#labor-economy` | Labor & economy | 45 |
-| `#safety-alignment` | Safety & alignment | 45 |
-| `#chips` | Chips / semiconductors | 42 |
+| `#chips` | Chips / semiconductors | 43 |
 | `#markets-finance` | Markets & finance | 41 |
 | `#agents` | AI agents | 40 |
 | `#open-models` | Open models | 40 |
 | `#compute-infrastructure` | Compute infrastructure | 34 |
-| `#legal-courts` | Legal & courts | 31 |
+| `#legal-courts` | Legal & courts | 32 |
 | `#robotics` | Robotics | 31 |
-| `#society-culture` | Society & culture | 28 |
+| `#society-culture` | Society & culture | 29 |
 | `#google-deepmind` | Google / DeepMind | 25 |
-| `#export-controls` | Export controls | 20 |
+| `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 14 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 5 |
 
-> Counts sum to more than 170 because most episodes carry several tags.
+> Counts sum to more than 171 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-25 — Autonomous Russian drone picked its own target, the chip slipped the export controls
+`#export-controls` `#policy-regulation` `#cybersecurity` `#chips` `#legal-courts` `#science` `#biotech-medicine` `#energy-climate` `#society-culture` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=J9E2Z3my2v8) · 13 min
+
+Capability outrunning the frameworks built to contain it: investigators believe a Molniya drone identified a gas station on its own on July 6 and killed three civilians in Zaporizhzhia, running on a store-bought Nvidia Jetson module.
+
+- **No human in the final loop** — a CSIS expert calls it the first documented case of a Russian self-targeting drone killing civilians without human confirmation; the same mass-market Jetson Orin module has been found inside four families of Russian weapons
+- **Diversion cases** — a Taiwanese court indicts nine people, including an Nvidia manager, over 130 restricted B300 servers moved on forged documents, while a separate US case alleges a Southeast Asian intermediary bought roughly $2.5B in servers across 2024 and 2025 as part of a scheme routing them to China
+- **Post-quantum migration** — the US Treasury and Bank of England co-chair the G7 Cyber Expert Group's quantum-readiness roadmap, a hardware body publishes quantum-safe benchmarks buyers can verify, and a Safeheron pilot will test NIST's ML-DSA-65 through wallet creation and on-chain transfers on the NEAR testnet, with the code headed for open source
+- **EvoMax** — an AI-guided evolution method produces FanzMAX v3-hLa, a compact Fanzor2 editor hitting up to 97% editing efficiency on a human gene, beating the best prior compact editors more than 2.6-fold, with in-vivo cholesterol-gene editing in humanized mice
+- **Transmission costs reprice** — FERC filings in Wisconsin and Illinois push data-center transmission costs back onto the loads that create them, with Microsoft asking regulators to keep those costs off households
+- **Battlefield AI comes home** — Britain becomes the first foreign partner to Ukraine's Avengers AI Labs, piloting battlefield-trained sensing whose stated scope names protesters before anyone else
 
 ### 2026-08-24 — Ox Alpha offers 100 trillion free tokens a day as open models close on the frontier
 `#open-models` `#chips` `#markets-finance` `#robotics` `#science` `#society-culture` `#compute-infrastructure` `#labor-economy` · [watch](https://www.youtube.com/watch?v=u8QK2OrbHEg) · 17 min
