@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 171
-- **Date range:** Mar 7, 2026 → Aug 25, 2026
-- **Last updated:** 2026-08-25
+- **Videos summarized:** 172
+- **Date range:** Mar 7, 2026 → Aug 26, 2026
+- **Last updated:** 2026-08-27
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 101 |
-| `#biotech-medicine` | Biotech & medicine | 97 |
+| `#energy-climate` | Energy & climate | 102 |
+| `#biotech-medicine` | Biotech & medicine | 98 |
 | `#anthropic` | Anthropic | 92 |
 | `#science` | Science | 58 |
-| `#policy-regulation` | Policy & regulation | 53 |
+| `#policy-regulation` | Policy & regulation | 54 |
 | `#cybersecurity` | Cybersecurity | 51 |
-| `#openai` | OpenAI | 48 |
+| `#openai` | OpenAI | 49 |
+| `#labor-economy` | Labor & economy | 46 |
 | `#safety-alignment` | Safety & alignment | 46 |
-| `#labor-economy` | Labor & economy | 45 |
-| `#chips` | Chips / semiconductors | 43 |
-| `#markets-finance` | Markets & finance | 41 |
+| `#chips` | Chips / semiconductors | 44 |
+| `#markets-finance` | Markets & finance | 42 |
 | `#agents` | AI agents | 40 |
 | `#open-models` | Open models | 40 |
-| `#compute-infrastructure` | Compute infrastructure | 34 |
+| `#compute-infrastructure` | Compute infrastructure | 35 |
 | `#legal-courts` | Legal & courts | 32 |
 | `#robotics` | Robotics | 31 |
-| `#society-culture` | Society & culture | 29 |
+| `#society-culture` | Society & culture | 30 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 14 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
-| `#space` | Space | 5 |
+| `#space` | Space | 6 |
 
-> Counts sum to more than 171 because most episodes carry several tags.
+> Counts sum to more than 172 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-26 — OpenAI's new chip Jalapeño beats Nvidia, leads SemiAnalysis's power comparison
+`#openai` `#chips` `#energy-climate` `#labor-economy` `#policy-regulation` `#compute-infrastructure` `#biotech-medicine` `#space` `#society-culture` `#markets-finance` · [watch](https://www.youtube.com/watch?v=Qeo4q2euP8Y) · 17 min
+
+The binding constraint slides from chips to power, so every story orbits the watt: SemiAnalysis's first outside data on OpenAI's Jalapeño has it winning on tokens-per-watt against every Nvidia, AMD, and Google part in the comparison.
+
+- **Jalapeño** — about 16 months from design start to working silicon by OpenAI's account, on figures supplied in part by OpenAI, with SemiAnalysis calling the CUDA lock-in "potentially dead"; the AgentX benchmark behind the comparison is now open for labs and buyers with compatible hardware to run themselves
+- **Gates reverses** — he walks back his 2023 "manageable transition" framing, warns of far fewer jobs, and proposes a compute tax to fund a broad floor plus categories of work reserved for humans
+- **189 gigawatts of gas** — Global Energy Monitor counts the planned US data-center buildout as reports say developers are filing permits hoping to be grandfathered past proposed siting rules; Foxglove says two UK campuses could exceed ExxonMobil's reported 2023 UK emissions footprint
+- **Starbase Louisiana** — SpaceX announces plans to spend up to $100B on a 125,000-acre spaceport built on subsiding marsh next to two wildlife refuges
+- **Designed antibody, fielded fast** — in the deadliest filovirus outbreak on record, the pan-Ebolavirus MBP134 cocktail cures an infected health worker and shields four exposed children in its first human use against the Bundibugyo strain
 
 ### 2026-08-25 — Autonomous Russian drone picked its own target, the chip slipped the export controls
 `#export-controls` `#policy-regulation` `#cybersecurity` `#chips` `#legal-courts` `#science` `#biotech-medicine` `#energy-climate` `#society-culture` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=J9E2Z3my2v8) · 13 min
