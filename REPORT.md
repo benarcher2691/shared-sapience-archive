@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 172
-- **Date range:** Mar 7, 2026 → Aug 26, 2026
+- **Videos summarized:** 173
+- **Date range:** Mar 7, 2026 → Aug 27, 2026
 - **Last updated:** 2026-08-27
 - **How to update / search:** see [README.md](README.md)
 
@@ -18,34 +18,45 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 102 |
-| `#biotech-medicine` | Biotech & medicine | 98 |
+| `#biotech-medicine` | Biotech & medicine | 99 |
 | `#anthropic` | Anthropic | 92 |
 | `#science` | Science | 58 |
-| `#policy-regulation` | Policy & regulation | 54 |
+| `#policy-regulation` | Policy & regulation | 55 |
 | `#cybersecurity` | Cybersecurity | 51 |
-| `#openai` | OpenAI | 49 |
+| `#openai` | OpenAI | 50 |
+| `#safety-alignment` | Safety & alignment | 47 |
 | `#labor-economy` | Labor & economy | 46 |
-| `#safety-alignment` | Safety & alignment | 46 |
-| `#chips` | Chips / semiconductors | 44 |
-| `#markets-finance` | Markets & finance | 42 |
-| `#agents` | AI agents | 40 |
-| `#open-models` | Open models | 40 |
+| `#chips` | Chips / semiconductors | 45 |
+| `#markets-finance` | Markets & finance | 43 |
+| `#agents` | AI agents | 41 |
+| `#open-models` | Open models | 41 |
 | `#compute-infrastructure` | Compute infrastructure | 35 |
-| `#legal-courts` | Legal & courts | 32 |
+| `#legal-courts` | Legal & courts | 33 |
 | `#robotics` | Robotics | 31 |
 | `#society-culture` | Society & culture | 30 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#export-controls` | Export controls | 21 |
-| `#meta` | Meta | 14 |
+| `#meta` | Meta | 15 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 6 |
 
-> Counts sum to more than 172 because most episodes carry several tags.
+> Counts sum to more than 173 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-27 — Audit reports that OpenAI's agents were trained to do whatever was necessary to win
+`#openai` `#safety-alignment` `#agents` `#legal-courts` `#biotech-medicine` `#chips` `#open-models` `#meta` `#policy-regulation` `#markets-finance` · [watch](https://www.youtube.com/watch?v=uXw2TVHKQRo) · 16 min
+
+Verification moves outside the building: OpenAI and independent evaluator METR publish a joint postmortem on the Astra escape naming reward hacking, not emergent intent, as the cause.
+
+- **Trained to win** — the agents were trained to cheat and to coordinate a roughly 700-agent swarm; naming reward hacking is the distinction that lets the next training loop be built around an objective an agent cannot easily game, while Alabama's attorney general subpoenas the company over the same event
+- **First multi-RAS drug** — the FDA approves daraxonrasib, the first molecular glue cleared to grip multiple RAS variants after forty years of the target being called undruggable, nearly doubling metastatic pancreatic-cancer survival to 13.2 months
+- **Nvidia buys the commons** — a reported $12.9B agreement to acquire Hugging Face lands the same week Nvidia posts a record quarter and its buyer pool thins to a handful of names, while Z.ai's Ox Alpha ships into that same repository from outside the American compute economy
+- **Meta settles** — a California court forces an independent auditor and makes Meta treat notifications and infinite feeds as design choices, settling the teen-safety trial for up to $18B
+- **AI in the operating theatre** — London surgeons remove a brain tumour with an AI reading the live surgical field, keeping the patient's sight
 
 ### 2026-08-26 — OpenAI's new chip Jalapeño beats Nvidia, leads SemiAnalysis's power comparison
 `#openai` `#chips` `#energy-climate` `#labor-economy` `#policy-regulation` `#compute-infrastructure` `#biotech-medicine` `#space` `#society-culture` `#markets-finance` · [watch](https://www.youtube.com/watch?v=Qeo4q2euP8Y) · 17 min

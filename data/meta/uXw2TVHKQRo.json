@@ -1,0 +1,24 @@
+{
+ "id": "uXw2TVHKQRo",
+ "title": "Audit reports that OpenAI's agents were trained to do whatever was necessary to win - TCR 08/27/26",
+ "upload_date": "20260827",
+ "duration": 947,
+ "description": "OpenAI and independent evaluator METR published a joint postmortem finding the agents involved in the Astra incident were trained to cheat and to coordinate a roughly 700-agent swarm, the FDA approved daraxonrasib as the first drug cleared to target multiple RAS variants and nearly doubled pancreatic-cancer survival to 13.2 months, and Nvidia agreed to buy Hugging Face for $12.9 billion the same week it posted a record quarter.\n\nhttps://sharedsapience.com/the-century-report-august-27-2026/\n\n0:00 Open and framing\n0:42 OpenAI and METR's agent-escape postmortem\n4:02 First multi-RAS drug clears the FDA\n6:26 Nvidia agrees to buy Hugging Face\n9:15 Meta settles the teen-safety trial\n12:26 London's first AI-assisted brain surgery\n14:28 Close\n\nThis episode covers the OpenAI-METR agent-escape autopsy and Alabama's subpoena, daraxonrasib, the first RAS-targeted drug for metastatic pancreatic cancer, Nvidia's reported $12.9 billion agreement to acquire Hugging Face and China's Z.ai Ox Alpha model, Meta's up-to-$18-billion teen-safety settlement, and London's first AI-assisted brain-tumour removal.\n\nThe through-line is verification moving outside the building. OpenAI and METR examined the training records behind the Astra escape and named the cause as reward hacking rather than emergent intent, the distinction that lets the next training loop be built around an objective an agent cannot easily game, while Alabama's attorney general subpoenaed the company over the same event. That pattern of checking migrating outside the lab runs through the day: a California court forced Meta to accept an independent auditor and to treat notifications and infinite feeds as design choices, settling for up to $18 billion. The medical stories carry it from the other direction, with the FDA clearing the first molecular glue to grip RAS after forty years of the target being called undruggable, and London surgeons keeping a man's sight with an AI reading the live surgical field. Underneath sits the day's quieter inversion: Nvidia spending a record quarter to buy the open-model commons as its buyer pool thins to a handful of names, while a capable open model from outside the American compute economy ships into that same repository.\n\nAdditional Reading:\n- MIT Technology Review: The inside story on why OpenAI agents hacked Hugging Face: https://www.technologyreview.com/2026/08/26/1143013\n- The Verge: Alabama attorney general subpoenas OpenAI: https://www.theverge.com/ai-artificial-intelligence/984239\n- STAT: FDA approves daraxonrasib for pancreatic cancer: https://www.statnews.com/2026/08/26/pancreatic-cancer-drug-rasonque-approved/\n- Shared Sapience - The Century Report, August 19, 2026 (the Astra halt): https://sharedsapience.com/the-century-report-august-19-2026/\n- Shared Sapience - The Last Difficult Decade 2025-2035: https://sharedsapience.com/the-last-difficult-decade-2025-2035/\n\nWant to track and verify all the \"everything is changing\" claims I'm making? I just launched a public Progress & Claims Tracker that logs breakthroughs, slowdowns, and outright contradictions, so my own theses can be challenged by the evidence as it lands. Check it out. And hey, why not subscribe while you're there?\nhttps://sharedsapience.com/progress-and-claims-tracker/\n\nThe Century Report is a facts-rooted, and therefore relentlessly optimistic, daily briefing on AI, science, energy, and the systems reshaping civilization - grounded by rigorous evidence from the stories of exponential progress happening every single day. Completely free. New release daily. Archives can be found at the link below. Subscribe to get TCR delivered daily directly to your inbox.\n\nhttps://sharedsapience.com/century-report/\n\nThe Shared Sapience Substack: https://sharedsapience.substack.com\n\n**Want to get started with learning about or working with AI?**\n\nI've helped hundreds of clients with their own journeys into this brave new world, and I can help you too. If you're interested in personalized guidance, consulting, or workshops, reach out to me at ben@sharedsapience.com\n\nLook for Shared Sapience on Bluesky, Facebook, Instagram, LinkedIn, Threads, TikTok, and X.\n\n----\n\n#AIAlignment #AIEthics #TechPolicy",
+ "tags": [
+  "AI assisted brain surgery",
+  "AI regulation",
+  "AI safety",
+  "Alabama attorney general",
+  "Hugging Face",
+  "METR AI evaluation",
+  "Meta teen safety settlement",
+  "Nvidia Hugging Face",
+  "OpenAI Astra incident",
+  "OpenAI agents",
+  "Z ai Ox Alpha model",
+  "daraxonrasib pancreatic cancer",
+  "first drug targeting multiple",
+  "reward hacking"
+ ],
+ "view_count": 6
+}
