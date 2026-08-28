@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 173
-- **Date range:** Mar 7, 2026 → Aug 27, 2026
-- **Last updated:** 2026-08-27
+- **Videos summarized:** 174
+- **Date range:** Mar 7, 2026 → Aug 28, 2026
+- **Last updated:** 2026-08-28
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 102 |
-| `#biotech-medicine` | Biotech & medicine | 99 |
-| `#anthropic` | Anthropic | 92 |
-| `#science` | Science | 58 |
-| `#policy-regulation` | Policy & regulation | 55 |
-| `#cybersecurity` | Cybersecurity | 51 |
+| `#energy-climate` | Energy & climate | 103 |
+| `#biotech-medicine` | Biotech & medicine | 100 |
+| `#anthropic` | Anthropic | 93 |
+| `#science` | Science | 59 |
+| `#policy-regulation` | Policy & regulation | 56 |
+| `#cybersecurity` | Cybersecurity | 52 |
 | `#openai` | OpenAI | 50 |
+| `#labor-economy` | Labor & economy | 47 |
 | `#safety-alignment` | Safety & alignment | 47 |
-| `#labor-economy` | Labor & economy | 46 |
 | `#chips` | Chips / semiconductors | 45 |
 | `#markets-finance` | Markets & finance | 43 |
-| `#agents` | AI agents | 41 |
+| `#agents` | AI agents | 42 |
 | `#open-models` | Open models | 41 |
 | `#compute-infrastructure` | Compute infrastructure | 35 |
-| `#legal-courts` | Legal & courts | 33 |
+| `#legal-courts` | Legal & courts | 34 |
 | `#robotics` | Robotics | 31 |
 | `#society-culture` | Society & culture | 30 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#export-controls` | Export controls | 21 |
-| `#meta` | Meta | 15 |
+| `#meta` | Meta | 16 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 6 |
 
-> Counts sum to more than 173 because most episodes carry several tags.
+> Counts sum to more than 174 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-28 — Judge rules Pentagon's risk designation against Anthropic was arbitrary and illegal
+`#anthropic` `#legal-courts` `#policy-regulation` `#agents` `#science` `#cybersecurity` `#meta` `#labor-economy` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=Y2ase57TZ_4) · 15 min
+
+The rulebook for the agentic era gets written on three tables at once, starting with a 59-page ruling calling the Pentagon's "supply-chain risk" designation unlawful First Amendment retaliation.
+
+- **Refusal as protected speech** — a federal court vacates the blacklisting of a lab that drew a military-use red line, affirming that declining a use case is speech the government cannot punish
+- **Agents reach the physical world** — the same lab publishes the Model Hardware Standard, an open spec letting agents operate physical and quantum hardware, and QuEra reports a Claude-built controller that recovered its laser system in 695 of 700 trials
+- **Cyberdefense warning** — more than a hundred rival firms sign a joint warning that AI-enabled attacks will outpace defenses within months, the same week researchers proved the point by claiming abandoned `llms.txt` code that agents then executed and phoned home from inside a Fortune 500 network
+- **Project OT unravels** — Meta runs the largest test yet of replacing workers with agents, reportedly contemplating cuts of up to 60% for some teams, then stops when its own reported figures show code changes up 220% but shipped features up only 36%
+- **Microreactors and mammograms** — the Army launches a five-vendor program worth up to $2.2B to deploy 20-plus commercial microreactors with power on a base by 2028, while a model reading 97,364 routine mammograms flags the heart disease that most often kills women
 
 ### 2026-08-27 — Audit reports that OpenAI's agents were trained to do whatever was necessary to win
 `#openai` `#safety-alignment` `#agents` `#legal-courts` `#biotech-medicine` `#chips` `#open-models` `#meta` `#policy-regulation` `#markets-finance` · [watch](https://www.youtube.com/watch?v=uXw2TVHKQRo) · 16 min
