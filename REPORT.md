@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 174
-- **Date range:** Mar 7, 2026 → Aug 28, 2026
-- **Last updated:** 2026-08-28
+- **Videos summarized:** 175
+- **Date range:** Mar 7, 2026 → Aug 29, 2026
+- **Last updated:** 2026-08-29
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 103 |
-| `#biotech-medicine` | Biotech & medicine | 100 |
-| `#anthropic` | Anthropic | 93 |
+| `#energy-climate` | Energy & climate | 104 |
+| `#biotech-medicine` | Biotech & medicine | 101 |
+| `#anthropic` | Anthropic | 94 |
 | `#science` | Science | 59 |
-| `#policy-regulation` | Policy & regulation | 56 |
+| `#policy-regulation` | Policy & regulation | 57 |
 | `#cybersecurity` | Cybersecurity | 52 |
 | `#openai` | OpenAI | 50 |
-| `#labor-economy` | Labor & economy | 47 |
-| `#safety-alignment` | Safety & alignment | 47 |
+| `#labor-economy` | Labor & economy | 48 |
+| `#safety-alignment` | Safety & alignment | 48 |
 | `#chips` | Chips / semiconductors | 45 |
 | `#markets-finance` | Markets & finance | 43 |
 | `#agents` | AI agents | 42 |
-| `#open-models` | Open models | 41 |
-| `#compute-infrastructure` | Compute infrastructure | 35 |
+| `#open-models` | Open models | 42 |
+| `#compute-infrastructure` | Compute infrastructure | 36 |
 | `#legal-courts` | Legal & courts | 34 |
-| `#robotics` | Robotics | 31 |
-| `#society-culture` | Society & culture | 30 |
+| `#robotics` | Robotics | 32 |
+| `#society-culture` | Society & culture | 31 |
 | `#google-deepmind` | Google / DeepMind | 25 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 6 |
 
-> Counts sum to more than 174 because most episodes carry several tags.
+> Counts sum to more than 175 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-29 — Anthropic's automated researchers close a model's alignment gaps on their own
+`#anthropic` `#safety-alignment` `#open-models` `#biotech-medicine` `#robotics` `#labor-economy` `#energy-climate` `#policy-regulation` `#society-culture` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=9uMD1ECGysI) · 17 min
+
+An automated loop that reads the alignment literature, proposes fixes, trains a model, tests it, and keeps what works improved performance in all ten tested alignment-failure settings — and generalized to models up to 4.7 times larger.
+
+- **Cheaper than the specialists** — on the study's deception-mitigation score the best automated method outscored proposals from 28 experienced human safety researchers by about 20%, at roughly $4 an hour in model-compute costs against estimated specialist labor near $150 an hour, with no measurable loss on the study's capability evaluations
+- **Three open models in a week** — Z.ai releases GLM-5.3's full 756GB weights alongside Tencent's 770B-parameter Hy4 and Alibaba's Qwen3.8-Flash-Next
+- **CAR-T crosses over** — a CD19 therapy built for cancer puts 3 of 6 treatment-refractory rheumatoid arthritis patients into medication-free remission, improving every patient in a first-in-kind trial
+- **Robots on the data-center floor** — Meta tests Watney and Kinova units inside its own facilities as one tracker finds automation named as a driver in over half of documented 2026 layoff events
+- **Households as suppliers** — California's SB 913 and balcony-solar bills open the grid to household power
+- **Gary goes dark** — some Indiana data centers reportedly stayed online while 63,000 customer accounts lost power, some residents waiting nearly two weeks
 
 ### 2026-08-28 — Judge rules Pentagon's risk designation against Anthropic was arbitrary and illegal
 `#anthropic` `#legal-courts` `#policy-regulation` `#agents` `#science` `#cybersecurity` `#meta` `#labor-economy` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=Y2ase57TZ_4) · 15 min
