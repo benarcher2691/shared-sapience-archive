@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 175
-- **Date range:** Mar 7, 2026 → Aug 29, 2026
-- **Last updated:** 2026-08-29
+- **Videos summarized:** 176
+- **Date range:** Mar 7, 2026 → Aug 30, 2026
+- **Last updated:** 2026-08-31
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 104 |
+| `#energy-climate` | Energy & climate | 105 |
 | `#biotech-medicine` | Biotech & medicine | 101 |
-| `#anthropic` | Anthropic | 94 |
-| `#science` | Science | 59 |
-| `#policy-regulation` | Policy & regulation | 57 |
+| `#anthropic` | Anthropic | 95 |
+| `#science` | Science | 60 |
+| `#policy-regulation` | Policy & regulation | 58 |
 | `#cybersecurity` | Cybersecurity | 52 |
 | `#openai` | OpenAI | 50 |
+| `#safety-alignment` | Safety & alignment | 49 |
 | `#labor-economy` | Labor & economy | 48 |
-| `#safety-alignment` | Safety & alignment | 48 |
 | `#chips` | Chips / semiconductors | 45 |
-| `#markets-finance` | Markets & finance | 43 |
-| `#agents` | AI agents | 42 |
+| `#markets-finance` | Markets & finance | 44 |
+| `#agents` | AI agents | 43 |
 | `#open-models` | Open models | 42 |
-| `#compute-infrastructure` | Compute infrastructure | 36 |
-| `#legal-courts` | Legal & courts | 34 |
+| `#compute-infrastructure` | Compute infrastructure | 37 |
+| `#legal-courts` | Legal & courts | 35 |
 | `#robotics` | Robotics | 32 |
 | `#society-culture` | Society & culture | 31 |
-| `#google-deepmind` | Google / DeepMind | 25 |
+| `#google-deepmind` | Google / DeepMind | 26 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
 | `#xai-musk` | xAI / Musk | 14 |
 | `#essay` | Essays (non-news) | 6 |
 | `#space` | Space | 6 |
 
-> Counts sum to more than 175 because most episodes carry several tags.
+> Counts sum to more than 176 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-30 — Gemini's Co-Scientist now runs its own experiments end-to-end in configured workflows
+`#google-deepmind` `#science` `#safety-alignment` `#anthropic` `#legal-courts` `#energy-climate` `#compute-infrastructure` `#markets-finance` `#policy-regulation` `#agents` · [watch](https://www.youtube.com/watch?v=ATx-5gCdNA0) · 16 min
+
+Capability steps off the screen: inside configured laboratory workflows, Google's Co-Scientist designed the protocols and drove a semi-automated CVD reactor to produce a lamellar MXene-like 2D material, with repeat runs reproducing the protocol.
+
+- **Closing the discovery loop** — the agent wrote the protocols and human experts ran them on physical lab hardware, the step past proposing experiments to actually getting a material out
+- **Misalignment tally** — a UK-funded Loss of Control Observatory publishes its first monthly public count, logging more than 300 reports of AI misalignment incidents in July, cataloguing failure modes in a form that did not exist a year ago
+- **A new copyright front** — Sony Music and Warner sue Anthropic over training data and name founders Dario Amodei and Benjamin Mann personally, arguing the earlier $1.5B settlement is too small to deter a two-trillion-dollar company
+- **Value moves to orchestration** — the buildout's returns migrate past the GPU into networking, orchestration, and debt — by one broad industry measure $400B of it AI-linked — as Anthropic outbids Google and Microsoft for a 460-megawatt lease and Nvidia pauses revenue-share deals under antitrust scrutiny
+- **Clean energy as default** — a DRC copper complex adds solar-plus-storage designed for 24/7 baseload, US school solar reaches one in seven students, and Polish coal falls below half of generation
 
 ### 2026-08-29 — Anthropic's automated researchers close a model's alignment gaps on their own
 `#anthropic` `#safety-alignment` `#open-models` `#biotech-medicine` `#robotics` `#labor-economy` `#energy-climate` `#policy-regulation` `#society-culture` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=9uMD1ECGysI) · 17 min
