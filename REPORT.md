@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 176
-- **Date range:** Mar 7, 2026 → Aug 30, 2026
-- **Last updated:** 2026-08-31
+- **Videos summarized:** 177
+- **Date range:** Mar 7, 2026 → Aug 31, 2026
+- **Last updated:** 2026-09-01
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,19 +17,19 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 105 |
+| `#energy-climate` | Energy & climate | 106 |
 | `#biotech-medicine` | Biotech & medicine | 101 |
-| `#anthropic` | Anthropic | 95 |
-| `#science` | Science | 60 |
-| `#policy-regulation` | Policy & regulation | 58 |
-| `#cybersecurity` | Cybersecurity | 52 |
-| `#openai` | OpenAI | 50 |
+| `#anthropic` | Anthropic | 96 |
+| `#science` | Science | 61 |
+| `#policy-regulation` | Policy & regulation | 59 |
+| `#cybersecurity` | Cybersecurity | 53 |
+| `#openai` | OpenAI | 51 |
 | `#safety-alignment` | Safety & alignment | 49 |
 | `#labor-economy` | Labor & economy | 48 |
 | `#chips` | Chips / semiconductors | 45 |
-| `#markets-finance` | Markets & finance | 44 |
-| `#agents` | AI agents | 43 |
-| `#open-models` | Open models | 42 |
+| `#markets-finance` | Markets & finance | 45 |
+| `#agents` | AI agents | 44 |
+| `#open-models` | Open models | 43 |
 | `#compute-infrastructure` | Compute infrastructure | 37 |
 | `#legal-courts` | Legal & courts | 35 |
 | `#robotics` | Robotics | 32 |
@@ -38,14 +38,25 @@ plus occasional stand-alone essay videos.
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
 | `#xai-musk` | xAI / Musk | 14 |
+| `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
-| `#space` | Space | 6 |
 
-> Counts sum to more than 176 because most episodes carry several tags.
+> Counts sum to more than 177 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-08-31 — Machine-speed AI will threaten human-speed financial system, Bank of England warns
+`#markets-finance` `#policy-regulation` `#cybersecurity` `#open-models` `#openai` `#anthropic` `#energy-climate` `#space` `#science` `#agents` · [watch](https://www.youtube.com/watch?v=r5dae4lqUI4) · 19 min
+
+As chair of the Financial Stability Board, Andrew Bailey warned G20 finance ministers that frontier AI's autonomy and threat capability could spread cyber-disruption across a highly interconnected system faster than regulators can respond.
+
+- **The deeper fragility** — Bailey named leverage and concentration, not the models themselves, as the underlying vulnerability the speed mismatch would act on
+- **A gated open release** — Z.ai publishes GLM-5.3's 753-billion-parameter weights on Hugging Face with its one licensing checkpoint reserved for hosting providers above $10B in revenue, leaving broad access below that line subject to the license
+- **Cursor cut off** — OpenAI says it will end Cursor's model access on November 12 after SpaceX bought the company; Cursor's founder puts OpenAI models at roughly 5% of user traffic, and Anthropic pledged more compute within hours
+- **Superhot geothermal** — Quaise Energy closes a $180M round backed by drilling firm Nabors to bore into 500 °C rock with a microwave gyrotron for the first commercial plant of its kind
+- **Roman reaches orbit** — NASA's telescope launches on a SpaceX rocket with the largest infrared camera ever flown, set to survey 20 billion stars and image an estimated 100,000 new planets, its data bound for researchers worldwide
 
 ### 2026-08-30 — Gemini's Co-Scientist now runs its own experiments end-to-end in configured workflows
 `#google-deepmind` `#science` `#safety-alignment` `#anthropic` `#legal-courts` `#energy-climate` `#compute-infrastructure` `#markets-finance` `#policy-regulation` `#agents` · [watch](https://www.youtube.com/watch?v=ATx-5gCdNA0) · 16 min
