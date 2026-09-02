@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 177
-- **Date range:** Mar 7, 2026 → Aug 31, 2026
-- **Last updated:** 2026-09-01
+- **Videos summarized:** 178
+- **Date range:** Mar 7, 2026 → Sep 1, 2026
+- **Last updated:** 2026-09-02
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,46 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 106 |
+| `#energy-climate` | Energy & climate | 107 |
 | `#biotech-medicine` | Biotech & medicine | 101 |
-| `#anthropic` | Anthropic | 96 |
+| `#anthropic` | Anthropic | 97 |
 | `#science` | Science | 61 |
-| `#policy-regulation` | Policy & regulation | 59 |
+| `#policy-regulation` | Policy & regulation | 60 |
 | `#cybersecurity` | Cybersecurity | 53 |
-| `#openai` | OpenAI | 51 |
+| `#openai` | OpenAI | 52 |
 | `#safety-alignment` | Safety & alignment | 49 |
 | `#labor-economy` | Labor & economy | 48 |
+| `#agents` | AI agents | 45 |
 | `#chips` | Chips / semiconductors | 45 |
 | `#markets-finance` | Markets & finance | 45 |
-| `#agents` | AI agents | 44 |
-| `#open-models` | Open models | 43 |
-| `#compute-infrastructure` | Compute infrastructure | 37 |
-| `#legal-courts` | Legal & courts | 35 |
+| `#open-models` | Open models | 44 |
+| `#compute-infrastructure` | Compute infrastructure | 38 |
+| `#legal-courts` | Legal & courts | 36 |
 | `#robotics` | Robotics | 32 |
-| `#society-culture` | Society & culture | 31 |
+| `#society-culture` | Society & culture | 32 |
 | `#google-deepmind` | Google / DeepMind | 26 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
-| `#xai-musk` | xAI / Musk | 14 |
+| `#xai-musk` | xAI / Musk | 15 |
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 177 because most episodes carry several tags.
+> Counts sum to more than 178 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-01 — Breakthrough tool creates screens without a conventionally coded interface underneath
+`#agents` `#anthropic` `#xai-musk` `#openai` `#policy-regulation` `#legal-courts` `#energy-climate` `#compute-infrastructure` `#open-models` `#society-culture` · [watch](https://www.youtube.com/watch?v=8jeaqTlMguA) · 17 min
+
+Runway's Solaris draws a working application interface directly as pixels, updating each frame as a user clicks and types, with no conventionally coded interface between intent and screen.
+
+- **Interface World Model** — early and unreleased, it beat a hand-coded Claude Opus 5 interface in 61% of tasks, pointing at software that arrives shaped to the task instead of as a fixed catalog of apps
+- **GenAI.mil expands** — the Pentagon adds ChatGPT Mil and xAI's Grok for Government alongside Gemini for up to 3 million eligible personnel, as a federal judge strikes down the label that had kept Claude out
+- **Turbines versus the queue** — Musk says a SpaceX foundry will cast its own single-crystal turbine blades to bring gas power online 18 months faster, while PJM drops a Meta-backed Oklo nuclear-and-gas campus from its interconnection cycle
+- **Record storage quarter** — US grid batteries add 20.2 GWh in Q2 2026, more than 74% of it in states that voted Republican in 2024, with standalone storage now earning its own place on the grid
+- **OpenClaw 2.0** — 933 unpaid contributors reassemble nearly half the codebase in one two-month cycle across 16,000 pull requests
 
 ### 2026-08-31 — Machine-speed AI will threaten human-speed financial system, Bank of England warns
 `#markets-finance` `#policy-regulation` `#cybersecurity` `#open-models` `#openai` `#anthropic` `#energy-climate` `#space` `#science` `#agents` · [watch](https://www.youtube.com/watch?v=r5dae4lqUI4) · 19 min
