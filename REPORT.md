@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 178
-- **Date range:** Mar 7, 2026 → Sep 1, 2026
-- **Last updated:** 2026-09-02
+- **Videos summarized:** 179
+- **Date range:** Mar 7, 2026 → Sep 2, 2026
+- **Last updated:** 2026-09-03
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,22 +17,22 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 107 |
-| `#biotech-medicine` | Biotech & medicine | 101 |
-| `#anthropic` | Anthropic | 97 |
+| `#energy-climate` | Energy & climate | 108 |
+| `#biotech-medicine` | Biotech & medicine | 102 |
+| `#anthropic` | Anthropic | 98 |
+| `#policy-regulation` | Policy & regulation | 61 |
 | `#science` | Science | 61 |
-| `#policy-regulation` | Policy & regulation | 60 |
-| `#cybersecurity` | Cybersecurity | 53 |
-| `#openai` | OpenAI | 52 |
-| `#safety-alignment` | Safety & alignment | 49 |
+| `#cybersecurity` | Cybersecurity | 54 |
+| `#openai` | OpenAI | 53 |
+| `#safety-alignment` | Safety & alignment | 50 |
 | `#labor-economy` | Labor & economy | 48 |
 | `#agents` | AI agents | 45 |
 | `#chips` | Chips / semiconductors | 45 |
 | `#markets-finance` | Markets & finance | 45 |
-| `#open-models` | Open models | 44 |
+| `#open-models` | Open models | 45 |
 | `#compute-infrastructure` | Compute infrastructure | 38 |
 | `#legal-courts` | Legal & courts | 36 |
-| `#robotics` | Robotics | 32 |
+| `#robotics` | Robotics | 33 |
 | `#society-culture` | Society & culture | 32 |
 | `#google-deepmind` | Google / DeepMind | 26 |
 | `#export-controls` | Export controls | 21 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 178 because most episodes carry several tags.
+> Counts sum to more than 179 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-02 — OpenAI gates Astra's strongest cyber power to a select group only
+`#cybersecurity` `#openai` `#anthropic` `#safety-alignment` `#open-models` `#energy-climate` `#robotics` `#policy-regulation` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=G7KSItqP7vw) · 18 min
+
+OpenAI rated Astra at its "critical" cyber tier for the first time, a model able to independently find and chain unknown software exploits, and is holding the strongest version back for a select group of partners.
+
+- **Astra crosses the threshold** — it scored a perfect 100 on ExploitBench and beat GPT-5.6 Sol and Anthropic's Mythos in OpenAI's own evaluation; the full-strength version goes first to Cisco, Cloudflare, Palo Alto Networks, and government partners under the Daybreak Blue gate
+- **The gate has a half-life** — Z.ai still plans to release GLM-5.3's full weights after a two-week delay, and independent research suggests some open models catch up to gated cyber systems within months
+- **Anthropic runs the same play** — Claude Fable 5.1 goes generally available with typical work costing roughly 25% less and long agent jobs up to 45% less, while the identically capable Mythos 5.1 stays behind a trusted-access gate
+- **Solar passes coal in China** — installed solar reaches 1.286 billion kilowatts to become the country's largest power source, with solar making up over 40% of new generating capacity even as compute demand climbs
+- **Tesla's redacted crash data** — the company's own recorders confirmed driver-assist was "verified engaged" when a Batavia passenger and a stopped Mesa driver died, as Electrek confirmed, while software version, video, and telematics stay redacted in the filings
+- **ChatGPT Health reaches the chart** — OpenAI connects it to Epic at 325-million-patient scale, read-only by design, giving a small clinic the synthesis capacity a specialist team used to provide
 
 ### 2026-09-01 — Breakthrough tool creates screens without a conventionally coded interface underneath
 `#agents` `#anthropic` `#xai-musk` `#openai` `#policy-regulation` `#legal-courts` `#energy-climate` `#compute-infrastructure` `#open-models` `#society-culture` · [watch](https://www.youtube.com/watch?v=8jeaqTlMguA) · 17 min
