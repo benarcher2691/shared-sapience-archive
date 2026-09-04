@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 179
-- **Date range:** Mar 7, 2026 → Sep 2, 2026
-- **Last updated:** 2026-09-03
+- **Videos summarized:** 180
+- **Date range:** Mar 7, 2026 → Sep 3, 2026
+- **Last updated:** 2026-09-04
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 108 |
-| `#biotech-medicine` | Biotech & medicine | 102 |
+| `#energy-climate` | Energy & climate | 109 |
+| `#biotech-medicine` | Biotech & medicine | 103 |
 | `#anthropic` | Anthropic | 98 |
-| `#policy-regulation` | Policy & regulation | 61 |
-| `#science` | Science | 61 |
-| `#cybersecurity` | Cybersecurity | 54 |
-| `#openai` | OpenAI | 53 |
-| `#safety-alignment` | Safety & alignment | 50 |
+| `#policy-regulation` | Policy & regulation | 62 |
+| `#science` | Science | 62 |
+| `#cybersecurity` | Cybersecurity | 55 |
+| `#openai` | OpenAI | 54 |
+| `#safety-alignment` | Safety & alignment | 51 |
 | `#labor-economy` | Labor & economy | 48 |
 | `#agents` | AI agents | 45 |
 | `#chips` | Chips / semiconductors | 45 |
 | `#markets-finance` | Markets & finance | 45 |
 | `#open-models` | Open models | 45 |
-| `#compute-infrastructure` | Compute infrastructure | 38 |
-| `#legal-courts` | Legal & courts | 36 |
-| `#robotics` | Robotics | 33 |
+| `#compute-infrastructure` | Compute infrastructure | 39 |
+| `#legal-courts` | Legal & courts | 37 |
+| `#robotics` | Robotics | 34 |
 | `#society-culture` | Society & culture | 32 |
-| `#google-deepmind` | Google / DeepMind | 26 |
+| `#google-deepmind` | Google / DeepMind | 27 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
 | `#xai-musk` | xAI / Musk | 15 |
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 179 because most episodes carry several tags.
+> Counts sum to more than 180 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-03 — The largest enhanced-geothermal PPA announced to date will feed AI
+`#energy-climate` `#compute-infrastructure` `#google-deepmind` `#robotics` `#cybersecurity` `#safety-alignment` `#biotech-medicine` `#legal-courts` `#openai` `#policy-regulation` `#science` · [watch](https://www.youtube.com/watch?v=3Z5ndOqZdY0) · 17 min
+
+Google signed a 396 MW power purchase agreement with Fervo Energy for output from Cape Station in Utah, the largest enhanced-geothermal deal announced to date, with an option toward nearly a gigawatt of firm clean electricity by 2030.
+
+- **Baseload as the scarce commodity** — analysts frame firm power as the binding constraint of the compute buildout, and a hyperscaler is now underwriting first-of-a-kind geothermal wells directly
+- **World Labs ships Atlas** — Fei-Fei Li's omni world model reasons about space rather than only language, generating minute-long camera-controlled 1440p video from a single image and reconstructing 3D scenes from a few photos, with a real-to-sim robotics workflow as the clearest near-term use
+- **Google's Fairwind gate** — the company places its strongest defensive cyber capability, Gemini 3.8 Flash Cyber, behind a trusted-access program, following OpenAI's Astra and Anthropic's Mythos gates
+- **Semaglutide extends lifespan** — a UC Berkeley team reports in Nature that late-life GLP-1 treatment extended older mice's lives by roughly 12%, matching calorie restriction on survival with better cognitive-test results and biomarkers suggesting a distinct biochemical route
+- **Justice Department backs OpenAI** — the government files in support of OpenAI's fair-use position in the New York Times copyright suit, arguing a Times win would threaten American AI leadership
+- **Nighthawk r2** — IBM's quantum processor crosses 100,000 circuits per second
 
 ### 2026-09-02 — OpenAI gates Astra's strongest cyber power to a select group only
 `#cybersecurity` `#openai` `#anthropic` `#safety-alignment` `#open-models` `#energy-climate` `#robotics` `#policy-regulation` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=G7KSItqP7vw) · 18 min
