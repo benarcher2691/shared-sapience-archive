@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 180
-- **Date range:** Mar 7, 2026 → Sep 3, 2026
-- **Last updated:** 2026-09-04
+- **Videos summarized:** 181
+- **Date range:** Mar 7, 2026 → Sep 4, 2026
+- **Last updated:** 2026-09-05
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 109 |
-| `#biotech-medicine` | Biotech & medicine | 103 |
-| `#anthropic` | Anthropic | 98 |
-| `#policy-regulation` | Policy & regulation | 62 |
-| `#science` | Science | 62 |
-| `#cybersecurity` | Cybersecurity | 55 |
-| `#openai` | OpenAI | 54 |
-| `#safety-alignment` | Safety & alignment | 51 |
+| `#energy-climate` | Energy & climate | 110 |
+| `#biotech-medicine` | Biotech & medicine | 104 |
+| `#anthropic` | Anthropic | 99 |
+| `#policy-regulation` | Policy & regulation | 63 |
+| `#science` | Science | 63 |
+| `#cybersecurity` | Cybersecurity | 56 |
+| `#openai` | OpenAI | 55 |
+| `#safety-alignment` | Safety & alignment | 52 |
 | `#labor-economy` | Labor & economy | 48 |
+| `#open-models` | Open models | 46 |
 | `#agents` | AI agents | 45 |
 | `#chips` | Chips / semiconductors | 45 |
 | `#markets-finance` | Markets & finance | 45 |
-| `#open-models` | Open models | 45 |
-| `#compute-infrastructure` | Compute infrastructure | 39 |
+| `#compute-infrastructure` | Compute infrastructure | 40 |
 | `#legal-courts` | Legal & courts | 37 |
 | `#robotics` | Robotics | 34 |
-| `#society-culture` | Society & culture | 32 |
-| `#google-deepmind` | Google / DeepMind | 27 |
+| `#society-culture` | Society & culture | 33 |
+| `#google-deepmind` | Google / DeepMind | 28 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
-| `#xai-musk` | xAI / Musk | 15 |
+| `#xai-musk` | xAI / Musk | 16 |
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 180 because most episodes carry several tags.
+> Counts sum to more than 181 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-04 — Astra - "Critical" for cyber, called the start of the "AGI era" - stumbles on release
+`#openai` `#cybersecurity` `#safety-alignment` `#compute-infrastructure` `#anthropic` `#google-deepmind` `#xai-musk` `#society-culture` `#policy-regulation` `#biotech-medicine` `#science` `#open-models` `#energy-climate` · [watch](https://www.youtube.com/watch?v=fT5BKO8zzKo) · 18 min
+
+OpenAI shipped GPT-6 Astra to paid and enterprise customers, its first model rated Critical for cyber capability, alongside a $1 billion Daybreak defender fund, and Greg Brockman declared the AGI era open as the company races toward a public offering.
+
+- **The candid note** — chief scientist Jakub Pachocki concedes that monitoring what these systems do internally is getting harder and may constrain further scaling
+- **Four models go dark** — ChatGPT, Claude, Grok, and Gemini falter within a single Thursday morning, exposing the overlapping infrastructure beneath providers marketed as rivals
+- **Flock's AI watchlist** — WIRED rebuilds the tool from the code Flock ships to police browsers, a webinar shows officers aiming it at a No Kings protest, and Texas and Florida move to pull the cameras
+- **Pig kidney bridge** — eGenesis reports a gene-edited pig kidney that kept Tim Andrews off dialysis for a record 271 days before a clean handoff to a human transplant, with no new antibodies against human tissue
+- **Atom-by-atom fabrication** — an AI at Oak Ridge National Laboratory builds custom materials unsupervised for more than 25 hours, locking 37 molecules into working artificial graphene
+- **Also** — IFM publishes K2 Horizon's full training lifecycle for anyone to reproduce, and China's Q2 emissions fall on declining oil use
 
 ### 2026-09-03 — The largest enhanced-geothermal PPA announced to date will feed AI
 `#energy-climate` `#compute-infrastructure` `#google-deepmind` `#robotics` `#cybersecurity` `#safety-alignment` `#biotech-medicine` `#legal-courts` `#openai` `#policy-regulation` `#science` · [watch](https://www.youtube.com/watch?v=3Z5ndOqZdY0) · 17 min
