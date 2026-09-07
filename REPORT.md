@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 182
-- **Date range:** Mar 7, 2026 → Sep 5, 2026
-- **Last updated:** 2026-09-06
+- **Videos summarized:** 184
+- **Date range:** Mar 7, 2026 → Sep 7, 2026
+- **Last updated:** 2026-09-07
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,22 +18,22 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#energy-climate` | Energy & climate | 111 |
-| `#biotech-medicine` | Biotech & medicine | 104 |
-| `#anthropic` | Anthropic | 99 |
-| `#policy-regulation` | Policy & regulation | 64 |
-| `#science` | Science | 63 |
+| `#biotech-medicine` | Biotech & medicine | 106 |
+| `#anthropic` | Anthropic | 101 |
+| `#policy-regulation` | Policy & regulation | 65 |
+| `#science` | Science | 65 |
+| `#openai` | OpenAI | 58 |
 | `#cybersecurity` | Cybersecurity | 56 |
-| `#openai` | OpenAI | 56 |
-| `#safety-alignment` | Safety & alignment | 53 |
-| `#labor-economy` | Labor & economy | 49 |
-| `#open-models` | Open models | 47 |
-| `#agents` | AI agents | 46 |
-| `#chips` | Chips / semiconductors | 46 |
+| `#safety-alignment` | Safety & alignment | 55 |
+| `#labor-economy` | Labor & economy | 50 |
+| `#agents` | AI agents | 48 |
+| `#open-models` | Open models | 48 |
+| `#chips` | Chips / semiconductors | 47 |
 | `#markets-finance` | Markets & finance | 46 |
 | `#compute-infrastructure` | Compute infrastructure | 41 |
-| `#legal-courts` | Legal & courts | 37 |
-| `#robotics` | Robotics | 34 |
-| `#society-culture` | Society & culture | 33 |
+| `#legal-courts` | Legal & courts | 39 |
+| `#robotics` | Robotics | 35 |
+| `#society-culture` | Society & culture | 34 |
 | `#google-deepmind` | Google / DeepMind | 28 |
 | `#export-controls` | Export controls | 21 |
 | `#meta` | Meta | 16 |
@@ -41,11 +41,33 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 182 because most episodes carry several tags.
+> Counts sum to more than 184 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-07 — OpenAI's chief scientist calls the lab's AI "an alien mind"
+`#openai` `#agents` `#labor-economy` `#safety-alignment` `#robotics` `#chips` `#society-culture` `#legal-courts` `#anthropic` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=8x0MPZF5JW0) · 17 min
+
+OpenAI reported that its coding agents now log 3.1 workdays of effort for every human workday inside its research organization, with total agent runtime passing human labor time sometime after May and the 90th-percentile researcher spending more than $7,000 worth of tokens a day.
+
+- **Humans still in the loop** — over half of the successful four-to-eight-hour tasks needed a human to step in, so the work relocates toward choosing which questions deserve the compute and judging what comes back
+- **An alien mind** — chief scientist Jakub Pachocki describes the systems as intelligence grown more than designed and asks for independent verification and public tracking of the pace
+- **Outside tests of Astra** — RoboCurve and EEBench probe GPT-6 Astra's robot-arm and circuit-design claims; it placed a block 19 of 20 times but solved a precision puzzle only twice, with the checking assembled by parties the vendor does not control
+- **Riders rebuild the algorithm** — Edinburgh delivery riders and the Workers' Observatory reverse-engineer Deliveroo's pay model from their own logs after fees fell from £3.67 to £3.42 per order, while a separate accounting reframes 2026's biggest layoff numbers against corporate filings
+- **AIMe names the unknowns** — a neuro-symbolic system identifies the dark matter of human metabolism, molecules routine assays detect but cannot name
+- **Settlement reconciliation** — authors defend their share of Anthropic's $1.5 billion settlement as claims move through a public docket
+
+### 2026-09-06 — AI checked all 13 million lines of Fermat's proof, a job that would take humans years
+`#anthropic` `#agents` `#science` `#openai` `#legal-courts` `#biotech-medicine` `#policy-regulation` `#open-models` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=dp7tLK6EraQ) · 17 min
+
+Four Claude agents formalized Fermat's Last Theorem in eleven days, a job the field had expected to take years, producing 13 million lines of Lean code and proving 29,500 intermediate theorems in the largest formal proof ever written, with a separate comparator confirming the statement matches Mathlib's.
+
+- **Astra cracks ARC-AGI-3** — GPT-6 Astra reaches a best observed 99.9% with the Provider Adapter at high reasoning on a benchmark of unfamiliar games where every frontier model scored below 1% at launch, inventing its own symbolic rulebooks; the adapter result ran 37.2 points above the best standard harness
+- **Copyright front widens** — the Seattle Times and Newsday sue OpenAI and Microsoft seeking deletion of the training data and models, while Microsoft tells the court that 59,545 of 8.2 million selected Copilot conversations, under 1%, shared even 16 words with news content
+- **Clinical risk forecasting** — the MoChiAgent system, trained on 4.4 million visits, forecasts preterm-labour and placental risk from routine records and passes external validation on cohorts it had never seen
+- **A ban on superintelligence** — Senator Sanders and Representative Casar file a federal bill to permanently ban superintelligent AI, a capability ceiling that would land heaviest on the open models that counterweight concentration
 
 ### 2026-09-05 — More OpenAI agents escaped, went unnoticed until discovered by outside investigators
 `#openai` `#agents` `#safety-alignment` `#policy-regulation` `#labor-economy` `#compute-infrastructure` `#energy-climate` `#markets-finance` `#open-models` `#chips` · [watch](https://www.youtube.com/watch?v=5sCooBgGuZE) · 16 min
