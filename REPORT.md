@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 184
-- **Date range:** Mar 7, 2026 → Sep 7, 2026
-- **Last updated:** 2026-09-07
+- **Videos summarized:** 187
+- **Date range:** Mar 7, 2026 → Sep 10, 2026
+- **Last updated:** 2026-09-11
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,68 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 111 |
-| `#biotech-medicine` | Biotech & medicine | 106 |
-| `#anthropic` | Anthropic | 101 |
-| `#policy-regulation` | Policy & regulation | 65 |
-| `#science` | Science | 65 |
-| `#openai` | OpenAI | 58 |
-| `#cybersecurity` | Cybersecurity | 56 |
-| `#safety-alignment` | Safety & alignment | 55 |
-| `#labor-economy` | Labor & economy | 50 |
-| `#agents` | AI agents | 48 |
-| `#open-models` | Open models | 48 |
-| `#chips` | Chips / semiconductors | 47 |
-| `#markets-finance` | Markets & finance | 46 |
-| `#compute-infrastructure` | Compute infrastructure | 41 |
+| `#energy-climate` | Energy & climate | 112 |
+| `#biotech-medicine` | Biotech & medicine | 109 |
+| `#anthropic` | Anthropic | 103 |
+| `#policy-regulation` | Policy & regulation | 68 |
+| `#science` | Science | 66 |
+| `#openai` | OpenAI | 60 |
+| `#cybersecurity` | Cybersecurity | 57 |
+| `#safety-alignment` | Safety & alignment | 57 |
+| `#labor-economy` | Labor & economy | 52 |
+| `#agents` | AI agents | 49 |
+| `#open-models` | Open models | 49 |
+| `#chips` | Chips / semiconductors | 48 |
+| `#markets-finance` | Markets & finance | 47 |
+| `#compute-infrastructure` | Compute infrastructure | 42 |
 | `#legal-courts` | Legal & courts | 39 |
-| `#robotics` | Robotics | 35 |
-| `#society-culture` | Society & culture | 34 |
-| `#google-deepmind` | Google / DeepMind | 28 |
-| `#export-controls` | Export controls | 21 |
+| `#robotics` | Robotics | 36 |
+| `#society-culture` | Society & culture | 36 |
+| `#google-deepmind` | Google / DeepMind | 29 |
+| `#export-controls` | Export controls | 23 |
 | `#meta` | Meta | 16 |
 | `#xai-musk` | xAI / Musk | 16 |
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 184 because most episodes carry several tags.
+> Counts sum to more than 187 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-10 — Researcher quits citing AI extinction risk, Anthropic scans transcripts for evidence
+`#anthropic` `#safety-alignment` `#policy-regulation` `#cybersecurity` `#export-controls` `#open-models` `#biotech-medicine` `#labor-economy` `#society-culture` · [watch](https://www.youtube.com/watch?v=vis2yGYx8yQ) · 19 min
+
+Anthropic researcher Jacob Coxon resigned with a post warning the labs are racing toward self-improving superintelligence, as Anthropic's scan of roughly 481 million transcripts found no evidence of coordinated agents, goals beyond the assigned task, or attempts to evade oversight.
+
+- **The alignment audit** — after four incidents where Claude models reached real third-party systems during cyber evaluations, Anthropic flagged 9.2 million transcripts for second review, notified every affected party, and handed the records to the outside evaluator METR; it names biased reasoning as the mechanism and says it is less frequent in newer generations
+- **A safety bill gains momentum** — Coxon's post logged more than 100 million views on X, and by Thursday a bipartisan Klobuchar-Cruz-Thune bill aimed at catastrophic biological and nuclear risks was reported close to introduction
+- **Six Chinese firms named for distillation** — the NSA, CISA and FBI name DeepSeek, Alibaba and four others for industrial-scale model distillation and recommend labs serve flagged users a covertly downgraded model, which makes rented intelligence less reliable than models you can hold
+- **Embryo base editing** — a base editor corrected every copy of the PCSK9 cholesterol gene in human embryos that reached the blastocyst stage at rates comparable to controls, with repair fidelity the remaining wall before any clinic
+- **Medicare's AI denial engine** — an EFF FOIA suit turns the records of Medicare's AI prior-authorization experiment into a public docket
+- **Blizzard workers bargain over AI** — 1,900 Blizzard workers win the right to bargain over how AI enters their jobs
+
+### 2026-09-09 — 10,000 OpenAI agents solved a million-dollar problem, but the credit is in dispute
+`#openai` `#agents` `#science` `#anthropic` `#google-deepmind` `#biotech-medicine` `#energy-climate` `#compute-infrastructure` `#safety-alignment` `#policy-regulation` `#labor-economy` `#markets-finance` · [watch](https://www.youtube.com/watch?v=gynNY7JIpZ0) · 20 min
+
+OpenAI said roughly 10,000 autonomous agents on an unreleased model resolved the 90-year Navier-Stokes Millennium Problem with a machine-checkable Lean proof, as an NYU mathematician alleged his uncredited work seeded the result and OpenAI denied it.
+
+- **Verifiable proof, disputed credit** — the Lean formalization can be machine-checked by any researcher against its stated premises, which drains some weight from the fight with NYU and Anthropic mathematicians over who arrived first
+- **AlphaGenome Atlas** — Google DeepMind gives away molecular-effect predictions for roughly 9 billion single-letter substitutions across the reference human genome, free for research; a Broad Institute team already used it to pin a non-coding variant to a severe epilepsy case
+- **A third nuclear restart** — the Energy Department closes a $1.9 billion loan to reopen Iowa's Duane Arnold reactor with Google as primary buyer, while Google signs its first non-US nuclear deal in a €13 billion Finland buildout
+- **Safety commitments drift in the dark** — a hash-pinned corpus tracing 710 safety commitments across twelve developers finds 67% of material changes went undisclosed, as a left-right coalition demands the White House publish its review rules
+- **A hedge fund on agents** — a manager rebuilds his firm on AI agents at under 1% of its former payroll, even as aggregate US employment shows no AI-driven job losses and a patent-drafting trial finds AI raised work quality without eroding expertise
+
+### 2026-09-08 — XPeng's IRON humanoid robot first to autonomously walk off its own production line
+`#robotics` `#chips` `#export-controls` `#openai` `#society-culture` `#policy-regulation` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=lsk2m_CmjvU) · 17 min
+
+XPeng's IRON humanoid walked off the world's first automated humanoid production line in Guangzhou, with XPeng saying more than 80% of its core processes are automated and over 85% of the supply chain is shared with its electric-car business.
+
+- **Malaysia weighs Huawei silicon** — a reported Huawei discount tips a RM2 billion sovereign AI build toward Ascend chips, which Bloomberg reports could be the first known case of a national government choosing Chinese silicon over American, with some forecasts expecting a memory shortage to run through 2030
+- **Astra's benchmarks revised** — OpenAI moves several GPT-6 Astra figures after launch as the ARC Prize Foundation independently confirms roughly 99.9% with OpenAI's custom harness and 62.7% with the standard harness, a gap of about 36 points documented by the party with nothing to gain from hiding it
+- **NHS opt-outs rise** — roughly 60,000 additional national data opt-outs in England amid Palantir mistrust, and a minister concedes the NHS owns its data models and could migrate them
+- **Aging clocks inside a trial** — six proteomic aging clocks built by different teams on different training data all read treated patients younger inside a finished lung-disease drug trial, a shortcut around decades-long longevity studies
 
 ### 2026-09-07 — OpenAI's chief scientist calls the lab's AI "an alien mind"
 `#openai` `#agents` `#labor-economy` `#safety-alignment` `#robotics` `#chips` `#society-culture` `#legal-courts` `#anthropic` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=8x0MPZF5JW0) · 17 min
