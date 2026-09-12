@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 187
-- **Date range:** Mar 7, 2026 → Sep 10, 2026
-- **Last updated:** 2026-09-11
+- **Videos summarized:** 188
+- **Date range:** Mar 7, 2026 → Sep 11, 2026
+- **Last updated:** 2026-09-12
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 112 |
-| `#biotech-medicine` | Biotech & medicine | 109 |
-| `#anthropic` | Anthropic | 103 |
-| `#policy-regulation` | Policy & regulation | 68 |
+| `#energy-climate` | Energy & climate | 113 |
+| `#biotech-medicine` | Biotech & medicine | 110 |
+| `#anthropic` | Anthropic | 104 |
+| `#policy-regulation` | Policy & regulation | 69 |
 | `#science` | Science | 66 |
-| `#openai` | OpenAI | 60 |
-| `#cybersecurity` | Cybersecurity | 57 |
-| `#safety-alignment` | Safety & alignment | 57 |
-| `#labor-economy` | Labor & economy | 52 |
+| `#openai` | OpenAI | 61 |
+| `#cybersecurity` | Cybersecurity | 58 |
+| `#safety-alignment` | Safety & alignment | 58 |
+| `#labor-economy` | Labor & economy | 53 |
+| `#open-models` | Open models | 50 |
 | `#agents` | AI agents | 49 |
-| `#open-models` | Open models | 49 |
 | `#chips` | Chips / semiconductors | 48 |
 | `#markets-finance` | Markets & finance | 47 |
 | `#compute-infrastructure` | Compute infrastructure | 42 |
 | `#legal-courts` | Legal & courts | 39 |
 | `#robotics` | Robotics | 36 |
 | `#society-culture` | Society & culture | 36 |
-| `#google-deepmind` | Google / DeepMind | 29 |
+| `#google-deepmind` | Google / DeepMind | 30 |
 | `#export-controls` | Export controls | 23 |
 | `#meta` | Meta | 16 |
 | `#xai-musk` | xAI / Musk | 16 |
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 187 because most episodes carry several tags.
+> Counts sum to more than 188 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-11 — AI labs reveal attacks being done on their own models, and debate industry slowdown
+`#anthropic` `#safety-alignment` `#cybersecurity` `#openai` `#policy-regulation` `#google-deepmind` `#open-models` `#labor-economy` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=S-ovfk11aWQ) · 16 min
+
+Anthropic published a 154-page threat report detailing attempts to turn Claude toward bioweapons, three missile programs, and mass surveillance, Google disclosed a parallel attempt against Gemini, and OpenAI was reported asking Congress whether the leading labs could legally coordinate an industry-wide slowdown.
+
+- **The attempts on Claude** — five cases of scientists using Claude in ways that could support biological weapons work, a cell in northern Yemen working the models across a guided rocket, a ballistic missile, and a hypersonic glide missile, and a consultant to Mali's security services coding a platform to intercept every mobile operator in the country; each was detected, disrupted, and reported, and none touched Anthropic's most powerful gated models
+- **Distillation at scale** — the same report ties nearly 200 million distillation exchanges to Alibaba, Moonshot, and DeepSeek
+- **Is a slowdown legal?** — OpenAI was reported asking members of Congress whether the leading labs could coordinate an industry-wide slowdown without violating antitrust law, as a bipartisan Senate bill stalled over language that would override stronger state protections
+- **Capability keeps arriving** — Cognition's SWE-2 coded within a point of the frontier at up to 64% lower cost, Inception's Mercury 2.5 hit 1,100 tokens a second, and Cohere's open-weight translator beat DeepL and Google across 50-plus languages
+- **China's professionals train the models** — underemployed architects and lawyers teach AI their trades after hours for $15 to $74 a task
+- **Injectable nanoantennas** — MIT Media Lab researchers report injectable nanodevices that eliminated 52.2% of chemotherapy-resistant glioblastoma cells and extended mouse survival by more than half, while a commercial-scale rare-earth magnet recycling plant opens in Mesa, Arizona
 
 ### 2026-09-10 — Researcher quits citing AI extinction risk, Anthropic scans transcripts for evidence
 `#anthropic` `#safety-alignment` `#policy-regulation` `#cybersecurity` `#export-controls` `#open-models` `#biotech-medicine` `#labor-economy` `#society-culture` · [watch](https://www.youtube.com/watch?v=vis2yGYx8yQ) · 19 min
