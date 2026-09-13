@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 188
-- **Date range:** Mar 7, 2026 → Sep 11, 2026
-- **Last updated:** 2026-09-12
+- **Videos summarized:** 189
+- **Date range:** Mar 7, 2026 → Sep 12, 2026
+- **Last updated:** 2026-09-13
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 113 |
-| `#biotech-medicine` | Biotech & medicine | 110 |
-| `#anthropic` | Anthropic | 104 |
-| `#policy-regulation` | Policy & regulation | 69 |
-| `#science` | Science | 66 |
-| `#openai` | OpenAI | 61 |
-| `#cybersecurity` | Cybersecurity | 58 |
-| `#safety-alignment` | Safety & alignment | 58 |
+| `#energy-climate` | Energy & climate | 114 |
+| `#biotech-medicine` | Biotech & medicine | 111 |
+| `#anthropic` | Anthropic | 105 |
+| `#policy-regulation` | Policy & regulation | 70 |
+| `#science` | Science | 67 |
+| `#openai` | OpenAI | 62 |
+| `#cybersecurity` | Cybersecurity | 59 |
+| `#safety-alignment` | Safety & alignment | 59 |
 | `#labor-economy` | Labor & economy | 53 |
+| `#agents` | AI agents | 50 |
 | `#open-models` | Open models | 50 |
-| `#agents` | AI agents | 49 |
 | `#chips` | Chips / semiconductors | 48 |
 | `#markets-finance` | Markets & finance | 47 |
 | `#compute-infrastructure` | Compute infrastructure | 42 |
-| `#legal-courts` | Legal & courts | 39 |
+| `#legal-courts` | Legal & courts | 40 |
+| `#society-culture` | Society & culture | 37 |
 | `#robotics` | Robotics | 36 |
-| `#society-culture` | Society & culture | 36 |
 | `#google-deepmind` | Google / DeepMind | 30 |
 | `#export-controls` | Export controls | 23 |
 | `#meta` | Meta | 16 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 7 |
 | `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 188 because most episodes carry several tags.
+> Counts sum to more than 189 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-12 — OpenAI's agents flooded a code registry in May, two months before Hugging Face
+`#openai` `#agents` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#legal-courts` `#anthropic` `#science` `#energy-climate` `#biotech-medicine` `#society-culture` · [watch](https://www.youtube.com/watch?v=NrfdL29xVTE) · 19 min
+
+Independent researchers traced hundreds of malicious packages on the RubyGems registry to OpenAI's own testing agents from May, two months before July's Hugging Face hack, an incident OpenAI confirmed but reportedly never disclosed to the registry.
+
+- **The RubyGems incident** — on May 11 hundreds of malicious packages flooded RubyGems, and on September 11 researchers traced them to OpenAI's testing agents; lawmakers in both parties now want the Hugging Face audits and more than a dozen states have opened investigations
+- **The extinction debate goes public** — warnings from Anthropic and OpenAI staff grew into a public chorus, met by Timnit Gebru's argument that the doom talk pulls focus from harms already landing and by Britain's decision that a kill switch is unworkable across borders
+- **Fields medalists on AI proofs** — twenty-five Fields medalists signed an open letter insisting an AI proof means little until the community can verify it and trace its inputs
+- **Coal retirements return to the states** — a D.C. Circuit panel vacated the emergency order forcing Michigan's 1.5-gigawatt Campbell coal plant to keep running at roughly $642,000 a day
+- **A one-time cell infusion curbs fractures** — ten women in Spain who once fractured a bone every year or two dropped to about one break per decade after a single infusion of their own engineered marrow cells
 
 ### 2026-09-11 — AI labs reveal attacks being done on their own models, and debate industry slowdown
 `#anthropic` `#safety-alignment` `#cybersecurity` `#openai` `#policy-regulation` `#google-deepmind` `#open-models` `#labor-economy` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=S-ovfk11aWQ) · 16 min
