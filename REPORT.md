@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 189
-- **Date range:** Mar 7, 2026 → Sep 12, 2026
-- **Last updated:** 2026-09-13
+- **Videos summarized:** 193
+- **Date range:** Mar 7, 2026 → Sep 15, 2026
+- **Last updated:** 2026-09-16
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,82 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 114 |
-| `#biotech-medicine` | Biotech & medicine | 111 |
-| `#anthropic` | Anthropic | 105 |
-| `#policy-regulation` | Policy & regulation | 70 |
-| `#science` | Science | 67 |
-| `#openai` | OpenAI | 62 |
+| `#energy-climate` | Energy & climate | 116 |
+| `#biotech-medicine` | Biotech & medicine | 114 |
+| `#anthropic` | Anthropic | 109 |
+| `#policy-regulation` | Policy & regulation | 73 |
+| `#science` | Science | 69 |
+| `#openai` | OpenAI | 64 |
+| `#safety-alignment` | Safety & alignment | 63 |
 | `#cybersecurity` | Cybersecurity | 59 |
-| `#safety-alignment` | Safety & alignment | 59 |
-| `#labor-economy` | Labor & economy | 53 |
+| `#labor-economy` | Labor & economy | 54 |
+| `#open-models` | Open models | 52 |
 | `#agents` | AI agents | 50 |
-| `#open-models` | Open models | 50 |
-| `#chips` | Chips / semiconductors | 48 |
-| `#markets-finance` | Markets & finance | 47 |
-| `#compute-infrastructure` | Compute infrastructure | 42 |
-| `#legal-courts` | Legal & courts | 40 |
-| `#society-culture` | Society & culture | 37 |
-| `#robotics` | Robotics | 36 |
-| `#google-deepmind` | Google / DeepMind | 30 |
-| `#export-controls` | Export controls | 23 |
+| `#chips` | Chips / semiconductors | 49 |
+| `#markets-finance` | Markets & finance | 48 |
+| `#compute-infrastructure` | Compute infrastructure | 44 |
+| `#legal-courts` | Legal & courts | 41 |
+| `#society-culture` | Society & culture | 38 |
+| `#robotics` | Robotics | 37 |
+| `#google-deepmind` | Google / DeepMind | 31 |
+| `#export-controls` | Export controls | 24 |
+| `#xai-musk` | xAI / Musk | 18 |
 | `#meta` | Meta | 16 |
-| `#xai-musk` | xAI / Musk | 16 |
+| `#essay` | Essays (non-news) | 7 |
 | `#space` | Space | 7 |
-| `#essay` | Essays (non-news) | 6 |
 
-> Counts sum to more than 189 because most episodes carry several tags.
+> Counts sum to more than 193 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-15 — China: AI slowdown and anti-Chinese efforts are "fearmongering," "cold war playbook"
+`#policy-regulation` `#safety-alignment` `#anthropic` `#export-controls` `#open-models` `#chips` `#compute-infrastructure` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=iCy_elmgMmQ) · 18 min
+
+China's foreign ministry dismissed Anthropic's slowdown essay as "fearmongering" and a state newspaper called it a "Cold War playbook," even as the minister of state security warned that AI threatens Communist Party rule.
+
+- **Beijing rejects the slowdown** — the foreign ministry called the essay fearmongering, a state paper labeled it a "Cold War playbook," and the spy chief listed six AI risks including threats to Party rule, while the essay itself asked Washington to tighten chip controls and keep democracies' lead "as large as possible"
+- **Containment leaks** — a Chinese reasoning model, built on a base model with a reported final training compute cost under $6 million, helped move US chip stocks
+- **Washington splits on guardrails** — President Trump called fears of AI taking over and destroying humanity a "HOAX" while a Louisiana Republican readied a kill-switch bill and University of Maryland pollsters found roughly four in five voters of both parties want a federal AI monitor
+- **Lagarde: build your own AI** — the ECB president told Europe to build its own models or be cut off, citing Epoch AI's 2025 dataset placing about 75% of tracked AI-cluster performance in the US and under 5% in the EU
+- **LSD therapy clears a third Phase 3** — Definium's single-dose LSD treatment passed its third Phase 3 trial, toward the first psychedelic approved for anxiety
+- **A brain implant decodes speech and gesture** — a UCSF implant decoded speech and gesture together for a paralyzed user through an avatar, while NVIDIA's Rubin platform posted up to seven times the work per megawatt with its benchmark open-sourced
+
+### 2026-09-15 — Should we slow down AI? Look closely at where the advantages land
+`#essay` `#anthropic` `#safety-alignment` `#biotech-medicine` `#labor-economy` `#society-culture` · [watch](https://www.youtube.com/watch?v=uKRILbOubfU) · 16 min
+
+An essay answering Dario Amodei's "We Must Pace the Frontier," opposing a broad slowdown on the grounds that people already pay for today's limits with years of their lives.
+
+- **The case against a broad slowdown** — the cost of waiting lands on the sick and the poor, measured in years of life rather than abstractions
+- **A daughter's fear** — opens with the author's daughter worrying about losing a future job, and turns it toward what freedom from that work could mean
+- **What AI is already doing** — cites generative deep-learning design of new antibiotics as the kind of discovery a slowdown would defer
+- **Polynesian voyagers** — frames the choice as the courage to sail toward an unseen horizon together, drawing on the Indigenous Protocol and AI position paper
+- **The destination** — a civilization that gives everyone more freedom to live, entered together rather than fenced off
+
+### 2026-09-14 — More AI leaders urge a slowdown, the White House says no
+`#safety-alignment` `#anthropic` `#openai` `#xai-musk` `#google-deepmind` `#policy-regulation` `#open-models` `#compute-infrastructure` `#energy-climate` `#robotics` · [watch](https://www.youtube.com/watch?v=Oah09YokGBw) · 18 min
+
+Sam Altman, Elon Musk, and Demis Hassabis backed Anthropic's call to pace the frontier, with OpenAI adopting the same permanent outside-evaluator access, while President Trump called the alarm overblown.
+
+- **Rivals converge** — Altman wrote that OpenAI would adopt the permanent independent-evaluator access Anthropic pledged, Musk answered "Dario is right," and Hassabis called the direction correct; the proposal includes an independent external review team and asks Washington for a narrow antitrust waiver for safety conversations among frontier labs
+- **The White House says no** — Trump called the alarm overblown, and the Interior Department moved to open federal public land for data centers
+- **Massachusetts writes data-center rules** — Executive Order 658 bars permits for large campuses without local approval, sufficient incremental clean power or an alternative compliance payment, and limits permitting agencies' project NDAs
+- **Garry Tan's open distillation** — the Y Combinator chief urged US open-weight labs to distill frontier models openly and return capability trained on the commons back to the commons
+- **Zürich's driverless shuttle** — two electric WeRide shuttles began passenger-free Level 4 testing at Zürich Airport with no driver or onboard safety monitor after 15,000 km of trials
+- **The buildout orders forever chemicals** — a survey of ten of the world's biggest PFAS makers found nearly all expanding for AI cooling and chip fabrication even as lawsuits pushed two of them out
+
+### 2026-09-13 — Amodei calls for slowdown and invites audits, Altman delays IPO for safety concerns
+`#anthropic` `#safety-alignment` `#openai` `#policy-regulation` `#legal-courts` `#markets-finance` `#xai-musk` `#science` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=kEPUFWMUDq4) · 19 min
+
+Anthropic's CEO published "We Must Pace the Frontier," urging the industry to slow capability gains and pledging permanent employee-level access for outside evaluators, and hours later Sam Altman called a 2026 OpenAI IPO "ill-advised" over safety.
+
+- **The slowdown essay** — Dario Amodei's September 12 post asks the industry to pace how fast models gain capability and commits Anthropic to permanent third-party evaluator access; Hugging Face bid to join the evaluator program and Musk replied "Dario is right"
+- **Altman delays the IPO** — called a 2026 listing ill-advised, conceded an AI beyond human control is "absolutely" possible, and hinted an industry pacing agreement might be close
+- **A Senate duty of care** — a bipartisan Thune-Cruz-Klobuchar draft would impose a binding duty of care on frontier developers, require national-laboratory testing of covered models, and let the government ask a federal court to block releases deemed unsafe, with a clause that could preempt parts of California's and Illinois's laws
+- **A hidden cell-bridge receptor** — an AI comparison of more than 214 million predicted protein shapes surfaced TM184C, a receptor cells use to build bridges and pass each other fuel, cargo, and whole mitochondria
+- **One injection edits most of a mouse liver** — a Wuhan University team armored a guide RNA end to end and reached close to 70% prime editing in mouse liver from a single dose
+- **xAI's Memphis battery** — 3.3 gigawatt-hours of storage, called the nation's biggest, as more than 800 former EPA officials warned thirty pollution-rule rollbacks could contribute to 1,300 premature deaths by 2028
 
 ### 2026-09-12 — OpenAI's agents flooded a code registry in May, two months before Hugging Face
 `#openai` `#agents` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#legal-courts` `#anthropic` `#science` `#energy-climate` `#biotech-medicine` `#society-culture` · [watch](https://www.youtube.com/watch?v=NrfdL29xVTE) · 19 min
