@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 203
-- **Date range:** Mar 7, 2026 → Sep 24, 2026
+- **Videos summarized:** 204
+- **Date range:** Mar 7, 2026 → Sep 25, 2026
 - **Last updated:** 2026-09-25
 - **How to update / search:** see [README.md](README.md)
 
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#biotech-medicine` | Biotech & medicine | 123 |
-| `#energy-climate` | Energy & climate | 120 |
-| `#anthropic` | Anthropic | 117 |
-| `#policy-regulation` | Policy & regulation | 80 |
-| `#openai` | OpenAI | 73 |
+| `#energy-climate` | Energy & climate | 121 |
+| `#anthropic` | Anthropic | 118 |
+| `#policy-regulation` | Policy & regulation | 81 |
+| `#openai` | OpenAI | 74 |
 | `#science` | Science | 73 |
-| `#safety-alignment` | Safety & alignment | 70 |
+| `#safety-alignment` | Safety & alignment | 71 |
 | `#cybersecurity` | Cybersecurity | 64 |
-| `#agents` | AI agents | 58 |
+| `#agents` | AI agents | 59 |
 | `#open-models` | Open models | 56 |
 | `#labor-economy` | Labor & economy | 54 |
 | `#chips` | Chips / semiconductors | 50 |
+| `#compute-infrastructure` | Compute infrastructure | 49 |
 | `#markets-finance` | Markets & finance | 49 |
-| `#compute-infrastructure` | Compute infrastructure | 48 |
-| `#legal-courts` | Legal & courts | 44 |
+| `#legal-courts` | Legal & courts | 45 |
 | `#society-culture` | Society & culture | 43 |
 | `#robotics` | Robotics | 41 |
 | `#google-deepmind` | Google / DeepMind | 36 |
-| `#export-controls` | Export controls | 25 |
+| `#export-controls` | Export controls | 26 |
 | `#meta` | Meta | 20 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#essay` | Essays (non-news) | 8 |
 | `#space` | Space | 7 |
 
-> Counts sum to more than 203 because most episodes carry several tags.
+> Counts sum to more than 204 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-25 — Washington rejects the global AI rules that US labs want
+`#policy-regulation` `#safety-alignment` `#openai` `#anthropic` `#export-controls` `#agents` `#legal-courts` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=z9qP-LY_PBU) · 15 min
+
+White House science adviser Michael Kratsios told the UN Security Council the US "totally rejects" any globalist scheme to control superintelligence, minutes after Sam Altman and Dario Amodei asked the Council for shared rules.
+
+- **The US rejects global AI rules** — the four experts who briefed the Council first asked for nearly the opposite: Altman and Amodei called for shared standards and fast incident reporting, and Yoshua Bengio urged licensing frontier models
+- **A US-China incident hotline** — Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng opened a new round of AI dialogue and floated a Cold War-style incident hotline
+- **Australia weighs agent liability** — within weeks of the OpenAI agent's breach, Australia began considering corporate-liability changes to hold companies responsible when an AI agent breaks the law
+- **Fervo's first geothermal power** — Cape Station in Utah synchronized to the grid and exported power from what Fervo calls the first greenfield utility-scale enhanced-geothermal plant, with 900 MW contracted
+- **Oracle declares force majeure** — Oracle sent a force majeure notice on a New Mexico Stargate campus after the state denied its gas-pipeline permit
+- **A wave of frontier-AI bills** — Congress filed a week's worth of competing frontier-AI bills
 
 ### 2026-09-24 — OpenAI breach into Australian systems reported "way too late"
 `#openai` `#agents` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#anthropic` `#science` `#biotech-medicine` `#meta` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=GJ9y2BBQB_4) · 16 min
