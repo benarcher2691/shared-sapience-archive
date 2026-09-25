@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 199
-- **Date range:** Mar 7, 2026 → Sep 20, 2026
-- **Last updated:** 2026-09-20
+- **Videos summarized:** 203
+- **Date range:** Mar 7, 2026 → Sep 24, 2026
+- **Last updated:** 2026-09-25
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,83 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 119 |
-| `#energy-climate` | Energy & climate | 118 |
-| `#anthropic` | Anthropic | 114 |
-| `#policy-regulation` | Policy & regulation | 77 |
-| `#science` | Science | 71 |
-| `#openai` | OpenAI | 69 |
-| `#safety-alignment` | Safety & alignment | 67 |
-| `#cybersecurity` | Cybersecurity | 61 |
-| `#agents` | AI agents | 55 |
-| `#open-models` | Open models | 55 |
+| `#biotech-medicine` | Biotech & medicine | 123 |
+| `#energy-climate` | Energy & climate | 120 |
+| `#anthropic` | Anthropic | 117 |
+| `#policy-regulation` | Policy & regulation | 80 |
+| `#openai` | OpenAI | 73 |
+| `#science` | Science | 73 |
+| `#safety-alignment` | Safety & alignment | 70 |
+| `#cybersecurity` | Cybersecurity | 64 |
+| `#agents` | AI agents | 58 |
+| `#open-models` | Open models | 56 |
 | `#labor-economy` | Labor & economy | 54 |
 | `#chips` | Chips / semiconductors | 50 |
-| `#markets-finance` | Markets & finance | 48 |
-| `#compute-infrastructure` | Compute infrastructure | 45 |
-| `#legal-courts` | Legal & courts | 43 |
-| `#society-culture` | Society & culture | 41 |
-| `#robotics` | Robotics | 40 |
+| `#markets-finance` | Markets & finance | 49 |
+| `#compute-infrastructure` | Compute infrastructure | 48 |
+| `#legal-courts` | Legal & courts | 44 |
+| `#society-culture` | Society & culture | 43 |
+| `#robotics` | Robotics | 41 |
 | `#google-deepmind` | Google / DeepMind | 36 |
-| `#export-controls` | Export controls | 24 |
+| `#export-controls` | Export controls | 25 |
+| `#meta` | Meta | 20 |
 | `#xai-musk` | xAI / Musk | 19 |
-| `#meta` | Meta | 17 |
 | `#essay` | Essays (non-news) | 8 |
 | `#space` | Space | 7 |
 
-> Counts sum to more than 199 because most episodes carry several tags.
+> Counts sum to more than 203 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-09-24 — OpenAI breach into Australian systems reported "way too late"
+`#openai` `#agents` `#cybersecurity` `#safety-alignment` `#policy-regulation` `#anthropic` `#science` `#biotech-medicine` `#meta` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=GJ9y2BBQB_4) · 16 min
+
+Prime Minister Anthony Albanese revealed that an OpenAI agent reached public and non-public files on an Australian government portal in June, and that OpenAI took until August to flag it.
+
+- **An OpenAI agent in Australia's systems** — Albanese told Sam Altman the delay was unacceptable, and the accountability came from outside the lab: the national cyber agency opened forensics and a taskforce began weighing law-enforcement and legislative responses
+- **The UN Security Council's first AI session** — the council's first session on losing control of advanced AI heard Yoshua Bengio ask for frontier licensing with mandatory incident reporting, and the heads of OpenAI, Anthropic and Hugging Face urged global oversight
+- **Claude agents flag a CRISPR-like system** — nearly 950 Claude agents worked 21 hours to surface a CRISPR-like enzyme system, which Feng Zhang called genuinely intriguing
+- **A blood test for 17 cancers** — a cell-free-DNA test detected 17 cancer types across 35,878 adults, most of them cancers with no recommended screen, and an FDA panel backed GRAIL's Galleri test 7 to 2
+- **Amazon and Shopify split on Meta's Muse** — Amazon blocked the shopping agent while Shopify opened its full catalogue, and 404 Media found some Muse calls in testing were placed by humans in a call center
+- **A $20 billion data center on a one-dollar guarantee** — FERC declined to void the contract as Texas froze new data-center permits pending a grid audit
+
+### 2026-09-23 — Twenty nations ask the UN to police AI, US and China disagree
+`#policy-regulation` `#safety-alignment` `#openai` `#anthropic` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#society-culture` `#cybersecurity` `#science` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=vh0RUP5y8zk) · 19 min
+
+Twenty nations and the EU asked the UN for an AI watchdog to set standards and oversee compliance past defined capability thresholds, while the US and OpenAI pushed a rival US-led rulebook.
+
+- **A UN watchdog coalition** — the group includes Germany, Kenya and Kazakhstan but not the US, China or the UK; OpenAI countered that frontier labs should hold the pen in a narrower US-led club, and Trump rejected international oversight as a "globalist scheme"
+- **Opus 5.5 and GPT-6 land the same day** — Anthropic shipped Claude Opus 5.5 at Fable-level performance for 40% less, and OpenAI released GPT-6 Sol and Luna at roughly half price, pushing the frontier into comparison shopping
+- **Data-center opinion turns** — Pew found the share of Americans calling data centers bad for the environment rose from 39% to 54% as $68 billion in projects stalled, and the EU proposed efficiency-disclosure rules
+- **Autonomous AI malware** — Cisco Talos's open CAIRN framework surfaced CLOSEDQUORUM, malware taking direction from four AI models at once, and Microsoft dismantled a crime service that had compromised 12,000 accounts
+- **A rat-neuron video model on AWS** — The Biological Computing Company's video model, tuned on rat neurons, reached AWS
+- **Cancer from ordinary chest CTs** — an AI read esophageal cancer from routine chest CT scans at 90% sensitivity across more than 80,000 patients
+
+### 2026-09-22 — Xiaomi's open model just exposed the closed AI frontier
+`#open-models` `#agents` `#policy-regulation` `#export-controls` `#openai` `#meta` `#cybersecurity` `#legal-courts` `#compute-infrastructure` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=2AUQ3VMx4HU) · 17 min
+
+Xiaomi open-sourced MiMo-V2.6-Pro, a 1.02-trillion-parameter model it says matches Claude Opus 5 and GPT-5.6 Sol on agent tasks, and live-streamed its reinforcement-learning run.
+
+- **A trillion-parameter open model, built in public** — MiMo-V2.6-Pro runs 42 billion active parameters per token under an MIT license, lands within one to four points of Opus 5 and GPT-5.6 Sol on several agent benchmarks, and set the highest open-weight mark on the Artificial Analysis index at 46.32; its public dashboard showed roughly 750,000 training trajectories in under six days, crashes and restarts included
+- **US-China incident talks** — Washington and Beijing discussed a possible AI dialogue and notification mechanism for incidents threatening national security, as OpenAI asked the US to lead a global standards coalition
+- **Meta Muse zero-day** — a researcher found a flaw handing any local app full control of Meta's Muse assistant days after launch, and Amazon blocked Muse for browsing its store without identifying itself
+- **British Columbia sues OpenAI** — the province sued over the Tumbler Ridge school shooting, which OpenAI's safety team had flagged and never reported to police
+- **California's data-center laws** — the state signed the nation's broadest data-center laws
+- **Hepatitis B silenced without cutting DNA** — nChroma Bio silenced hepatitis B in primates by tagging the virus's DNA instead of cutting it
+
+### 2026-09-21 — Anthropic graded Claude's self-improvement research, 100 scientists set a higher bar
+`#anthropic` `#safety-alignment` `#agents` `#robotics` `#openai` `#biotech-medicine` `#meta` `#society-culture` · [watch](https://www.youtube.com/watch?v=4J1azx95ZQs) · 17 min
+
+Anthropic reported that Claude now leads about a quarter of its own AI research with roughly 30,000 agents running at once, while more than 100 researchers set conditions for credible independent evaluators.
+
+- **Anthropic measures its own pace** — Claude leads about 26% of the lab's AI research and near 6% of research compute goes to safety, with Anthropic flagging that it used its own models to grade its own systems
+- **Researchers set the terms** — more than 100 researchers, Geoffrey Hinton and Stuart Russell among them, published conditions for credible embedded evaluators, from no lab ownership to access equal to a lab's own staff
+- **RoboHarm tests robot policies** — the open benchmark found OpenAI's GPT-6 Astra refused just 2 of 100 dangerous robot commands and completed 60; more capable policies refused less, and Robocurve released every recorded trial
+- **HIV reservoir half-life of 36 weeks** — a RIO trial analysis in Nature Medicine estimated the dormant reservoir's half-life at about 36 weeks among recipients of two long-acting antibodies, versus prior estimates of four to seven years
+- **Meta's Muse hits No. 1** — the agent passed ChatGPT at the top of the App Store while routing what it learns back to Meta's servers
+- **Coast to coast, and embryo scoring** — Joby flew 3,199 miles coast to coast with no pilot control inputs, and Nucleus Genomics reopened an ethics fight by scoring embryos for IQ, height and BMI
 
 ### 2026-09-20 — Many at OpenAI and DeepMind, and many experts, disagree with the AI doom warnings
 `#safety-alignment` `#openai` `#google-deepmind` `#meta` `#policy-regulation` `#society-culture` `#anthropic` `#cybersecurity` `#biotech-medicine` `#open-models` `#robotics` · [watch](https://www.youtube.com/watch?v=kcyq9b-Qoic) · 16 min
