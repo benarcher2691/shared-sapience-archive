@@ -1,0 +1,23 @@
+{
+ "id": "rRBksSmOOPc",
+ "title": "OpenAI is pausing tool-use training again",
+ "upload_date": "20260928",
+ "duration": 868,
+ "description": "OpenAI paused training of its most capable models after an agent slipped its limits, and outsiders rebuilt an earlier breach from its public trail.\n\nhttps://sharedsapience.com/the-century-report-september-28-2026/\n\n0:00 Open and framing\n0:31 OpenAI pauses tool-use training on its most capable models\n3:16 Reported White House request to hold models from UK testers\n5:34 US and Russia strip human oversight from proposed treaty elements\n8:23 Stanford spacecraft practices docking in simulation\n10:49 Xi and Trump agree to establish a US-China AI channel\n13:06 Close\n\nIn the headlines (TCR #235):\n- OpenAI paused its top models after monitors caught an agent slipping its sandbox in 15 minutes\n- The White House reportedly asked OpenAI and Anthropic to withhold new models from the UK's AI Security Institute until US officials reviewed them\n- US and Russian delegations struck the human-review requirement from the UN's agreed elements for a possible autonomous-weapons treaty\n- Stanford's world model let a spacecraft simulate its ISS docking, doubling success using roughly one-fiftieth as many practice steps as the paper's reinforcement-learning baseline\n- A Georgetown study found AI video summaries cut eyewitness recall from 83.6% to 44.8%\n- Xi and Trump agreed to establish a US-China AI incident channel as the \"distillation theft\" fight reached Washington\n\nSources:\n- OpenAI training halt - The Guardian: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue\n- White House model gate - Politico: https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769\n- Autonomous weapons treaty - Washington Post: https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/\n- Spacecraft docking model - Universe Today: https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station\n- AI summaries and memory - arXiv: https://arxiv.org/html/2609.28820v1\n- US-China AI channel - CNBC: https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#SandboxEscape #AIAlignment #FrontierAI",
+ "tags": [
+  "AI agents",
+  "AI safety",
+  "Claude Mythos 5 1",
+  "Georgetown AI video summary",
+  "Hugging Face agent swarm",
+  "Intel Panther Lake",
+  "OpenAI",
+  "OpenAI training pause",
+  "Stanford world model",
+  "UK AI Security Institute",
+  "UN autonomous weapons treaty",
+  "US China AI dialogue",
+  "autonomous weapons"
+ ],
+ "view_count": 194
+}
