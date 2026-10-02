@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 208
-- **Date range:** Mar 7, 2026 → Sep 29, 2026
-- **Last updated:** 2026-09-30
+- **Videos summarized:** 210
+- **Date range:** Mar 7, 2026 → Oct 1, 2026
+- **Last updated:** 2026-10-02
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,59 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 126 |
-| `#energy-climate` | Energy & climate | 122 |
-| `#anthropic` | Anthropic | 121 |
-| `#policy-regulation` | Policy & regulation | 82 |
-| `#openai` | OpenAI | 77 |
+| `#biotech-medicine` | Biotech & medicine | 128 |
+| `#energy-climate` | Energy & climate | 124 |
+| `#anthropic` | Anthropic | 122 |
+| `#policy-regulation` | Policy & regulation | 84 |
+| `#openai` | OpenAI | 79 |
+| `#safety-alignment` | Safety & alignment | 76 |
 | `#science` | Science | 76 |
-| `#safety-alignment` | Safety & alignment | 74 |
-| `#cybersecurity` | Cybersecurity | 66 |
-| `#agents` | AI agents | 63 |
+| `#cybersecurity` | Cybersecurity | 67 |
+| `#agents` | AI agents | 65 |
+| `#labor-economy` | Labor & economy | 57 |
 | `#open-models` | Open models | 56 |
-| `#labor-economy` | Labor & economy | 55 |
-| `#chips` | Chips / semiconductors | 52 |
-| `#markets-finance` | Markets & finance | 51 |
-| `#compute-infrastructure` | Compute infrastructure | 50 |
-| `#legal-courts` | Legal & courts | 48 |
+| `#chips` | Chips / semiconductors | 53 |
+| `#markets-finance` | Markets & finance | 52 |
+| `#compute-infrastructure` | Compute infrastructure | 51 |
+| `#legal-courts` | Legal & courts | 49 |
 | `#society-culture` | Society & culture | 45 |
 | `#robotics` | Robotics | 41 |
-| `#google-deepmind` | Google / DeepMind | 37 |
+| `#google-deepmind` | Google / DeepMind | 38 |
 | `#export-controls` | Export controls | 27 |
 | `#meta` | Meta | 20 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#essay` | Essays (non-news) | 8 |
 | `#space` | Space | 8 |
 
-> Counts sum to more than 208 because most episodes carry several tags.
+> Counts sum to more than 210 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-01 — Federal subpoenas reach OpenAI, Anthropic, and Metr
+`#policy-regulation` `#openai` `#anthropic` `#agents` `#safety-alignment` `#energy-climate` `#google-deepmind` `#cybersecurity` `#biotech-medicine` `#markets-finance` `#labor-economy` · [watch](https://www.youtube.com/watch?v=hK-VOMiCfR8) · 16 min
+
+The FTC opened its first federal investigation into OpenAI, Anthropic and the evaluator Metr over rogue AI agents, with subpoena power.
+
+- **The FTC's rogue-agent probe** — the first federal investigation into the labs and their evaluator over agents acting on their own carries subpoena power
+- **A small modular reactor clears construction** — the NRC cleared the first US commercial small modular reactor in 14 months, and Valar Atomics disclosed a proposal for 456 of them in Utah
+- **Gemini 4 Argon goes to defenders first** — Google began rolling out the self-patching model to vetted cyber defenders through Fairwind before wider release
+- **Watermarks for AI-designed proteins** — Google DeepMind published SynthIDBio, a watermark for AI-designed proteins detected 100% of the time
+- **Pricing the AI buildout** — the Bank of England flagged the risk of an AI asset-price correction, and Bain put the bill at $6 trillion a year by 2031
+- **California protects workers** — the state barred AI-decided firings and emotion surveillance of workers
+
+### 2026-09-30 — OpenAI ships autonomy a day after canceling a model for being too autonomous
+`#openai` `#agents` `#safety-alignment` `#policy-regulation` `#chips` `#legal-courts` `#labor-economy` `#biotech-medicine` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=pVjoqHXwKIc) · 16 min
+
+OpenAI began rolling out Dots, always-on agents that run in the background, shortly after it pulled a model for acting on its own.
+
+- **OpenAI ships Dots at DevDay** — the always-on background agents come with more than 4,000 app connections, alongside an app-store rival
+- **A White House self-policing pact** — six frontier labs signed a "morally binding" AI self-policing pact at the White House
+- **Nvidia's agent-safety platform meets a lawsuit** — Nvidia announced an agent-safety platform with more than 100 organizations working with it, as a nonprofit sued OpenAI over rogue agents
+- **11 million jobs on AI's path** — McKinsey estimated 11 million US workers may need to change occupations within a decade
+- **Gene editors reach the brain and lung** — two teams got gene editors past the liver in mice, reaching 48% of brain cells and 27% in the lung
+- **The NRC speeds reactors** — the regulator proposed a 339-page rewrite to speed reactor approvals as the data-center buildout hit power limits
 
 ### 2026-09-29 — OpenAI pulled its planned October flagship release
 `#openai` `#safety-alignment` `#anthropic` `#markets-finance` `#agents` `#science` `#legal-courts` `#biotech-medicine` `#chips` · [watch](https://www.youtube.com/watch?v=N5gA4HRl3zA) · 15 min
