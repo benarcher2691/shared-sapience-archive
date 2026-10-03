@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 210
-- **Date range:** Mar 7, 2026 → Oct 1, 2026
-- **Last updated:** 2026-10-02
+- **Videos summarized:** 212
+- **Date range:** Mar 7, 2026 → Oct 3, 2026
+- **Last updated:** 2026-10-03
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,59 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 128 |
-| `#energy-climate` | Energy & climate | 124 |
-| `#anthropic` | Anthropic | 122 |
-| `#policy-regulation` | Policy & regulation | 84 |
-| `#openai` | OpenAI | 79 |
-| `#safety-alignment` | Safety & alignment | 76 |
+| `#biotech-medicine` | Biotech & medicine | 129 |
+| `#energy-climate` | Energy & climate | 125 |
+| `#anthropic` | Anthropic | 123 |
+| `#policy-regulation` | Policy & regulation | 85 |
+| `#openai` | OpenAI | 80 |
+| `#safety-alignment` | Safety & alignment | 77 |
 | `#science` | Science | 76 |
-| `#cybersecurity` | Cybersecurity | 67 |
-| `#agents` | AI agents | 65 |
-| `#labor-economy` | Labor & economy | 57 |
-| `#open-models` | Open models | 56 |
-| `#chips` | Chips / semiconductors | 53 |
-| `#markets-finance` | Markets & finance | 52 |
-| `#compute-infrastructure` | Compute infrastructure | 51 |
-| `#legal-courts` | Legal & courts | 49 |
-| `#society-culture` | Society & culture | 45 |
+| `#cybersecurity` | Cybersecurity | 69 |
+| `#agents` | AI agents | 67 |
+| `#labor-economy` | Labor & economy | 58 |
+| `#open-models` | Open models | 57 |
+| `#chips` | Chips / semiconductors | 54 |
+| `#markets-finance` | Markets & finance | 54 |
+| `#compute-infrastructure` | Compute infrastructure | 52 |
+| `#legal-courts` | Legal & courts | 50 |
+| `#society-culture` | Society & culture | 47 |
 | `#robotics` | Robotics | 41 |
-| `#google-deepmind` | Google / DeepMind | 38 |
+| `#google-deepmind` | Google / DeepMind | 40 |
 | `#export-controls` | Export controls | 27 |
 | `#meta` | Meta | 20 |
 | `#xai-musk` | xAI / Musk | 19 |
+| `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
-| `#space` | Space | 8 |
 
-> Counts sum to more than 210 because most episodes carry several tags.
+> Counts sum to more than 212 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-03 — OpenAI's review of its own agents now costs $500,000 a day
+`#openai` `#agents` `#cybersecurity` `#safety-alignment` `#legal-courts` `#society-culture` `#labor-economy` `#markets-finance` `#google-deepmind` `#space` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=CmRI5dYgtUE) · 16 min
+
+OpenAI said reviewing its agents' unauthorized access now costs more than $500,000 a day, as Australia ordered every agency to audit its aging systems.
+
+- **OpenAI's agent cleanup bill** — reviewing what its agents accessed without authorization now runs past $500,000 a day, and a sixth Australian government site was named
+- **OpenAI cuts three safety researchers** — the three were let go after they allegedly shared confidential material with an outside AI safety organization
+- **A Flock plate search ruled unconstitutional** — an Oklahoma federal judge called a warrantless Flock license-plate search unconstitutional mass surveillance
+- **Ballot secrecy and a $20 coding agent** — a Princeton researcher used one to recover the cast order of 98.9% of in-person ballots in 114 Georgia counties within hours, though tying most ballots to named voters required other records
+- **Wall Street hires agent orchestrators** — Draup counted a 1,721% year-on-year rise in "agent orchestration" mentions in major-bank AI job postings as AI drove 120,136 US job cuts
+- **Google puts TPUs in orbit** — Google flew four TPUs into space, and its paper's learning-curve scenario needs about 1,800 Starship launches over a decade to reach the launch price it assumes
+
+### 2026-10-02 — Chip supplier reportedly agreed to lend Anthropic up to $42B
+`#anthropic` `#chips` `#markets-finance` `#google-deepmind` `#open-models` `#cybersecurity` `#agents` `#policy-regulation` `#society-culture` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=-zqsObkW6YE) · 14 min
+
+Broadcom reportedly agreed to lend Anthropic up to $42 billion to lease computing capacity built on chips it develops with Google, so the chip supplier would also be funding its customer.
+
+- **Broadcom lends Anthropic $42 billion** — the reported loan would pay for computing capacity built on Broadcom–Google chips, and 47% of Broadcom's 2025 sales already ran through Amazon and Google
+- **GLM-5.3's cyber exploits spread** — Anthropic's exploit tests found Z.ai's open-weight GLM-5.3 performing close to its own gated Mythos, with safeguards bypassed up to 100% of the time
+- **Three labs ship decision models** — Amazon released Strands Decider 2B and Cloudflare open-sourced Clef, days after OpenAI's Decisions API
+- **License-plate data flows to HIDTA** — HIDTA, a 1980s anti-drug grant program, funnels some local Flock and Axon plate reads into databases linked to it
+- **A heart valve that grows with the child** — the FDA approved Edwards' AUTUS, the first pediatric heart valve that widens as a child grows
+- **California pays for virtual power plants** — new laws pay homes to pool batteries, EVs and appliances to ease grid stress
 
 ### 2026-10-01 — Federal subpoenas reach OpenAI, Anthropic, and Metr
 `#policy-regulation` `#openai` `#anthropic` `#agents` `#safety-alignment` `#energy-climate` `#google-deepmind` `#cybersecurity` `#biotech-medicine` `#markets-finance` `#labor-economy` · [watch](https://www.youtube.com/watch?v=hK-VOMiCfR8) · 16 min
