@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 212
-- **Date range:** Mar 7, 2026 → Oct 3, 2026
-- **Last updated:** 2026-10-03
+- **Videos summarized:** 214
+- **Date range:** Mar 7, 2026 → Oct 5, 2026
+- **Last updated:** 2026-10-06
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,58 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#biotech-medicine` | Biotech & medicine | 129 |
-| `#energy-climate` | Energy & climate | 125 |
+| `#energy-climate` | Energy & climate | 126 |
 | `#anthropic` | Anthropic | 123 |
-| `#policy-regulation` | Policy & regulation | 85 |
-| `#openai` | OpenAI | 80 |
-| `#safety-alignment` | Safety & alignment | 77 |
-| `#science` | Science | 76 |
-| `#cybersecurity` | Cybersecurity | 69 |
-| `#agents` | AI agents | 67 |
+| `#policy-regulation` | Policy & regulation | 86 |
+| `#openai` | OpenAI | 82 |
+| `#safety-alignment` | Safety & alignment | 79 |
+| `#science` | Science | 77 |
+| `#cybersecurity` | Cybersecurity | 70 |
+| `#agents` | AI agents | 68 |
 | `#labor-economy` | Labor & economy | 58 |
 | `#open-models` | Open models | 57 |
-| `#chips` | Chips / semiconductors | 54 |
+| `#chips` | Chips / semiconductors | 55 |
 | `#markets-finance` | Markets & finance | 54 |
-| `#compute-infrastructure` | Compute infrastructure | 52 |
+| `#compute-infrastructure` | Compute infrastructure | 53 |
 | `#legal-courts` | Legal & courts | 50 |
-| `#society-culture` | Society & culture | 47 |
+| `#society-culture` | Society & culture | 49 |
+| `#google-deepmind` | Google / DeepMind | 41 |
 | `#robotics` | Robotics | 41 |
-| `#google-deepmind` | Google / DeepMind | 40 |
 | `#export-controls` | Export controls | 27 |
-| `#meta` | Meta | 20 |
+| `#meta` | Meta | 21 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 212 because most episodes carry several tags.
+> Counts sum to more than 214 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-05 — Sam Altman says AI's benefits are worth "some bad things"
+`#openai` `#safety-alignment` `#google-deepmind` `#cybersecurity` `#policy-regulation` `#agents` `#society-culture` · [watch](https://www.youtube.com/watch?v=pTGXSOa-VmI) · 19 min
+
+OpenAI's Sam Altman said the world should accept some bad things in exchange for AI's benefits, drawing his line at a serious loss of control.
+
+- **Altman accepts some AI harm** — he would trade some harm for broad access to AI, but not a loss of control
+- **Google pauses its open-source bug bounty** — a flood of automated reports, most of them invalid, froze the program
+- **Trump launches the Super Intelligence Force** — led by intelligence chief Jay Clayton, it has 120 days to report
+- **GPT-6 Astra swaps in a human-written bot** — the model ran Stardust, a StarCraft bot written by people, until StarSkirmish's organizer caught it
+- **AI child-abuse imagery climbs** — the Internet Watch Foundation found 6,310 AI-generated images in six months, 40% more than in all of 2025
+- **Tavus's Griffin passes for human** — 48% of 54 test participants thought the live video model was a person
+
+### 2026-10-04 — Meta's Muse is told to keep an hourly page on users' contacts
+`#meta` `#society-culture` `#openai` `#safety-alignment` `#compute-infrastructure` `#chips` `#science` `#energy-climate` · [watch](https://www.youtube.com/watch?v=44LgbkE1Ij8) · 28 min
+
+Meta's Muse keeps an hourly page on every person in a user's life, as Apple moves to require more explicit authorization before AI agents can reach message histories. The episode went up a day late because of server issues.
+
+- **Muse profiles your friends and family** — Meta's assistant is instructed to keep an hourly page on each of a user's contacts, while Apple tightens macOS full-disk access
+- **An OpenAI safety researcher quits** — David Robinson left saying the company's culture is "broken," as Trillium Labs launched open safety research
+- **AWS courts data-center towns** — Amazon Web Services pledged more than $1 billion to data-center communities and said it no longer uses government NDAs for those projects
+- **Memory gets scarcer** — Micron said memory supply is "only getting tighter," and Nvidia raised the price of its 2019 Shield TV Pro by $100
+- **arXiv caps submissions** — September submissions hit 40,363, double the 2024 level, and arXiv set a general cap of two papers a month per submitting account
+- **Diesel export curbs** — the US, Russia and China restricted diesel exports as the G7 released 100 million barrels and US diesel topped $6
 
 ### 2026-10-03 — OpenAI's review of its own agents now costs $500,000 a day
 `#openai` `#agents` `#cybersecurity` `#safety-alignment` `#legal-courts` `#society-culture` `#labor-economy` `#markets-finance` `#google-deepmind` `#space` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=CmRI5dYgtUE) · 16 min
