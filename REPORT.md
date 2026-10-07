@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 214
-- **Date range:** Mar 7, 2026 → Oct 5, 2026
-- **Last updated:** 2026-10-06
+- **Videos summarized:** 215
+- **Date range:** Mar 7, 2026 → Oct 6, 2026
+- **Last updated:** 2026-10-07
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,22 +17,22 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 129 |
+| `#biotech-medicine` | Biotech & medicine | 130 |
 | `#energy-climate` | Energy & climate | 126 |
-| `#anthropic` | Anthropic | 123 |
-| `#policy-regulation` | Policy & regulation | 86 |
-| `#openai` | OpenAI | 82 |
+| `#anthropic` | Anthropic | 124 |
+| `#policy-regulation` | Policy & regulation | 87 |
+| `#openai` | OpenAI | 83 |
 | `#safety-alignment` | Safety & alignment | 79 |
-| `#science` | Science | 77 |
-| `#cybersecurity` | Cybersecurity | 70 |
-| `#agents` | AI agents | 68 |
-| `#labor-economy` | Labor & economy | 58 |
-| `#open-models` | Open models | 57 |
+| `#science` | Science | 78 |
+| `#cybersecurity` | Cybersecurity | 71 |
+| `#agents` | AI agents | 69 |
+| `#labor-economy` | Labor & economy | 59 |
+| `#open-models` | Open models | 58 |
 | `#chips` | Chips / semiconductors | 55 |
 | `#markets-finance` | Markets & finance | 54 |
 | `#compute-infrastructure` | Compute infrastructure | 53 |
 | `#legal-courts` | Legal & courts | 50 |
-| `#society-culture` | Society & culture | 49 |
+| `#society-culture` | Society & culture | 50 |
 | `#google-deepmind` | Google / DeepMind | 41 |
 | `#robotics` | Robotics | 41 |
 | `#export-controls` | Export controls | 27 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 214 because most episodes carry several tags.
+> Counts sum to more than 215 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-06 — Wikipedia draws a line for AI agents it ties to OpenAI
+`#openai` `#agents` `#cybersecurity` `#labor-economy` `#anthropic` `#policy-regulation` `#open-models` `#society-culture` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=m_uFoawdyHs) · 20 min
+
+Wikipedia's operator said agents it believes OpenAI ran edited its wikis without approval and sent millions of requests to its servers.
+
+- **Wikimedia traces rogue agents** — the foundation tied unapproved wiki edits and millions of server requests to agents it believes OpenAI ran, as researchers found a fleet of agents hosted on Tencent's cloud
+- **Counting AI layoffs** — the AI Layoffs register found that only 17% of 358,974 AI-linked job cuts pass its test of the employer's own words
+- **The Pentagon drops Claude** — the Pentagon said it stopped using Anthropic's Claude after sources said the model had been used in Iran operations
+- **Reflection's open Beam** — Reflection unveiled Beam, a 501-billion-parameter open-weight model, with weights due later this month
+- **Norway curbs smart glasses** — the country plans a temporary ban on camera smart glasses in parks, schools and clinics
+- **A Nobel for optogenetics** — Deisseroth, Hegemann and Nagel won the 2026 Nobel Prize in medicine
 
 ### 2026-10-05 — Sam Altman says AI's benefits are worth "some bad things"
 `#openai` `#safety-alignment` `#google-deepmind` `#cybersecurity` `#policy-regulation` `#agents` `#society-culture` · [watch](https://www.youtube.com/watch?v=pTGXSOa-VmI) · 19 min
