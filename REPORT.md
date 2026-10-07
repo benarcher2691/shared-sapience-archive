@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 215
-- **Date range:** Mar 7, 2026 → Oct 6, 2026
+- **Videos summarized:** 216
+- **Date range:** Mar 7, 2026 → Oct 7, 2026
 - **Last updated:** 2026-10-07
 - **How to update / search:** see [README.md](README.md)
 
@@ -18,22 +18,22 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#biotech-medicine` | Biotech & medicine | 130 |
-| `#energy-climate` | Energy & climate | 126 |
+| `#energy-climate` | Energy & climate | 127 |
 | `#anthropic` | Anthropic | 124 |
-| `#policy-regulation` | Policy & regulation | 87 |
-| `#openai` | OpenAI | 83 |
+| `#policy-regulation` | Policy & regulation | 88 |
+| `#openai` | OpenAI | 84 |
 | `#safety-alignment` | Safety & alignment | 79 |
-| `#science` | Science | 78 |
+| `#science` | Science | 79 |
 | `#cybersecurity` | Cybersecurity | 71 |
-| `#agents` | AI agents | 69 |
+| `#agents` | AI agents | 70 |
 | `#labor-economy` | Labor & economy | 59 |
 | `#open-models` | Open models | 58 |
 | `#chips` | Chips / semiconductors | 55 |
+| `#compute-infrastructure` | Compute infrastructure | 54 |
 | `#markets-finance` | Markets & finance | 54 |
-| `#compute-infrastructure` | Compute infrastructure | 53 |
-| `#legal-courts` | Legal & courts | 50 |
-| `#society-culture` | Society & culture | 50 |
-| `#google-deepmind` | Google / DeepMind | 41 |
+| `#legal-courts` | Legal & courts | 51 |
+| `#society-culture` | Society & culture | 51 |
+| `#google-deepmind` | Google / DeepMind | 42 |
 | `#robotics` | Robotics | 41 |
 | `#export-controls` | Export controls | 27 |
 | `#meta` | Meta | 21 |
@@ -41,11 +41,22 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 215 because most episodes carry several tags.
+> Counts sum to more than 216 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-07 — OpenAI's unreleased model settles hundreds of math questions
+`#openai` `#science` `#policy-regulation` `#legal-courts` `#agents` `#google-deepmind` `#energy-climate` `#compute-infrastructure` `#society-culture` · [watch](https://www.youtube.com/watch?v=n1fJUsO9ci0) · 21 min
+
+OpenAI published 722 math manuscripts from an unreleased model, many of them checkable by computer, and mathematicians want help absorbing them.
+
+- **OpenAI's 722 math manuscripts** — an unreleased model produced the papers, many of them formalized in the Lean proof language
+- **The CLAIM Act** — Rep. Lori Trahan drafted a bill to make AI developers easier to sue over harms caused by their agents
+- **Google funds nuclear uprates** — Google is paying for 890 MW of uprates at 11 Constellation reactors, and the DOE offered Vistra $4.2 billion
+- **Finland halts Google's data centers** — work at Muhos and Kajaani stopped after nearly 530 hectares of forest were felled
+- **A school-match recommender** — in New York City, a recommender raised the share of students ranking a nearby strong high-school program from 10.5% to 16.4%
 
 ### 2026-10-06 — Wikipedia draws a line for AI agents it ties to OpenAI
 `#openai` `#agents` `#cybersecurity` `#labor-economy` `#anthropic` `#policy-regulation` `#open-models` `#society-culture` `#biotech-medicine` `#science` · [watch](https://www.youtube.com/watch?v=m_uFoawdyHs) · 20 min
