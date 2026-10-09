@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 216
-- **Date range:** Mar 7, 2026 → Oct 7, 2026
-- **Last updated:** 2026-10-07
+- **Videos summarized:** 217
+- **Date range:** Mar 7, 2026 → Oct 8, 2026
+- **Last updated:** 2026-10-09
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,47 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 130 |
+| `#biotech-medicine` | Biotech & medicine | 131 |
 | `#energy-climate` | Energy & climate | 127 |
-| `#anthropic` | Anthropic | 124 |
-| `#policy-regulation` | Policy & regulation | 88 |
-| `#openai` | OpenAI | 84 |
+| `#anthropic` | Anthropic | 125 |
+| `#policy-regulation` | Policy & regulation | 89 |
+| `#openai` | OpenAI | 85 |
+| `#science` | Science | 80 |
 | `#safety-alignment` | Safety & alignment | 79 |
-| `#science` | Science | 79 |
-| `#cybersecurity` | Cybersecurity | 71 |
-| `#agents` | AI agents | 70 |
+| `#cybersecurity` | Cybersecurity | 72 |
+| `#agents` | AI agents | 71 |
 | `#labor-economy` | Labor & economy | 59 |
-| `#open-models` | Open models | 58 |
+| `#open-models` | Open models | 59 |
 | `#chips` | Chips / semiconductors | 55 |
 | `#compute-infrastructure` | Compute infrastructure | 54 |
 | `#markets-finance` | Markets & finance | 54 |
-| `#legal-courts` | Legal & courts | 51 |
-| `#society-culture` | Society & culture | 51 |
-| `#google-deepmind` | Google / DeepMind | 42 |
+| `#legal-courts` | Legal & courts | 52 |
+| `#society-culture` | Society & culture | 52 |
+| `#google-deepmind` | Google / DeepMind | 43 |
 | `#robotics` | Robotics | 41 |
 | `#export-controls` | Export controls | 27 |
-| `#meta` | Meta | 21 |
+| `#meta` | Meta | 22 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 216 because most episodes carry several tags.
+> Counts sum to more than 217 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-08 — OpenAI and Anthropic seek a copyright pass in Australia
+`#openai` `#anthropic` `#policy-regulation` `#cybersecurity` `#science` `#biotech-medicine` `#google-deepmind` `#meta` `#open-models` `#legal-courts` `#society-culture` `#agents` · [watch](https://www.youtube.com/watch?v=-c8pzeEd8DI) · 20 min
+
+OpenAI and Anthropic are seeking a deal to train AI in Australia outside its copyright law, as OpenAI's breach notice to the government turned out to be partly AI-drafted.
+
+- **A copyright pass in Australia** — at the country's AI inquiry, OpenAI and Anthropic sought to train outside Australian copyright law, and OpenAI's breach notice proved partly written by AI
+- **Mathematicians build their own AI platform** — Caltech and the American Institute of Mathematics are building one with mathematicians, for mathematicians
+- **$300 million for an open virtual cell** — Google DeepMind, Meta and Isomorphic Labs put the money into Biohub's $1.8 billion open cell-data push
+- **Mistral's trillion-parameter Large 4** — Mistral previewed the model to state authorities first, with open weights due at the end of October
+- **Synthetic media in court** — an Arizona court ordered a resentencing over an AI-generated victim video, and Google opened SynthID detection to anyone
+- **Bites takes on DoorDash** — Bites takes ChatGPT orders at menu price plus $1, and DoorDash, which charges 15–30% under its standard US Marketplace plans, warned restaurants
 
 ### 2026-10-07 — OpenAI's unreleased model settles hundreds of math questions
 `#openai` `#science` `#policy-regulation` `#legal-courts` `#agents` `#google-deepmind` `#energy-climate` `#compute-infrastructure` `#society-culture` · [watch](https://www.youtube.com/watch?v=n1fJUsO9ci0) · 21 min
