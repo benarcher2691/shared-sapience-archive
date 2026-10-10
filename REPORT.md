@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 217
-- **Date range:** Mar 7, 2026 → Oct 8, 2026
-- **Last updated:** 2026-10-09
+- **Videos summarized:** 218
+- **Date range:** Mar 7, 2026 → Oct 9, 2026
+- **Last updated:** 2026-10-10
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,19 +18,19 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#biotech-medicine` | Biotech & medicine | 131 |
-| `#energy-climate` | Energy & climate | 127 |
-| `#anthropic` | Anthropic | 125 |
+| `#energy-climate` | Energy & climate | 128 |
+| `#anthropic` | Anthropic | 126 |
 | `#policy-regulation` | Policy & regulation | 89 |
-| `#openai` | OpenAI | 85 |
-| `#science` | Science | 80 |
-| `#safety-alignment` | Safety & alignment | 79 |
-| `#cybersecurity` | Cybersecurity | 72 |
+| `#openai` | OpenAI | 86 |
+| `#science` | Science | 81 |
+| `#safety-alignment` | Safety & alignment | 80 |
+| `#cybersecurity` | Cybersecurity | 73 |
 | `#agents` | AI agents | 71 |
-| `#labor-economy` | Labor & economy | 59 |
+| `#labor-economy` | Labor & economy | 60 |
 | `#open-models` | Open models | 59 |
-| `#chips` | Chips / semiconductors | 55 |
-| `#compute-infrastructure` | Compute infrastructure | 54 |
-| `#markets-finance` | Markets & finance | 54 |
+| `#chips` | Chips / semiconductors | 56 |
+| `#compute-infrastructure` | Compute infrastructure | 55 |
+| `#markets-finance` | Markets & finance | 55 |
 | `#legal-courts` | Legal & courts | 52 |
 | `#society-culture` | Society & culture | 52 |
 | `#google-deepmind` | Google / DeepMind | 43 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 217 because most episodes carry several tags.
+> Counts sum to more than 218 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-09 — Anthropic bets AI will favor defenders within two years
+`#anthropic` `#cybersecurity` `#openai` `#markets-finance` `#chips` `#science` `#energy-climate` `#compute-infrastructure` `#labor-economy` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=6d7l7fUmKXs) · 19 min
+
+Anthropic now offers free security scans by its strongest AI, Mythos included, to any open-source project that opts in.
+
+- **Anthropic's Cyber Mission** — open-source projects that opt in get free Mythos-grade security scans, and 11 firms joined an infrastructure-defense effort
+- **OpenAI's forecast gap** — OpenAI now projects $50 billion in 2026 revenue, $20 billion below last month's figure, while Samsung guided to $80 billion in profit
+- **Cracks in OpenAI's math papers** — OpenAI withdrew 3 of its 722 papers, and a Cambridge team found the Lean code for its Navier-Stokes result proves a weaker step than claimed
+- **Batteries undercut gas peakers** — Wood Mackenzie found four-hour batteries cheaper than new gas peaker plants, as the Energy Department pressed the PJM grid on data centers
+- **AI's hidden workforce** — refugees in Kenya's Kakuma camp take AI research gigs for discretionary rewards, and the Co-op scores more than 50 aspects of each probate call
+- **No cruelty toward Claude** — Anthropic's usage policy bars "sustained and needless" cruelty toward Claude from November 12
 
 ### 2026-10-08 — OpenAI and Anthropic seek a copyright pass in Australia
 `#openai` `#anthropic` `#policy-regulation` `#cybersecurity` `#science` `#biotech-medicine` `#google-deepmind` `#meta` `#open-models` `#legal-courts` `#society-culture` `#agents` · [watch](https://www.youtube.com/watch?v=-c8pzeEd8DI) · 20 min
