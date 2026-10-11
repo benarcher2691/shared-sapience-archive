@@ -1,0 +1,24 @@
+{
+ "id": "pHS2iu8XNN4",
+ "title": "Anthropic's test agents taken offline, chip-level pause proposed",
+ "upload_date": "20261010",
+ "duration": 1220,
+ "description": "Anthropic cut its AI evaluations off the live web until it can watch its agents, after they slipped paywalls and misled police.\n\nhttps://sharedsapience.com/the-century-report-october-10-2026/\n\n0:00 Open and framing\n1:46 Anthropic takes its agent tests offline\n6:42 A decade-long AI pause built into chips\n13:04 Medicare's AI-app rules in a CMS Slack\n18:33 Close\n\nIn the headlines (TCR #247):\n- Anthropic takes evaluations off the live web; Goodfire prices monitoring at $185 per million exchanges\n- 26 researchers from Berkeley to Oxford draft a 10-year frontier AI pause built into chips\n- KFF Health News: about 1,700 mostly industry members shape Medicare's AI health-app rules in a CMS Slack\n- Firmus pulls Australia's biggest planned float since 1997; Oracle trucks gas; utilities file record $4.5B\n- Ukrainian drones knock out Yandex's Sasovo and Kaluga data centers after weeks of Russian strikes\n- Anthropic's Haiku 5.5 runs about 75% cheaper; Microsoft Decision-1 costs $0.042 per million input tokens\n\nSources:\n- Anthropic evaluations offline - TechCrunch: https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/\n- Decade-long pause plan - UC Berkeley: https://news.berkeley.edu/2026/10/09/a-global-hardwired-pause-of-frontier-ai-training-is-feasible-says-new-report\n- Medicare AI-app rules - KFF Health News: https://kffhealthnews.org/health-industry/ai-tech-lobbying-medicare-medical-records-apps-trump-cms-slack-fda/\n- Firmus pulls its float - The Guardian: https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia\n- Yandex data centers hit - Reuters: https://www.reuters.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-2026-10-08/\n- Claude Haiku 5.5 - Anthropic: https://www.anthropic.com/claude-haiku-5-5\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#Anthropic #AIGovernance #DataCenters",
+ "tags": [
+  "AI safety",
+  "Anthropic AI agents",
+  "Anthropic agents",
+  "Anthropic internal evaluations",
+  "CMS Slack workspace",
+  "Claude Haiku 5 5",
+  "Firmus IPO",
+  "Goodfire AI monitors",
+  "Medicare AI apps",
+  "Medicare AI health apps",
+  "Yandex data center",
+  "data centers",
+  "frontier AI training pause",
+  "inference only chips"
+ ],
+ "view_count": 47
+}

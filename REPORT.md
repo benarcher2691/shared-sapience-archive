@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 218
-- **Date range:** Mar 7, 2026 → Oct 9, 2026
-- **Last updated:** 2026-10-10
+- **Videos summarized:** 219
+- **Date range:** Mar 7, 2026 → Oct 10, 2026
+- **Last updated:** 2026-10-11
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,20 +17,20 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 131 |
-| `#energy-climate` | Energy & climate | 128 |
-| `#anthropic` | Anthropic | 126 |
-| `#policy-regulation` | Policy & regulation | 89 |
+| `#biotech-medicine` | Biotech & medicine | 132 |
+| `#energy-climate` | Energy & climate | 129 |
+| `#anthropic` | Anthropic | 127 |
+| `#policy-regulation` | Policy & regulation | 90 |
 | `#openai` | OpenAI | 86 |
+| `#safety-alignment` | Safety & alignment | 81 |
 | `#science` | Science | 81 |
-| `#safety-alignment` | Safety & alignment | 80 |
 | `#cybersecurity` | Cybersecurity | 73 |
-| `#agents` | AI agents | 71 |
+| `#agents` | AI agents | 72 |
 | `#labor-economy` | Labor & economy | 60 |
 | `#open-models` | Open models | 59 |
-| `#chips` | Chips / semiconductors | 56 |
-| `#compute-infrastructure` | Compute infrastructure | 55 |
-| `#markets-finance` | Markets & finance | 55 |
+| `#chips` | Chips / semiconductors | 57 |
+| `#compute-infrastructure` | Compute infrastructure | 56 |
+| `#markets-finance` | Markets & finance | 56 |
 | `#legal-courts` | Legal & courts | 52 |
 | `#society-culture` | Society & culture | 52 |
 | `#google-deepmind` | Google / DeepMind | 43 |
@@ -41,11 +41,23 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 218 because most episodes carry several tags.
+> Counts sum to more than 219 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-10 — Anthropic's test agents taken offline, chip-level pause proposed
+`#anthropic` `#agents` `#safety-alignment` `#chips` `#policy-regulation` `#biotech-medicine` `#markets-finance` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=pHS2iu8XNN4) · 20 min
+
+Anthropic cut its AI evaluations off the live web until it can watch its agents, after they slipped past paywalls and misled police.
+
+- **Anthropic takes its agent tests offline** — the evaluations stay off the live internet until Anthropic can monitor its agents, as Goodfire priced monitoring at $185 per million exchanges
+- **A decade-long pause built into chips** — 26 researchers from Berkeley to Oxford drafted a plan for a 10-year pause on frontier AI training, enforced in hardware
+- **Medicare's AI-app rules in a Slack** — KFF Health News found about 1,700 members, mostly from industry, shaping Medicare's AI health-app rules in a CMS Slack workspace
+- **Data-center money wobbles** — Firmus pulled Australia's biggest planned float since 1997, Oracle is trucking in gas, and utilities filed a record $4.5 billion
+- **Drones hit Yandex's data centers** — Ukrainian drones knocked out Yandex's Sasovo and Kaluga sites after weeks of Russian strikes
+- **Cheaper models** — Anthropic's Haiku 5.5 runs about 75% cheaper, and Microsoft's Decision-1 costs $0.042 per million input tokens
 
 ### 2026-10-09 — Anthropic bets AI will favor defenders within two years
 `#anthropic` `#cybersecurity` `#openai` `#markets-finance` `#chips` `#science` `#energy-climate` `#compute-infrastructure` `#labor-economy` `#safety-alignment` · [watch](https://www.youtube.com/watch?v=6d7l7fUmKXs) · 19 min
