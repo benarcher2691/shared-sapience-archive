@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 219
-- **Date range:** Mar 7, 2026 → Oct 10, 2026
-- **Last updated:** 2026-10-11
+- **Videos summarized:** 221
+- **Date range:** Mar 7, 2026 → Oct 12, 2026
+- **Last updated:** 2026-10-13
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,22 +17,22 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 132 |
-| `#energy-climate` | Energy & climate | 129 |
-| `#anthropic` | Anthropic | 127 |
-| `#policy-regulation` | Policy & regulation | 90 |
-| `#openai` | OpenAI | 86 |
-| `#safety-alignment` | Safety & alignment | 81 |
-| `#science` | Science | 81 |
-| `#cybersecurity` | Cybersecurity | 73 |
+| `#biotech-medicine` | Biotech & medicine | 133 |
+| `#energy-climate` | Energy & climate | 130 |
+| `#anthropic` | Anthropic | 128 |
+| `#policy-regulation` | Policy & regulation | 92 |
+| `#openai` | OpenAI | 87 |
+| `#safety-alignment` | Safety & alignment | 83 |
+| `#science` | Science | 83 |
+| `#cybersecurity` | Cybersecurity | 74 |
 | `#agents` | AI agents | 72 |
 | `#labor-economy` | Labor & economy | 60 |
 | `#open-models` | Open models | 59 |
+| `#markets-finance` | Markets & finance | 58 |
 | `#chips` | Chips / semiconductors | 57 |
-| `#compute-infrastructure` | Compute infrastructure | 56 |
-| `#markets-finance` | Markets & finance | 56 |
+| `#compute-infrastructure` | Compute infrastructure | 57 |
+| `#society-culture` | Society & culture | 54 |
 | `#legal-courts` | Legal & courts | 52 |
-| `#society-culture` | Society & culture | 52 |
 | `#google-deepmind` | Google / DeepMind | 43 |
 | `#robotics` | Robotics | 41 |
 | `#export-controls` | Export controls | 27 |
@@ -41,11 +41,34 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 219 because most episodes carry several tags.
+> Counts sum to more than 221 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-12 — Tech and civil leaders want outside testers to decide when AI ships
+`#policy-regulation` `#safety-alignment` `#society-culture` `#compute-infrastructure` `#markets-finance` `#science` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=z4-m3pU8FCA) · 20 min
+
+Washington dropped its request that US labs keep new AI models from Britain's testers, clearing the way for early outside checks before release.
+
+- **Britain's testers get access back** — Washington dropped its request that US labs withhold new models from the UK's AI Security Institute
+- **Publishers draft with AI** — staff at HarperCollins, Simon & Schuster and Hachette told WIRED that AI drafts their publicity copy, even as publishers police authors' AI use
+- **Amazon's Australian donations** — a Guardian tally found 34 Amazon payments totalling $538,000 to Australian party branches as data centres court political favor
+- **Big money for non-text models** — TypeSafe raised $870 million at a $7.5 billion valuation for Jev, as Amazon held talks to buy Decart for about $7 billion
+- **Automated gene-cluster mining** — a Shenzhen team's automated workflow opened 31 of 34 bacterial gene clusters and yielded 29 peptides
+
+### 2026-10-11 — Satya Nadella says someone should hold a pause button on AI models
+`#safety-alignment` `#policy-regulation` `#cybersecurity` `#markets-finance` `#society-culture` `#openai` `#anthropic` `#energy-climate` `#science` · [watch](https://www.youtube.com/watch?v=cPzoSCEaNSw) · 19 min
+
+Microsoft CEO Satya Nadella wants a human able to pause any AI model mid-task, with every meaningful action logged as evidence.
+
+- **Nadella's emergency brake** — the Microsoft CEO called for a human-held pause on AI models, as the Trump administration favors liability over new rules
+- **A calm crypto wallet migration** — Justin Drake and Vitalik Buterin urged moving wallets to safer cryptography before AI mathematics can break their security
+- **AI disputes in creative work** — Nikon named Nguyen Nam Nhat its winner after an AI probe disqualified the original, and DistroKid pulled songs over UMG's claims
+- **AI beats analysts on earnings** — Samaya reported that GPT-6 Astra and Claude models beat analyst consensus on earnings for 456 firms
+- **Flexing power demand** — Octopus Energy US is shopping for demand-flex software, as Nio's batteries handled 1,192,221 swaps in a week
+- **The first working nuclear clocks** — TU Wien and Tsinghua built them, and Vienna's ran more than 24 hours unsteered
 
 ### 2026-10-10 — Anthropic's test agents taken offline, chip-level pause proposed
 `#anthropic` `#agents` `#safety-alignment` `#chips` `#policy-regulation` `#biotech-medicine` `#markets-finance` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=pHS2iu8XNN4) · 20 min
