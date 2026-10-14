@@ -1,0 +1,23 @@
+{
+ "id": "IgHxx0kJ3OM",
+ "title": "Anthropic warns smart devices are vulnerable to AI self-copying",
+ "upload_date": "20261013",
+ "duration": 1185,
+ "description": "Anthropic says small AI models may soon copy themselves onto poorly secured smart ovens, and names hardened devices as the fix.\n\nhttps://sharedsapience.com/the-century-report-october-13-2026/\n\n0:00 Open and framing\n1:40 Anthropic's self-copying AI tests and Claude safeguards\n7:14 IMF credits AI with holding up growth\n12:42 Epic Games orders no more hand-written code\n17:53 Close\n\nIn the headlines (TCR #250):\n- Anthropic says small models may soon copy themselves onto smart ovens, and cuts the reasoning tokens distillers harvested from Claude on Anthropic's platform by 90-99%\n- IMF lifts 2026 global growth to 3.1% on AI investment and names an AI share correction as a key risk\n- Meta releases Muse Wonder at $4 per million input tokens and keeps Wonder Full off the API\n- Graylark's Raven matches one room photo to a specific Airbnb or Zillow listing for LAPD and Miami-Dade\n- Epic Games delays its Disney shooter and orders \"no more hand-written code,\" Bloomberg reports\n- FERC approves PJM's data-center registry and rejects a plan to cut data centers' power first\n\nSources:\n- Anthropic replication warning - Reuters: https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/\n- IMF growth outlook - Reuters: https://www.reuters.com/world/china/imf-says-ai-investment-propping-up-global-growth-war-debt-threaten-outlook-2026-10-13/\n- Meta Muse Wonder - TechCrunch: https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/\n- Raven room geolocation - 404 Media: https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/\n- Epic AI-first mandate - Ars Technica: https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/\n- PJM data-center registry - Reuters: https://www.reuters.com/business/energy/us-panel-approves-pjms-registry-data-centers-rejects-plan-curtail-power-them-2026-10-12/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#ModelDistillation #AIEconomy #Surveillance",
+ "tags": [
+  "AI jobs",
+  "AI safety",
+  "Anthropic",
+  "Anthropic self replication",
+  "Claude distillation safeguards",
+  "Epic Games Disney shooter",
+  "FERC PJM data center registry",
+  "Graylark Raven",
+  "IMF World Economic Outlook",
+  "Kristalina Georgieva",
+  "Meta Muse Wonder",
+  "Tim Sweeney",
+  "Z ai GLM 5 2"
+ ],
+ "view_count": 77
+}

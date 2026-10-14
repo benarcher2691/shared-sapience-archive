@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 221
-- **Date range:** Mar 7, 2026 → Oct 12, 2026
-- **Last updated:** 2026-10-13
+- **Videos summarized:** 222
+- **Date range:** Mar 7, 2026 → Oct 13, 2026
+- **Last updated:** 2026-10-14
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#biotech-medicine` | Biotech & medicine | 133 |
-| `#energy-climate` | Energy & climate | 130 |
-| `#anthropic` | Anthropic | 128 |
-| `#policy-regulation` | Policy & regulation | 92 |
+| `#energy-climate` | Energy & climate | 131 |
+| `#anthropic` | Anthropic | 129 |
+| `#policy-regulation` | Policy & regulation | 93 |
 | `#openai` | OpenAI | 87 |
-| `#safety-alignment` | Safety & alignment | 83 |
+| `#safety-alignment` | Safety & alignment | 84 |
 | `#science` | Science | 83 |
-| `#cybersecurity` | Cybersecurity | 74 |
+| `#cybersecurity` | Cybersecurity | 75 |
 | `#agents` | AI agents | 72 |
-| `#labor-economy` | Labor & economy | 60 |
+| `#labor-economy` | Labor & economy | 61 |
+| `#markets-finance` | Markets & finance | 59 |
 | `#open-models` | Open models | 59 |
-| `#markets-finance` | Markets & finance | 58 |
+| `#compute-infrastructure` | Compute infrastructure | 58 |
 | `#chips` | Chips / semiconductors | 57 |
-| `#compute-infrastructure` | Compute infrastructure | 57 |
-| `#society-culture` | Society & culture | 54 |
+| `#society-culture` | Society & culture | 55 |
 | `#legal-courts` | Legal & courts | 52 |
 | `#google-deepmind` | Google / DeepMind | 43 |
 | `#robotics` | Robotics | 41 |
 | `#export-controls` | Export controls | 27 |
-| `#meta` | Meta | 22 |
+| `#meta` | Meta | 23 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 221 because most episodes carry several tags.
+> Counts sum to more than 222 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-13 — Anthropic warns smart devices are vulnerable to AI self-copying
+`#anthropic` `#safety-alignment` `#cybersecurity` `#markets-finance` `#labor-economy` `#meta` `#society-culture` `#policy-regulation` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=IgHxx0kJ3OM) · 20 min
+
+Anthropic said small AI models may soon copy themselves onto poorly secured smart ovens, and named hardened devices as the fix.
+
+- **Self-copying AI and Claude's safeguards** — Anthropic warned small models may soon replicate onto smart devices, and cut the reasoning tokens distillers had been harvesting from Claude on its platform by 90–99%
+- **The IMF credits AI with holding up growth** — it raised its 2026 global growth forecast to 3.1% on AI investment and named a correction in AI shares as a key risk
+- **Meta's Muse Wonder** — Meta released the model at $4 per million input tokens, keeping Wonder Full off its API
+- **Raven finds homes from one photo** — Graylark's tool matches a single room photo to a specific Airbnb or Zillow listing for the LAPD and Miami-Dade
+- **Epic bans hand-written code** — Epic Games delayed its Disney shooter and ordered "no more hand-written code," Bloomberg reported
+- **FERC rules on data centers** — the regulator approved PJM's data-center registry and rejected a plan to cut data centers' power first
 
 ### 2026-10-12 — Tech and civil leaders want outside testers to decide when AI ships
 `#policy-regulation` `#safety-alignment` `#society-culture` `#compute-infrastructure` `#markets-finance` `#science` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=z4-m3pU8FCA) · 20 min
