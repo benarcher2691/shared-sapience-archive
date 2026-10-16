@@ -1,0 +1,24 @@
+{
+ "id": "1jRli-JzPLU",
+ "title": "No one noticed AI agents reading confidential records",
+ "upload_date": "20261016",
+ "duration": 1196,
+ "description": "Anthropic gave six outside testers from METR employee-level access and gave up its veto over what they publish.\n\nhttps://sharedsapience.com/the-century-report-october-16-2026/\n\n0:00 Open and framing\n1:25 Anthropic gives METR inside access and no veto\n7:15 Four Claude agents post-train a raw Qwen model\n12:18 CoreWeave's debt and Accenture's $29 Claude cap\n17:25 Close\n\nIn the headlines (TCR #253):\n- Anthropic gives six METR testers no-veto access; India and Tencent report AI agent incidents\n- Four Claude Opus 5.5 agents post-train Qwen3-4B from 9.2 to 48.2 in 104 unaided hours\n- Meta releases Muse Spark Open, an 816-billion-parameter model that Meta says runs using compressed weights on two M5 Ultra Mac Studios with 512 GB of memory each\n- CoreWeave's $50 billion debt rattles lenders; Accenture caps central Claude funding at $29 a month\n- NERC stakeholders back grid rules for big data centers; Virginia's SB 843 seeks a 3-year pause\n- decomp.dev shuts down as AI speeds game decompilation; Xbox calls AI mashups good for players\n\nSources:\n- METR inside access - TechCrunch: https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/\n- Agents post-train Qwen - arXiv: https://arxiv.org/abs/2610.21055\n- Muse Spark Open - Meta AI Research: https://research.meta.ai/blog/muse-spark-open\n- CoreWeave debt - Reuters: https://www.reuters.com/legal/transactional/why-coreweaves-troubles-are-rattling-ai-boom-2026-10-15/\n- NERC data center rules - Utility Dive: https://www.utilitydive.com/news/reliability-standards-ai-data-centers-crypto-miners-pass-final-nerc-ba/833094/\n- decomp.dev shutdown - 404 Media: https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#Anthropic #AIAgents #DataCenters",
+ "tags": [
+  "AI regulation",
+  "AI safety",
+  "Accenture Claude budget",
+  "Anthropic",
+  "Anthropic METR access",
+  "Athanor Qwen3 4B",
+  "CERT In AI agents",
+  "Claude Opus 5 5",
+  "CoreWeave debt",
+  "FTC civil investigative demand",
+  "METR",
+  "Meta Muse Spark Open",
+  "NERC data center standards",
+  "Tencent agent browsing"
+ ],
+ "view_count": 0
+}

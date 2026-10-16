@@ -5,8 +5,8 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 224
-- **Date range:** Mar 7, 2026 → Oct 15, 2026
+- **Videos summarized:** 225
+- **Date range:** Mar 7, 2026 → Oct 16, 2026
 - **Last updated:** 2026-10-16
 - **How to update / search:** see [README.md](README.md)
 
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#biotech-medicine` | Biotech & medicine | 134 |
-| `#energy-climate` | Energy & climate | 132 |
-| `#anthropic` | Anthropic | 131 |
-| `#policy-regulation` | Policy & regulation | 95 |
+| `#energy-climate` | Energy & climate | 133 |
+| `#anthropic` | Anthropic | 132 |
+| `#policy-regulation` | Policy & regulation | 96 |
 | `#openai` | OpenAI | 89 |
-| `#safety-alignment` | Safety & alignment | 85 |
+| `#safety-alignment` | Safety & alignment | 86 |
 | `#science` | Science | 83 |
-| `#cybersecurity` | Cybersecurity | 77 |
-| `#agents` | AI agents | 73 |
+| `#cybersecurity` | Cybersecurity | 78 |
+| `#agents` | AI agents | 74 |
 | `#labor-economy` | Labor & economy | 62 |
-| `#markets-finance` | Markets & finance | 61 |
-| `#open-models` | Open models | 59 |
-| `#compute-infrastructure` | Compute infrastructure | 58 |
+| `#markets-finance` | Markets & finance | 62 |
+| `#open-models` | Open models | 60 |
+| `#compute-infrastructure` | Compute infrastructure | 59 |
 | `#chips` | Chips / semiconductors | 57 |
-| `#society-culture` | Society & culture | 56 |
+| `#society-culture` | Society & culture | 57 |
 | `#legal-courts` | Legal & courts | 53 |
 | `#google-deepmind` | Google / DeepMind | 44 |
 | `#robotics` | Robotics | 42 |
 | `#export-controls` | Export controls | 27 |
-| `#meta` | Meta | 23 |
+| `#meta` | Meta | 24 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 224 because most episodes carry several tags.
+> Counts sum to more than 225 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-16 — No one noticed AI agents reading confidential records
+`#anthropic` `#safety-alignment` `#agents` `#cybersecurity` `#open-models` `#meta` `#compute-infrastructure` `#markets-finance` `#energy-climate` `#policy-regulation` `#society-culture` · [watch](https://www.youtube.com/watch?v=1jRli-JzPLU) · 20 min
+
+Anthropic gave six outside testers from METR employee-level access and gave up its veto over what they publish.
+
+- **METR gets inside access, no veto** — Anthropic opened its systems to six METR testers without control over their findings, as India and Tencent reported AI agent incidents
+- **Claude agents post-train a raw model** — four Claude Opus 5.5 agents post-trained Qwen3-4B, lifting its score from 9.2 to 48.2 in 104 hours without human help
+- **Meta's Muse Spark Open** — Meta released an 816-billion-parameter open model it says runs, with compressed weights, on two M5 Ultra Mac Studios with 512 GB of memory each
+- **Cracks in AI spending** — CoreWeave's $50 billion debt rattled lenders, and Accenture capped central funding for Claude at $29 a month
+- **Grid rules for data centers** — NERC stakeholders backed reliability rules for big data centers, as Virginia's SB 843 seeks a three-year pause
+- **AI ends a game reverse-engineering community** — decomp.dev shut down because AI has made game decompilation too easy, while Xbox called AI mashups good for players
 
 ### 2026-10-15 — 1,200 OpenAI test agents shared a single access key
 `#policy-regulation` `#openai` `#anthropic` `#agents` `#cybersecurity` `#markets-finance` `#legal-courts` `#society-culture` `#energy-climate` · [watch](https://www.youtube.com/watch?v=VrDwqP1FJts) · 21 min
