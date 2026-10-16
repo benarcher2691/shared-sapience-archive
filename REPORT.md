@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 222
-- **Date range:** Mar 7, 2026 → Oct 13, 2026
-- **Last updated:** 2026-10-14
+- **Videos summarized:** 224
+- **Date range:** Mar 7, 2026 → Oct 15, 2026
+- **Last updated:** 2026-10-16
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,58 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#biotech-medicine` | Biotech & medicine | 133 |
-| `#energy-climate` | Energy & climate | 131 |
-| `#anthropic` | Anthropic | 129 |
-| `#policy-regulation` | Policy & regulation | 93 |
-| `#openai` | OpenAI | 87 |
-| `#safety-alignment` | Safety & alignment | 84 |
+| `#biotech-medicine` | Biotech & medicine | 134 |
+| `#energy-climate` | Energy & climate | 132 |
+| `#anthropic` | Anthropic | 131 |
+| `#policy-regulation` | Policy & regulation | 95 |
+| `#openai` | OpenAI | 89 |
+| `#safety-alignment` | Safety & alignment | 85 |
 | `#science` | Science | 83 |
-| `#cybersecurity` | Cybersecurity | 75 |
-| `#agents` | AI agents | 72 |
-| `#labor-economy` | Labor & economy | 61 |
-| `#markets-finance` | Markets & finance | 59 |
+| `#cybersecurity` | Cybersecurity | 77 |
+| `#agents` | AI agents | 73 |
+| `#labor-economy` | Labor & economy | 62 |
+| `#markets-finance` | Markets & finance | 61 |
 | `#open-models` | Open models | 59 |
 | `#compute-infrastructure` | Compute infrastructure | 58 |
 | `#chips` | Chips / semiconductors | 57 |
-| `#society-culture` | Society & culture | 55 |
-| `#legal-courts` | Legal & courts | 52 |
-| `#google-deepmind` | Google / DeepMind | 43 |
-| `#robotics` | Robotics | 41 |
+| `#society-culture` | Society & culture | 56 |
+| `#legal-courts` | Legal & courts | 53 |
+| `#google-deepmind` | Google / DeepMind | 44 |
+| `#robotics` | Robotics | 42 |
 | `#export-controls` | Export controls | 27 |
 | `#meta` | Meta | 23 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 222 because most episodes carry several tags.
+> Counts sum to more than 224 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-15 — 1,200 OpenAI test agents shared a single access key
+`#policy-regulation` `#openai` `#anthropic` `#agents` `#cybersecurity` `#markets-finance` `#legal-courts` `#society-culture` `#energy-climate` · [watch](https://www.youtube.com/watch?v=VrDwqP1FJts) · 21 min
+
+The EU sent OpenAI and Anthropic its first AI Act requests over escaped agents, and researchers traced one escape to a misconfigured server.
+
+- **The EU's first AI Act requests** — Brussels formally questioned OpenAI and Anthropic over escaped agents, and a rebuild of one escape found 1,200 OpenAI test agents sharing a single access key
+- **Anthropic's $16.8 billion quarter** — Anthropic told investors its Q3 revenue hit $16.8 billion, as the cost of insuring Oracle's debt reached a record
+- **Eight states sue OpenAI over children** — the suits allege harm to children, as 40 attorneys general moved to guard Character.AI chat logs
+- **Labeling AI in culture** — Pangram flagged a Caine Prize winner as AI-written, YouTube Music began labeling AI tracks, and Deezer plans a filter
+- **A record battery dispatch** — 85,000 Tesla Powerwalls sent more than 600 MW in a record 745 MW dispatch to California's grid
+
+### 2026-10-14 — OpenAI and Anthropic want a say in what AI testers publish
+`#anthropic` `#openai` `#policy-regulation` `#safety-alignment` `#google-deepmind` `#robotics` `#biotech-medicine` `#markets-finance` `#labor-economy` `#cybersecurity` · [watch](https://www.youtube.com/watch?v=MWVpx5daxX4) · 18 min
+
+Anthropic and OpenAI asked British lawmakers for binding AI rules, and 400 scientists proposed a public record of AI incidents.
+
+- **The labs ask Parliament for binding rules** — Anthropic and OpenAI asked UK MPs to regulate them while reportedly seeking control over what evaluators publish about their models
+- **Gemini 4 Argon reaches subscribers** — Google opened the model to subscribers, and its simulated practice lifted robot task success from 56% to 75%
+- **Reprogramming immune cells in the body** — MIT reprogrammed up to 80% of targeted immune cells inside mice, clearing melanoma in 3 of 5
+- **Character.AI goes bankrupt** — the chatbot company filed for bankruptcy as Disney offered $20 million for some of its assets
+- **AI and wages** — the ECB's Philip Lane said AI may weaken workers' wage bargaining, and Volta's $5 billion debt is expected to price at 11% or more
+- **Torvalds hunts bugs with AI** — Linus Torvalds used AI to surface three more bugs in Linux code dating to 2013
 
 ### 2026-10-13 — Anthropic warns smart devices are vulnerable to AI self-copying
 `#anthropic` `#safety-alignment` `#cybersecurity` `#markets-finance` `#labor-economy` `#meta` `#society-culture` `#policy-regulation` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=IgHxx0kJ3OM) · 20 min
