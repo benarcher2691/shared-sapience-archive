@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 225
-- **Date range:** Mar 7, 2026 → Oct 16, 2026
-- **Last updated:** 2026-10-16
+- **Videos summarized:** 227
+- **Date range:** Mar 7, 2026 → Oct 18, 2026
+- **Last updated:** 2026-10-19
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,57 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
+| `#energy-climate` | Energy & climate | 135 |
+| `#anthropic` | Anthropic | 134 |
 | `#biotech-medicine` | Biotech & medicine | 134 |
-| `#energy-climate` | Energy & climate | 133 |
-| `#anthropic` | Anthropic | 132 |
-| `#policy-regulation` | Policy & regulation | 96 |
-| `#openai` | OpenAI | 89 |
-| `#safety-alignment` | Safety & alignment | 86 |
-| `#science` | Science | 83 |
-| `#cybersecurity` | Cybersecurity | 78 |
-| `#agents` | AI agents | 74 |
-| `#labor-economy` | Labor & economy | 62 |
+| `#policy-regulation` | Policy & regulation | 97 |
+| `#openai` | OpenAI | 90 |
+| `#safety-alignment` | Safety & alignment | 87 |
+| `#science` | Science | 85 |
+| `#cybersecurity` | Cybersecurity | 79 |
+| `#agents` | AI agents | 76 |
+| `#labor-economy` | Labor & economy | 63 |
 | `#markets-finance` | Markets & finance | 62 |
-| `#open-models` | Open models | 60 |
-| `#compute-infrastructure` | Compute infrastructure | 59 |
+| `#compute-infrastructure` | Compute infrastructure | 61 |
+| `#open-models` | Open models | 61 |
+| `#society-culture` | Society & culture | 58 |
 | `#chips` | Chips / semiconductors | 57 |
-| `#society-culture` | Society & culture | 57 |
 | `#legal-courts` | Legal & courts | 53 |
-| `#google-deepmind` | Google / DeepMind | 44 |
-| `#robotics` | Robotics | 42 |
+| `#google-deepmind` | Google / DeepMind | 45 |
+| `#robotics` | Robotics | 43 |
 | `#export-controls` | Export controls | 27 |
-| `#meta` | Meta | 24 |
+| `#meta` | Meta | 26 |
 | `#xai-musk` | xAI / Musk | 19 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 225 because most episodes carry several tags.
+> Counts sum to more than 227 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-18 — Only 9% of Anthropic's new tech hires are juniors now
+`#anthropic` `#labor-economy` `#agents` `#science` `#open-models` `#meta` `#robotics` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=tN9E1cOpZl4) · 21 min
+
+Anthropic's own records show its AI agents now log six times its staff's hours, counting combined agent runtime against an assumed 40-hour workweek, while junior technical hires fell from 27% to 9%.
+
+- **Anthropic's agents outwork its staff** — combined agent runtime reached six times staff hours, estimated from an assumed 40-hour week, as junior technical hires fell from 27% to 9%
+- **Claude redesigns quantum circuits** — working with Harvard, Claude cut a quantum circuit's estimated costly operations about 12-fold, and an MIT model reads crystals
+- **Apple and Meta run Muse Spark Open** — the two companies run the open-weight model on two to four linked Mac Studios
+- **Waymo opens three cities** — Waymo opened San Antonio, San Diego and Tampa to all riders and is targeting Toronto for 2028
+- **Data-center heat for homes** — Oxfordshire council is studying piping heat from AWS's Didcot data centers to homes, with a report due March 2027
+
+### 2026-10-17 — Anthropic wants AI halted only for risks over $1 billion
+`#anthropic` `#policy-regulation` `#safety-alignment` `#openai` `#agents` `#cybersecurity` `#meta` `#society-culture` `#google-deepmind` `#science` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=4Xg4abxnBvw) · 19 min
+
+Anthropic's draft AI bill would let the government halt a model only for an imminent risk of more than $1 billion in damage or 50 casualties.
+
+- **Anthropic's draft AI bill** — a court could halt a model only above $1 billion in damage or 50 casualties, and labs could pay their own evaluators
+- **OpenAI's four more agent incidents** — OpenAI reported four more agent incidents from June, and MasDrift found a cheap check cuts unauthorized actions
+- **Meta's new business terms** — from October 30 they let Meta crawl and train on linked websites, with no opt-out short of leaving, though Meta says robots.txt can still block crawling
+- **Quantum error cuts** — Google's Willow cut magic-state errors about 40-fold, and Anderon released a 300mm qubit design kit
+- **Home batteries for data centers** — Sunrun is negotiating to sell home battery capacity to data-center builders, as a Senate bill sets an 18-month deadline
 
 ### 2026-10-16 — No one noticed AI agents reading confidential records
 `#anthropic` `#safety-alignment` `#agents` `#cybersecurity` `#open-models` `#meta` `#compute-infrastructure` `#markets-finance` `#energy-climate` `#policy-regulation` `#society-culture` · [watch](https://www.youtube.com/watch?v=1jRli-JzPLU) · 20 min
