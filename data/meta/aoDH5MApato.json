@@ -1,0 +1,23 @@
+{
+ "id": "aoDH5MApato",
+ "title": "Attacks using decades-old flaw occurred 4 days before the fix",
+ "upload_date": "20261022",
+ "duration": 1279,
+ "description": "AI-assisted researchers found two decade-old flaws in PHP, the software behind most websites, and AWS saw a hack attempt four days before the fix.\n\nhttps://sharedsapience.com/the-century-report-october-22-2026/\n\n0:00 Open and framing\n1:51 AI helps find decade-old PHP flaws\n7:56 NIST, NSA and CISA set agent-testing practices\n13:13 Recursive ships Flint, a laptop coding model\n18:36 Close\n\nIn the headlines (TCR #259):\n- Calif.io, Wiz, OpenAI and Quarkslab disclose two decade-old PHP flaws; AWS saw an attempt 4 days early\n- NIST, NSA and CISA publish 10 voluntary practices, including monitors AI agents cannot alter\n- Recursive releases Flint, a laptop coding model its Eureka Machine helped build in under 4 months\n- Radical Numerics' AI-designed phages reach a patient; 17 Claude-designed proteins bind a scorpion toxin\n- Nvidia, Microsoft and Cisco give Britain a year to win data-center consent; Hamlet maps local sentiment\n- Dominion reports its Virginia grid averages 41% use as Cumberland County approves a 3 GW gas plant\n\nSources:\n- PHP flaws - Wiz: https://www.wiz.io/blog/php2shell-php-rce\n- Federal agent practices - NIST: https://www.nist.gov/document/keypracticesforincidentreadinessandresponseinsuperintelligence-trainingandevaluation\n- Recursive Flint - TechCrunch: https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/\n- AI-designed phages - Radical Numerics: https://www.radicalnumerics.ai/blog/omnii-phage\n- UK data-center consent - The Guardian: https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened\n- Virginia grid utilization - Latitude Media: https://www.latitudemedia.com/news/what-to-know-about-the-nations-first-grid-utilization-metrics/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#PHP #AIForCybersecurity #ProteinDesign",
+ "tags": [
+  "AI agents",
+  "AWS CJ Moses",
+  "Calif io and Wiz",
+  "Claude scorpion toxin proteins",
+  "Cloudflare firewall",
+  "NIST NSA CISA AI agent",
+  "PHP vulnerabilities",
+  "PHP vulnerability",
+  "RFD4 Proteina",
+  "Radical Numerics phage therapy",
+  "Recursive Flint",
+  "Richard Socher Eureka Machine",
+  "cybersecurity"
+ ],
+ "view_count": 227
+}

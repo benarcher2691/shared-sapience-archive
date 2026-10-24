@@ -1,0 +1,24 @@
+{
+ "id": "RmJQMs7TthA",
+ "title": "Closed AI models refused to read the code that hacked OpenCode",
+ "upload_date": "20261020",
+ "duration": 1219,
+ "description": "One operator's AI agents breached more than 100 e-commerce sites, including John Deere and Cummins, for an estimated $50 a breach.\n\nhttps://sharedsapience.com/the-century-report-october-20-2026/\n\n0:00 Open and framing\n1:23 AI agents breach 100+ sites as OpenCode gets locked out\n7:28 WhatsApp's hidden instructions and Brazil's parity order\n13:03 Amazon opens Trainium to PyTorch as Modal picks Nvidia Vera\n18:02 Close\n\nIn the headlines (TCR #257):\n- Cairn agents breach 100+ sites including John Deere; AI models refuse to read OpenCode's attack code\n- Redact.dev finds 102 hidden AI instructions on WhatsApp help pages; Brazil holds Meta AI to parity\n- Amazon's TorchNeuron runs 89% of top text-generation architectures on Trainium for inference; Modal adopts Nvidia Vera\n- Nscale in talks on a $45 billion Anthropic deal; OpenAI races a $30 billion round; S&P warns of hidden debt\n- AEP, Amazon and X-energy study 12 reactors on a retired Indiana coal site; a study puts rail's storage potential at 190 GW\n\nSources:\n- Cairn hacking campaign - Reuters: https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/\n- WhatsApp hidden instructions - Redact.dev: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\n- Amazon TorchNeuron - Reuters: https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/\n- Nscale and Anthropic - Reuters: https://www.reuters.com/technology/nscale-anthropic-talks-45-billion-cloud-computing-deal-bloomberg-news-reports-2026-10-19/\n- Reactors on coal site - Utility Dive: https://www.utilitydive.com/news/aep-signs-advanced-960-mw-nuclear-amazon-x-energy/833341/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#AISecurity #AIHacking #Cybersecurity",
+ "tags": [
+  "AI agents",
+  "AI security",
+  "Amazon TorchNeuron Trainium",
+  "Brazil electoral court Meta AI",
+  "Cairn agent platform",
+  "John Deere breach",
+  "Microsoft Guardian Agents",
+  "Nscale Anthropic deal",
+  "Nvidia Vera CPU Modal",
+  "OpenCode",
+  "OpenCode hack",
+  "WhatsApp",
+  "WhatsApp hidden AI",
+  "X energy Indiana reactors"
+ ],
+ "view_count": 70
+}
