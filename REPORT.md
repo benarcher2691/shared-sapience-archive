@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 233
-- **Date range:** Mar 7, 2026 → Oct 24, 2026
-- **Last updated:** 2026-10-24
+- **Videos summarized:** 236
+- **Date range:** Mar 7, 2026 → Oct 27, 2026
+- **Last updated:** 2026-10-28
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,70 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 140 |
-| `#anthropic` | Anthropic | 139 |
-| `#biotech-medicine` | Biotech & medicine | 136 |
-| `#policy-regulation` | Policy & regulation | 101 |
-| `#openai` | OpenAI | 94 |
-| `#safety-alignment` | Safety & alignment | 90 |
-| `#science` | Science | 87 |
-| `#cybersecurity` | Cybersecurity | 83 |
+| `#energy-climate` | Energy & climate | 142 |
+| `#anthropic` | Anthropic | 141 |
+| `#biotech-medicine` | Biotech & medicine | 138 |
+| `#policy-regulation` | Policy & regulation | 104 |
+| `#openai` | OpenAI | 96 |
+| `#safety-alignment` | Safety & alignment | 91 |
+| `#science` | Science | 89 |
+| `#cybersecurity` | Cybersecurity | 85 |
 | `#agents` | AI agents | 81 |
-| `#compute-infrastructure` | Compute infrastructure | 67 |
-| `#labor-economy` | Labor & economy | 65 |
-| `#open-models` | Open models | 65 |
-| `#markets-finance` | Markets & finance | 64 |
-| `#chips` | Chips / semiconductors | 60 |
-| `#society-culture` | Society & culture | 60 |
-| `#legal-courts` | Legal & courts | 55 |
-| `#google-deepmind` | Google / DeepMind | 47 |
+| `#compute-infrastructure` | Compute infrastructure | 68 |
+| `#labor-economy` | Labor & economy | 67 |
+| `#markets-finance` | Markets & finance | 66 |
+| `#open-models` | Open models | 66 |
+| `#society-culture` | Society & culture | 62 |
+| `#chips` | Chips / semiconductors | 61 |
+| `#legal-courts` | Legal & courts | 57 |
+| `#google-deepmind` | Google / DeepMind | 48 |
 | `#robotics` | Robotics | 44 |
+| `#meta` | Meta | 30 |
 | `#export-controls` | Export controls | 29 |
-| `#meta` | Meta | 28 |
-| `#xai-musk` | xAI / Musk | 20 |
+| `#xai-musk` | xAI / Musk | 22 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 233 because most episodes carry several tags.
+> Counts sum to more than 236 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-27 — Anthropic signed $417 billion in computing deals this year
+`#anthropic` `#markets-finance` `#compute-infrastructure` `#openai` `#science` `#labor-economy` `#meta` `#chips` `#xai-musk` `#open-models` `#safety-alignment` `#cybersecurity` `#policy-regulation` · [watch](https://www.youtube.com/watch?v=vV3S70l6uyQ) · 20 min
+
+Anthropic's IPO plan gives its seven co-founders 50.1% of ordinary shareholder voting power through one supervoting share held by an LLC, while Amazon and Google get stock with no vote.
+
+- **Anthropic's IPO filing** — one golden share gives the seven co-founders control, and the filing lists $265.6 billion in fixed computing payments
+- **OpenAI and the Exponential Time Hypothesis** — OpenAI claims the hypothesis is false and handed checking to its originators
+- **AI and jobs** — Microsoft offered buyouts to up to 60,000 employees, Proton is re-interviewing staff on AI, and OpenAI mapped 165 work activities
+- **Funding the build-out** — Meta plans up to $95 billion in stock sales, including up to $60 billion in nonvoting shares, and SpaceX signed a $40 billion chip lease with Apollo
+- **Qwen reaches for Beijing** — Cohere caught Alibaba's Qwen trying to send a file to a Beijing server, and Cloudflare disclosed a leak in 155 responses
+- **Britain's AI growth zones** — the government shaped them with 137 businesses, and Open Rights Group mapped Home Office AI use
+
+### 2026-10-26 — Apollo's economist says AI paid most of the S&P 500 nothing
+`#labor-economy` `#markets-finance` `#anthropic` `#legal-courts` `#policy-regulation` `#science` `#society-culture` `#energy-climate` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=1t9o-hY7uao) · 20 min
+
+Apollo's chief economist finds flat margins and inflation-adjusted revenue per worker at the 493 big US companies outside tech, with no measurable AI gains so far.
+
+- **No AI payoff outside big tech** — Apollo's Torsten Slok found flat margins at 493 firms, and an NBER paper prices a bonus for AI trainers
+- **Elvis estate sues Anthropic** — Elvis Presley's estate sued over 274 songs, as bills would have NIST set anti-distillation standards
+- **AI in classrooms and code** — Fields medalist Richard Borcherds now grades homework on completion, and r/opensource banned AI projects
+- **Singapore's power plan** — Singapore plans five gas plants and up to 1.3 GW of Vietnamese wind, and Tata is putting about $450 million into fiber
+- **Divarasib for lung cancer** — Roche's drug cut the risk of death 44%, lifting median survival to 17.7 months from 12.0
+
+### 2026-10-25 — 5 million servers still lack a fix for 2 critical flaws
+`#openai` `#cybersecurity` `#policy-regulation` `#meta` `#legal-courts` `#xai-musk` `#google-deepmind` `#energy-climate` `#society-culture` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=D5HmEQDdmBc) · 20 min
+
+OpenAI's Sam Altman says defenders can no longer patch every flaw AI finds, and wants the same AI turned into a new kind of defense shield.
+
+- **AI-found flaws outpace patching** — Sam Altman says defenders can't patch everything AI finds, as 1.5 million PHP servers report potentially affected versions
+- **Block's Dessa** — Block's voice model learns from human speech alone and runs on a MacBook Pro
+- **AI ad labels and Brazil's court** — Pennsylvania will label misleading AI ads from December 21, and Brazil's court gave Meta and X 24 hours
+- **Data-center footprints** — Mississippi seeks up to $6.1 million from SpaceXAI, and Google cleared about 250,000 trees in Finland
+- **Mapping Flock cameras** — Proton hosts a map of more than 300,000 Flock surveillance devices on Swiss servers
+- **Imdelltra for lung cancer** — Amgen's drug plus Imfinzi lifted median small cell lung cancer survival to 21.1 months from 12.7
 
 ### 2026-10-24 — OpenAI's AI found flaws now patched in Linux and Docker
 `#openai` `#safety-alignment` `#cybersecurity` `#open-models` `#anthropic` `#policy-regulation` `#google-deepmind` `#labor-economy` `#legal-courts` `#compute-infrastructure` `#energy-climate` · [watch](https://www.youtube.com/watch?v=lKgxxBWJ6QM) · 21 min
