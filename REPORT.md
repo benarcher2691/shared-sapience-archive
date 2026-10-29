@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 236
-- **Date range:** Mar 7, 2026 → Oct 27, 2026
-- **Last updated:** 2026-10-28
+- **Videos summarized:** 238
+- **Date range:** Mar 7, 2026 → Oct 29, 2026
+- **Last updated:** 2026-10-29
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,23 +17,23 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 142 |
-| `#anthropic` | Anthropic | 141 |
-| `#biotech-medicine` | Biotech & medicine | 138 |
-| `#policy-regulation` | Policy & regulation | 104 |
+| `#energy-climate` | Energy & climate | 144 |
+| `#anthropic` | Anthropic | 143 |
+| `#biotech-medicine` | Biotech & medicine | 140 |
+| `#policy-regulation` | Policy & regulation | 106 |
 | `#openai` | OpenAI | 96 |
 | `#safety-alignment` | Safety & alignment | 91 |
-| `#science` | Science | 89 |
+| `#science` | Science | 91 |
 | `#cybersecurity` | Cybersecurity | 85 |
-| `#agents` | AI agents | 81 |
-| `#compute-infrastructure` | Compute infrastructure | 68 |
-| `#labor-economy` | Labor & economy | 67 |
-| `#markets-finance` | Markets & finance | 66 |
+| `#agents` | AI agents | 82 |
+| `#compute-infrastructure` | Compute infrastructure | 69 |
+| `#labor-economy` | Labor & economy | 69 |
+| `#markets-finance` | Markets & finance | 67 |
 | `#open-models` | Open models | 66 |
-| `#society-culture` | Society & culture | 62 |
+| `#society-culture` | Society & culture | 63 |
 | `#chips` | Chips / semiconductors | 61 |
-| `#legal-courts` | Legal & courts | 57 |
-| `#google-deepmind` | Google / DeepMind | 48 |
+| `#legal-courts` | Legal & courts | 59 |
+| `#google-deepmind` | Google / DeepMind | 49 |
 | `#robotics` | Robotics | 44 |
 | `#meta` | Meta | 30 |
 | `#export-controls` | Export controls | 29 |
@@ -41,11 +41,33 @@ plus occasional stand-alone essay videos.
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 236 because most episodes carry several tags.
+> Counts sum to more than 238 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-10-29 — The public can't see 60% of the test Google's new model won
+`#google-deepmind` `#policy-regulation` `#biotech-medicine` `#anthropic` `#legal-courts` `#labor-economy` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#science` · [watch](https://www.youtube.com/watch?v=zbUEcWdSX5w) · 20 min
+
+Google's Gemini 4 Carbon ranks first on an AI index that had moved 60% of its tests out of view a day earlier.
+
+- **Gemini 4 Carbon tops a revised index** — Google's model ranks first at 59 on Artificial Analysis, a day after the index moved 60% of its tests out of public view
+- **AI rules for minors and clinics** — New York limited chatbot conversations with minors, HHS dropped clinical AI disclosures, and Anthropic is seeking a court brake
+- **Microsoft's $36.6 billion profit** — booked two days after offering buyouts to about 60,000, as the AFL-CIO drafts an AI bill
+- **Gas plants and turbines** — Dairyland canceled a 625 MW Lake Superior gas plant as data-center turbines crack, and DOE lent Alliant $5.1 billion
+- **Three Nature papers** — they recycle silicone, ease a solar trade-off and build a carbon wire predicted in 1996
+
+### 2026-10-28 — Delaware's 30-month AI company trial has no set cash minimum
+`#agents` `#policy-regulation` `#legal-courts` `#science` `#anthropic` `#labor-economy` `#society-culture` `#biotech-medicine` `#energy-climate` · [watch](https://www.youtube.com/watch?v=any9u6gn66o) · 22 min
+
+Delaware is drafting companies an AI agent would run, with power to own assets and sue, and House Oversight wants the state's documents.
+
+- **Delaware's AI-run companies** — the draft sets a 30-month sandbox with no set cash minimum, and James Comer wants the state's documents by November 9
+- **A broken step in a landmark proof** — Axiom Math's Lean formalization of the classification of finite simple groups found a broken step, and Anthropic posted its own refutation of the Exponential Time Hypothesis claim
+- **AI in government** — the Netherlands plans 25,000 fewer civil servants, while a UK inspector and the EFF dig into asylum and Medicare WISeR AI tools
+- **Machine text on the web** — machine-written text reaches about 24% of crawlable pages, and 76% of responses to a UK consultation were flagged as bots
+- **Renewables pass gas** — US renewables are on pace to overtake gas, Splight added 60% capacity on Chilean lines, and DOE offered Constellation $5 billion
 
 ### 2026-10-27 — Anthropic signed $417 billion in computing deals this year
 `#anthropic` `#markets-finance` `#compute-infrastructure` `#openai` `#science` `#labor-economy` `#meta` `#chips` `#xai-musk` `#open-models` `#safety-alignment` `#cybersecurity` `#policy-regulation` · [watch](https://www.youtube.com/watch?v=vV3S70l6uyQ) · 20 min
