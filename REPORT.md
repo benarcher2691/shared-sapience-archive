@@ -64,7 +64,7 @@ Google's Gemini 4 Carbon ranks first on an AI index that had moved 60% of its te
 Delaware is drafting companies an AI agent would run, with power to own assets and sue, and House Oversight wants the state's documents.
 
 - **Delaware's AI-run companies** — the draft sets a 30-month sandbox with no set cash minimum, and James Comer wants the state's documents by November 9
-- **A broken step in a landmark proof** — Axiom Math's Lean formalization of the classification of finite simple groups found a broken step, and Anthropic posted its own refutation of the Exponential Time Hypothesis claim
+- **A broken step in a landmark proof** — Axiom Math's Lean formalization of the classification of finite simple groups found a broken step, and Anthropic posted its own refutation of the Exponential Time Hypothesis, after OpenAI's
 - **AI in government** — the Netherlands plans 25,000 fewer civil servants, while a UK inspector and the EFF dig into asylum and Medicare WISeR AI tools
 - **Machine text on the web** — machine-written text reaches about 24% of crawlable pages, and 76% of responses to a UK consultation were flagged as bots
 - **Renewables pass gas** — US renewables are on pace to overtake gas, Splight added 60% capacity on Chilean lines, and DOE offered Constellation $5 billion
