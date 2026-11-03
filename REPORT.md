@@ -53,7 +53,7 @@ plus occasional stand-alone essay videos.
 SemiAnalysis puts 70% of America's planned 2028 data-center additions in 13 states, and ten of them elect governors on Tuesday.
 
 - **Governor races hold the data-center pipeline** — 70% of planned 2028 US data-center additions sit in 13 states, 10 of which elect governors on Tuesday
-- **Frontier agents on long tasks** — SemiAnalysis's GDPx has Claude Opus 5.5 leading 206 multi-hour agent tasks at 12%, alongside GPT-6.2 Astra and a gated Claude Mythos 5.5
+- **Frontier agents on long tasks** — SemiAnalysis's GDPx has Claude Opus 5.5 leading 206 multi-hour agent tasks at 12%; the episode also covers GPT-6.2 Astra and a gated Claude Mythos 5.5
 - **Markets wobble** — the Nasdaq 100 briefly entered a correction intraday as Intel dropped 29%, while Envision's 3 GW campus is leased through 2029 or 2030
 - **Fake precedents in Korean courts** — 80% of 360 surveyed South Korean judges have seen AI-fabricated precedents, and courts plan fines
 - **AI copies of First Nations art** — Pitjantjatjara artist Sally Scales calls them "Temu slop"
