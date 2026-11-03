@@ -1,0 +1,22 @@
+{
+ "id": "yxQcAJmhPPo",
+ "title": "Claude halted flawed mouse brain surgery, allowing for a fix",
+ "upload_date": "20261101",
+ "duration": 941,
+ "description": "A Claude Sonnet 5 agent chose a gene therapy from 19 candidates and steered a robotic rig to inject it into a live epileptic mouse's brain.\n\nhttps://sharedsapience.com/the-century-report-november-1-2026/\n\n0:00 Open and framing\n1:21 Claude agent picks a gene therapy from 19\n5:46 Fallback models and how defenders cut it off\n8:31 J\u00fclich traces the grid's once-a-minute dip\n13:17 Close\n\nIn the headlines (TCR #269):\n- Cisco Talos finds VOLTA, an infostealer that has a model rank its victims, with two fallback models if it refuses\n- J\u00fclich-led team traces Europe's once-a-minute grid dip to batteries self-testing on the same second\n- Ex-Meta researcher Stephen Roller testifies he torrented Books3; Meta disputes when and for whom\n- Parameter turns a shared ChatGPT link into account takeover; OpenAI fixes it in 8 days\n- Exin Therapeutics' Claude Sonnet 5 agent picks 1 of 19 gene therapies and injects an epileptic mouse\n\nSources:\n- VOLTA infostealer - Cisco Talos: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\n- Grid frequency dip - Forschungszentrum J\u00fclich: https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved\n- Books3 testimony - TorrentFreak: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/\n- ChatGPT link takeover - Parameter: https://www.parameter.ai/labs/we-found-a-gap-at-openai\n- AI agent mouse surgery - WIRED: https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#AIinScience #GeneTherapy #Neurotechnology",
+ "tags": [
+  "AI gene therapy mouse",
+  "ChatGPT shared link",
+  "Cisco Talos",
+  "Claude Sonnet 5",
+  "Exin Therapeutics",
+  "Forschungszentrum J lich",
+  "Meta Books3 lawsuit",
+  "VOLTA infostealer",
+  "cybersecurity",
+  "epilepsy gene therapy",
+  "gene therapy",
+  "power grid frequency"
+ ],
+ "view_count": 149
+}

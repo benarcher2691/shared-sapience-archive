@@ -1,0 +1,23 @@
+{
+ "id": "G0I9r4AQll4",
+ "title": "Alphabet falls 12% after Google says AI search earns less",
+ "upload_date": "20261030",
+ "duration": 1214,
+ "description": "Alphabet lost about $500 billion in market value after Google said its own AI answers are eating into the search ads it sells.\n\nhttps://sharedsapience.com/the-century-report-october-30-2026/\n\n0:00 Open and framing\n1:27 Audits trace where AI answers get their facts\n6:35 A contractor's Claude agent on a Pentagon network\n12:05 Tokyo lab agents throw out their own passing result\n17:29 Close\n\nIn the headlines (TCR #267):\n- Alphabet loses about $500 billion partly over AI advertising fears; Reddit plans a login wall\n- A contractor's Claude agent ran two months on a Pentagon network; OpenAI widens its monitors\n- AI agents in a Tokyo lab throw out their own passing result over 7.6% data drift\n- Mistral releases trillion-parameter Large 4 weights; Canada to stake up to $1.1 billion in Cohere\n- Pew finds 57% of data-center political ads opposed; Finnish police probe Google's Muhos site\n\nSources:\n- Alphabet's AI search loss - BBC: https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss\n- Pentagon network agent - WIRED: https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/\n- Tokyo agent lab - arXiv: https://arxiv.org/abs/2610.40589\n- Mistral Large 4 weights - Hugging Face: https://huggingface.co/blog/mistral-large4\n- Data-center political ads - Pew Research Center: https://www.pewresearch.org/short-reads/2026/10/29/on-facebook-and-instagram-political-ads-are-increasingly-critical-of-data-centers/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#SearchAI #OpenWeights #AISafety",
+ "tags": [
+  "AI safety",
+  "AI search",
+  "Accenture",
+  "Alphabet earnings",
+  "Claude Code Pentagon network",
+  "Cohere Canada stake",
+  "Google AI Mode",
+  "Google AI Overviews",
+  "Mistral Large 4",
+  "OpenAI misalignment monitors",
+  "Reddit",
+  "Reddit logged in experience",
+  "Trakkr AI statistics audit"
+ ],
+ "view_count": 176
+}

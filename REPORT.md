@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 238
-- **Date range:** Mar 7, 2026 → Oct 29, 2026
-- **Last updated:** 2026-10-29
+- **Videos summarized:** 242
+- **Date range:** Mar 7, 2026 → Nov 2, 2026
+- **Last updated:** 2026-11-03
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,80 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#energy-climate` | Energy & climate | 144 |
-| `#anthropic` | Anthropic | 143 |
-| `#biotech-medicine` | Biotech & medicine | 140 |
-| `#policy-regulation` | Policy & regulation | 106 |
-| `#openai` | OpenAI | 96 |
-| `#safety-alignment` | Safety & alignment | 91 |
-| `#science` | Science | 91 |
-| `#cybersecurity` | Cybersecurity | 85 |
-| `#agents` | AI agents | 82 |
-| `#compute-infrastructure` | Compute infrastructure | 69 |
-| `#labor-economy` | Labor & economy | 69 |
-| `#markets-finance` | Markets & finance | 67 |
-| `#open-models` | Open models | 66 |
-| `#society-culture` | Society & culture | 63 |
-| `#chips` | Chips / semiconductors | 61 |
-| `#legal-courts` | Legal & courts | 59 |
-| `#google-deepmind` | Google / DeepMind | 49 |
-| `#robotics` | Robotics | 44 |
-| `#meta` | Meta | 30 |
+| `#anthropic` | Anthropic | 147 |
+| `#energy-climate` | Energy & climate | 146 |
+| `#biotech-medicine` | Biotech & medicine | 141 |
+| `#policy-regulation` | Policy & regulation | 109 |
+| `#openai` | OpenAI | 100 |
+| `#science` | Science | 93 |
+| `#safety-alignment` | Safety & alignment | 92 |
+| `#cybersecurity` | Cybersecurity | 87 |
+| `#agents` | AI agents | 85 |
+| `#compute-infrastructure` | Compute infrastructure | 72 |
+| `#labor-economy` | Labor & economy | 70 |
+| `#markets-finance` | Markets & finance | 70 |
+| `#open-models` | Open models | 68 |
+| `#society-culture` | Society & culture | 65 |
+| `#chips` | Chips / semiconductors | 63 |
+| `#legal-courts` | Legal & courts | 62 |
+| `#google-deepmind` | Google / DeepMind | 50 |
+| `#robotics` | Robotics | 45 |
+| `#meta` | Meta | 31 |
 | `#export-controls` | Export controls | 29 |
 | `#xai-musk` | xAI / Musk | 22 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 238 because most episodes carry several tags.
+> Counts sum to more than 242 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-02 — Most data centers planned for 2028 haven't broken ground yet
+`#compute-infrastructure` `#policy-regulation` `#anthropic` `#openai` `#agents` `#markets-finance` `#chips` `#legal-courts` `#society-culture` · [watch](https://www.youtube.com/watch?v=Z3g9F7rjUKw) · 21 min
+
+SemiAnalysis puts 70% of America's planned 2028 data-center additions in 13 states, and ten of them elect governors on Tuesday.
+
+- **Governor races hold the data-center pipeline** — 70% of planned 2028 US data-center additions sit in 13 states, 10 of which elect governors on Tuesday
+- **Frontier agents on long tasks** — SemiAnalysis's GDPx has Claude Opus 5.5 leading 206 multi-hour agent tasks at 12%, alongside GPT-6.2 Astra and a gated Claude Mythos 5.5
+- **Markets wobble** — the Nasdaq 100 briefly entered a correction intraday as Intel dropped 29%, while Envision's 3 GW campus is leased through 2029 or 2030
+- **Fake precedents in Korean courts** — 80% of 360 surveyed South Korean judges have seen AI-fabricated precedents, and courts plan fines
+- **AI copies of First Nations art** — Pitjantjatjara artist Sally Scales calls them "Temu slop"
+
+### 2026-11-01 — Claude halted flawed mouse brain surgery, allowing for a fix
+`#biotech-medicine` `#anthropic` `#agents` `#robotics` `#cybersecurity` `#energy-climate` `#science` `#meta` `#legal-courts` `#openai` · [watch](https://www.youtube.com/watch?v=yxQcAJmhPPo) · 16 min
+
+A Claude Sonnet 5 agent chose a gene therapy from 19 candidates and steered a robotic rig to inject it into a live epileptic mouse's brain.
+
+- **Claude agent does mouse brain surgery** — Exin Therapeutics' Claude Sonnet 5 agent picked 1 of 19 gene therapies and steered a robotic rig to inject an epileptic mouse
+- **VOLTA infostealer** — Cisco Talos found malware that has a model rank its victims, with two fallback models if the first refuses
+- **Europe's once-a-minute grid dip** — a Jülich-led team traced it to batteries self-testing on the same second
+- **Books3 testimony** — ex-Meta researcher Stephen Roller testified he torrented Books3; Meta disputes when and for whom
+- **ChatGPT link takeover** — Parameter turned a shared ChatGPT link into an account takeover, and OpenAI fixed it in 8 days
+
+### 2026-10-31 — Amazon's spending outran its cash by $42.4 billion
+`#markets-finance` `#compute-infrastructure` `#chips` `#open-models` `#cybersecurity` `#anthropic` `#openai` `#legal-courts` `#policy-regulation` `#labor-economy` `#energy-climate` · [watch](https://www.youtube.com/watch?v=TeZUOlUdMD0) · 22 min
+
+Amazon spent more than $77 billion in one quarter, and the Nasdaq fell 2.9% as Nvidia discussed backing a customer's construction loans.
+
+- **Amazon's $77 billion quarter** — the Nasdaq fell 2.9% after Amazon's spending, as Nvidia discussed backing Nscale's loans
+- **Open model writes Firefox exploits** — Z.ai's GLM 5.3 turns Firefox fixes into exploits for about $1,000 per release in model usage after setup, and a backdoor rode Claude's Cursor extension
+- **Memory and chip capacity** — Sam Altman says PC memory belongs in data centers, and Epoch estimates quarterly AI chip capacity sales doubled roughly every nine months from early 2024 to mid-2026
+- **AI training and copyright** — Wikimedia and the EFF asked a court to protect AI training, as Australia debates rightsholder compensation
+- **AI and jobs** — Proton canceled its AI re-interviews, and Cisco gave one engineer unlimited tokens to rewrite 98% of its code
+- **Data centers on the grid** — CAISO proposed remote disconnects for data centers, and Xcel's $70 billion plan leans on renewables
+
+### 2026-10-30 — Alphabet falls 12% after Google says AI search earns less
+`#google-deepmind` `#markets-finance` `#anthropic` `#agents` `#safety-alignment` `#openai` `#science` `#open-models` `#policy-regulation` `#society-culture` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=G0I9r4AQll4) · 20 min
+
+Alphabet lost about $500 billion in market value after Google said its own AI answers are eating into the search ads it sells.
+
+- **Alphabet's AI search hit** — Alphabet lost about $500 billion partly over AI advertising fears, Reddit plans a login wall, and audits trace where AI answers get their facts
+- **Claude agent on a Pentagon network** — a contractor's Claude agent ran for two months on a secure Pentagon system, as OpenAI widened its monitors
+- **Agents reject their own result** — AI agents in a Tokyo lab threw out their own passing result over 7.6% data drift
+- **Mistral Large 4 and Cohere** — Mistral released trillion-parameter Large 4 weights, and Canada will stake up to $1.1 billion in Cohere
+- **Data-center backlash** — Pew found 57% of data-center political ads opposed them, and Finnish police are probing Google's Muhos site
 
 ### 2026-10-29 — The public can't see 60% of the test Google's new model won
 `#google-deepmind` `#policy-regulation` `#biotech-medicine` `#anthropic` `#legal-courts` `#labor-economy` `#markets-finance` `#compute-infrastructure` `#energy-climate` `#science` · [watch](https://www.youtube.com/watch?v=zbUEcWdSX5w) · 20 min
