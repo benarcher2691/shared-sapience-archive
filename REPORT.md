@@ -66,8 +66,8 @@ Europe's top court adviser says AI can train freely on news, while live answers 
 
 - **EU adviser on Gemini and news** — Advocate General Szpunar says AI training is lawful but live answers may infringe, as a Brazilian judge halted Meta
 - **Data centers at the polls** — data-center critics flipped Trump districts, while Drax offered a 1 GW campus and Caterpillar's backlog hit $78 billion
-- **Hidden AI debt** — US tech giants' off-balance-sheet AI debt hit $3.2 trillion, and compute takes 58% of Anthropic's revenue
-- **Proving which model answered** — Anthropic opened FlashProve to verify a model's identity, as research showed AI overseers can be talked into approval
+- **Hidden AI debt** — US tech giants' hidden AI debt hit $3.2 trillion, and compute takes 58% of Anthropic's revenue
+- **Proving which model answered** — Anthropic opened FlashProve to verify a model's identity, and AI overseers got talked into approval
 - **Hiring slows** — Canva cut or relocated 1,271 jobs, 22% of staff, and US hiring hit its slowest pace since 2013
 
 ### 2026-11-03 — Anthropic's IPO filing says it spots AI acceleration only later
@@ -78,7 +78,7 @@ Anthropic's amended IPO filing says AI may soon sharply speed its own research, 
 - **Anthropic's amended prospectus** — Claude wrote 90%+ of September's new code, and internal Claude use at list prices now tops payroll
 - **GPT-6 Astra edits weights directly** — editing 0.016% of Qwen's weights lifted MATH-500 from 7.9% to 48.1%, and Tencent shipped Hyra 2.0
 - **Grid backup and xAI turbines** — OpenAI offered up to 1,000 MW of Georgia demand as grid backup, and a judge kept xAI's turbines under permit law
-- **AI-found bugs swamp reviewers** — PostgreSQL 19 slipped as AI-found bugs outpaced reviewers, and Itch.io's daily new pages near 8,000
+- **AI-found bugs swamp reviewers** — PostgreSQL 19 slipped as AI-found bugs outpaced reviewers, and Itch.io's daily pages near 8,000
 - **Base editing for alpha-1 antitrypsin** — Hannover and Shanghai teams base-edited seven patients, and one liver biopsy shows the fix
 
 ### 2026-11-02 — Most data centers planned for 2028 haven't broken ground yet
