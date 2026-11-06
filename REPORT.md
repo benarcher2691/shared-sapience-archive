@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 242
-- **Date range:** Mar 7, 2026 → Nov 2, 2026
-- **Last updated:** 2026-11-03
+- **Videos summarized:** 245
+- **Date range:** Mar 7, 2026 → Nov 5, 2026
+- **Last updated:** 2026-11-06
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,69 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 147 |
-| `#energy-climate` | Energy & climate | 146 |
-| `#biotech-medicine` | Biotech & medicine | 141 |
-| `#policy-regulation` | Policy & regulation | 109 |
-| `#openai` | OpenAI | 100 |
-| `#science` | Science | 93 |
-| `#safety-alignment` | Safety & alignment | 92 |
-| `#cybersecurity` | Cybersecurity | 87 |
-| `#agents` | AI agents | 85 |
-| `#compute-infrastructure` | Compute infrastructure | 72 |
-| `#labor-economy` | Labor & economy | 70 |
-| `#markets-finance` | Markets & finance | 70 |
-| `#open-models` | Open models | 68 |
+| `#anthropic` | Anthropic | 149 |
+| `#energy-climate` | Energy & climate | 149 |
+| `#biotech-medicine` | Biotech & medicine | 143 |
+| `#policy-regulation` | Policy & regulation | 111 |
+| `#openai` | OpenAI | 101 |
+| `#science` | Science | 95 |
+| `#safety-alignment` | Safety & alignment | 94 |
+| `#cybersecurity` | Cybersecurity | 88 |
+| `#agents` | AI agents | 86 |
+| `#compute-infrastructure` | Compute infrastructure | 75 |
+| `#markets-finance` | Markets & finance | 72 |
+| `#labor-economy` | Labor & economy | 71 |
+| `#open-models` | Open models | 70 |
 | `#society-culture` | Society & culture | 65 |
+| `#legal-courts` | Legal & courts | 64 |
 | `#chips` | Chips / semiconductors | 63 |
-| `#legal-courts` | Legal & courts | 62 |
-| `#google-deepmind` | Google / DeepMind | 50 |
+| `#google-deepmind` | Google / DeepMind | 51 |
 | `#robotics` | Robotics | 45 |
-| `#meta` | Meta | 31 |
+| `#meta` | Meta | 32 |
 | `#export-controls` | Export controls | 29 |
-| `#xai-musk` | xAI / Musk | 22 |
+| `#xai-musk` | xAI / Musk | 23 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 242 because most episodes carry several tags.
+> Counts sum to more than 245 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-05 — Goldman Sachs says 45% of planned data centers could stall
+`#compute-infrastructure` `#policy-regulation` `#energy-climate` `#open-models` `#agents` `#science` `#biotech-medicine` `#markets-finance` · [watch](https://www.youtube.com/watch?v=aDfYH9LeyTM) · 22 min
+
+US voters passed about 38 of 44 limits on data centers, and Goldman Sachs warned temporary bans could touch 45% of planned US capacity.
+
+- **Voters limit data centers** — about 38 of 44 ballot limits passed, and Goldman Sachs flagged that temporary bans could touch 45% of planned US capacity
+- **Democrats win Congress** — AI bills now range from pre-release review to a halt, and Pentagon CTO Emil Michael promised a framework
+- **Virtual power plants** — Brattle prices them at $614 billion in avoided grid spending, as satellites test heat claims
+- **Kimi K3.1 Pro weights** — Moonshot released the 2.8-trillion-parameter weights, while Cognition kept SWE-2 Flash's private
+- **AI in the lab** — AutoDNA runs a multi-user lab across 20-plus instruments, and AI found glioblastoma's cell-state rules
+- **A $40 HIV shot** — Dr Reddy's won tentative FDA approval for generic lenacapavir, though Gilead's license excludes at least 26 places
+
+### 2026-11-04 — Data centers set back; Google may owe publishers if Gemini gets past a paywall
+`#legal-courts` `#google-deepmind` `#policy-regulation` `#meta` `#compute-infrastructure` `#energy-climate` `#markets-finance` `#anthropic` `#safety-alignment` `#labor-economy` · [watch](https://www.youtube.com/watch?v=iQ-8K8u-Bws) · 23 min
+
+Europe's top court adviser says AI can train freely on news, while live answers infringe only if they unlawfully bypass effective controls and extensively, recognizably reuse an article's expression.
+
+- **EU adviser on Gemini and news** — Advocate General Szpunar says AI training is lawful but live answers may infringe, as a Brazilian judge halted Meta
+- **Data centers at the polls** — data-center critics flipped Trump districts, while Drax offered a 1 GW campus and Caterpillar's backlog hit $78 billion
+- **Hidden AI debt** — US tech giants' off-balance-sheet AI debt hit $3.2 trillion, and compute takes 58% of Anthropic's revenue
+- **Proving which model answered** — Anthropic opened FlashProve to verify a model's identity, as research showed AI overseers can be talked into approval
+- **Hiring slows** — Canva cut or relocated 1,271 jobs, 22% of staff, and US hiring hit its slowest pace since 2013
+
+### 2026-11-03 — Anthropic's IPO filing says it spots AI acceleration only later
+`#anthropic` `#safety-alignment` `#openai` `#open-models` `#science` `#energy-climate` `#compute-infrastructure` `#xai-musk` `#legal-courts` `#cybersecurity` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=lfEvnhexDTo) · 21 min
+
+Anthropic's amended IPO filing says AI may soon sharply speed its own research, and Claude wrote over 90% of its new code in September.
+
+- **Anthropic's amended prospectus** — Claude wrote 90%+ of September's new code, and internal Claude use at list prices now tops payroll
+- **GPT-6 Astra edits weights directly** — editing 0.016% of Qwen's weights lifted MATH-500 from 7.9% to 48.1%, and Tencent shipped Hyra 2.0
+- **Grid backup and xAI turbines** — OpenAI offered up to 1,000 MW of Georgia demand as grid backup, and a judge kept xAI's turbines under permit law
+- **AI-found bugs swamp reviewers** — PostgreSQL 19 slipped as AI-found bugs outpaced reviewers, and Itch.io's daily new pages near 8,000
+- **Base editing for alpha-1 antitrypsin** — Hannover and Shanghai teams base-edited seven patients, and one liver biopsy shows the fix
 
 ### 2026-11-02 — Most data centers planned for 2028 haven't broken ground yet
 `#compute-infrastructure` `#policy-regulation` `#anthropic` `#openai` `#agents` `#markets-finance` `#chips` `#legal-courts` `#society-culture` · [watch](https://www.youtube.com/watch?v=Z3g9F7rjUKw) · 21 min

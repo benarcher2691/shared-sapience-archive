@@ -1,0 +1,23 @@
+{
+ "id": "lfEvnhexDTo",
+ "title": "Anthropic's IPO filing says it spots AI acceleration only later",
+ "upload_date": "20261103",
+ "duration": 1257,
+ "description": "Anthropic's amended IPO filing says AI may soon sharply speed its own research, and Claude wrote over 90% of its new code in September.\n\nhttps://sharedsapience.com/the-century-report-november-3-2026/\n\n0:00 Open and framing\n1:26 Internal Claude use passes payroll\n6:58 GPT-6 Astra edits Qwen's weights directly\n12:32 Judge keeps xAI turbines under permit law\n18:26 Close\n\nIn the headlines (TCR #271):\n- Anthropic's amended prospectus: Claude wrote 90%+ of September code; internal use at list prices tops payroll\n- GPT-6 Astra edits 0.016% of Qwen's weights, lifting MATH-500 from 7.9% to 48.1%; Tencent ships Hyra 2.0\n- OpenAI offers up to 1,000 MW of Georgia demand as grid backup; judge keeps xAI turbines under permit law\n- PostgreSQL 19 slips as AI-found bugs outpace reviewers; Itch.io daily pages near 8,000\n- Hannover and Shanghai base-edit seven alpha-1 antitrypsin patients; one liver biopsy shows the fix\n\nSources:\n- Anthropic's amended prospectus - TechCrunch: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/\n- Astra edits model weights - MIT CSAIL researchers: https://rikiyat.github.io/blog/weight-space-programming/\n- Georgia grid backup - OpenAI: https://openai.com/index/grid-protectors-program\n- Postgres 19 delay - Robert Haas: https://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\n- Liver gene correction - Hannover Medical School: https://www.mhh.de/en/presse/mhh-insight/news-detailed-view/first-successful-gene-correction-for-a-metabolic-disorder\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#SelfImprovingAI #Anthropic #AIResearch",
+ "tags": [
+  "AI self improvement",
+  "Anthropic IPO",
+  "Anthropic IPO prospectus",
+  "Claude",
+  "GPT 6 Astra",
+  "OpenAI Grid Protectors Program",
+  "PostgreSQL 19",
+  "Qwen weight editing",
+  "Tencent Hyra 2 0",
+  "alpha 1 antitrypsin base",
+  "data centers",
+  "recursive self improvement",
+  "xAI Southaven turbines"
+ ],
+ "view_count": 710
+}
