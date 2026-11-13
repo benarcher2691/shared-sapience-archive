@@ -1,0 +1,23 @@
+{
+ "id": "8r-imKBxbhs",
+ "title": "China's wind-powered AI campus cost a fifth of a US build",
+ "upload_date": "20261108",
+ "duration": 1268,
+ "description": "SemiAnalysis found Envision built the first phase of a wind-powered AI campus in Inner Mongolia within a year, at about a fifth of US cost.\n\nhttps://sharedsapience.com/the-century-report-november-8-2026/\n\n0:00 Open and framing\n1:52 Wind farms, DC power and no chillers\n7:35 Fridge attacks hit eight countries\n13:49 Agents undo their own correct code\n18:42 Close\n\nIn the headlines (TCR #276):\n- Envision's Galaxy campus: 120 MW in a year at about a fifth of US cost, with an 800V DC hall and no chillers\n- Alex Pearce unplugs fridges reading 150C as attacks hit 8 countries; Britain's NCSC warns of more\n- MaxxBench changes 89 DeepSWE tasks and widens the agent score spread from 20.9 to 48.3 points\n- DataVita drops its 1 GW private-wire pledge for Chapelhall, keeping \u00a3202 million in public guarantees\n\nSources:\n- Galaxy campus visit - SemiAnalysis: https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner\n- Fridge attacks - The Guardian: https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic\n- Coding agent tests - MaxxBench: https://maxxbench.unlap.ai/research/why-maxxbench/\n- Chapelhall grid switch - The Guardian: https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#AIInfrastructure #AIBenchmarks #Nvidia",
+ "tags": [
+  "800V DC data center power",
+  "DataVita Chapelhall",
+  "DeepSWE coding agents",
+  "Envision Galaxy campus",
+  "Inner Mongolia AI data center",
+  "MaxxBench",
+  "NCSC Richard Horne",
+  "Nvidia H200 export licenses",
+  "Refrigeration cyberattack",
+  "SemiAnalysis",
+  "SemiAnalysis China data",
+  "cybersecurity",
+  "data centers"
+ ],
+ "view_count": 307
+}

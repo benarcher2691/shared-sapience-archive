@@ -1,0 +1,21 @@
+{
+ "id": "NlU6L2kZA3E",
+ "title": "Why Claude and Codex are blocking some DIY device fixes",
+ "upload_date": "20261111",
+ "duration": 1340,
+ "description": "Claude Code and OpenAI's Codex began refusing owners who reverse-engineer their own devices, and the work is moving to hardware people own.\n\nhttps://sharedsapience.com/the-century-report-november-11-2026/\n\n0:00 Open and framing\n2:22 Claude and Codex refuse device reverse engineering\n8:29 Glasswing's 37,966 findings and 217 fixes\n14:24 Claude Code grades handwritten exams\n19:56 Close\n\nIn the headlines (TCR #279):\n- Claude Code and Codex refuse device decompilation; Apple's leaked Harbor app would pool Macs into private servers\n- VulnCheck counts 37,966 Glasswing findings and 217 fixes; Microsoft finds bugs in Rust's standard library\n- New York opens RAISE Act registration and a $55M testing center; Bloomington bans superintelligence 7-0\n- SpaceX seeks a Starbase tax break for a $24B gas plant; Georgia regulators challenge gas buildout\n- England's Office for Students pushes exams; Claude Code grades handwritten exams within 0.85 marks on average\n\nSources:\n- Device repair refusals - 404 Media: https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/\n- Glasswing tally - VulnCheck: https://www.vulncheck.com/blog/anthropic-glasswing-november-update\n- RAISE Act portal - TechCrunch: https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/\n- Starbase gas plant - DatacenterDynamics: https://www.datacenterdynamics.com/en/news/elon-musks-spacex-targets-nat-gas-plant-and-supercomputing-facility-at-starbase-city-texas/\n- University coursework - The Guardian: https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#ClaudeCode #ReverseEngineering #OnDeviceAI",
+ "tags": [
+  "Anthropic Project Glasswing",
+  "Apple Harbor",
+  "Claude Code",
+  "GLM 5 3",
+  "Office for Students",
+  "OpenAI Codex",
+  "Rust standard library bugs",
+  "Tether BotPsy",
+  "open source AI",
+  "reverse engineering firmware",
+  "right to repair"
+ ],
+ "view_count": 371
+}

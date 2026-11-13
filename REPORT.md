@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 245
-- **Date range:** Mar 7, 2026 → Nov 5, 2026
-- **Last updated:** 2026-11-06
+- **Videos summarized:** 252
+- **Date range:** Mar 7, 2026 → Nov 12, 2026
+- **Last updated:** 2026-11-13
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,114 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 149 |
-| `#energy-climate` | Energy & climate | 149 |
-| `#biotech-medicine` | Biotech & medicine | 143 |
-| `#policy-regulation` | Policy & regulation | 111 |
-| `#openai` | OpenAI | 101 |
-| `#science` | Science | 95 |
-| `#safety-alignment` | Safety & alignment | 94 |
-| `#cybersecurity` | Cybersecurity | 88 |
-| `#agents` | AI agents | 86 |
-| `#compute-infrastructure` | Compute infrastructure | 75 |
-| `#markets-finance` | Markets & finance | 72 |
-| `#labor-economy` | Labor & economy | 71 |
-| `#open-models` | Open models | 70 |
-| `#society-culture` | Society & culture | 65 |
-| `#legal-courts` | Legal & courts | 64 |
-| `#chips` | Chips / semiconductors | 63 |
-| `#google-deepmind` | Google / DeepMind | 51 |
+| `#energy-climate` | Energy & climate | 154 |
+| `#anthropic` | Anthropic | 153 |
+| `#biotech-medicine` | Biotech & medicine | 145 |
+| `#policy-regulation` | Policy & regulation | 118 |
+| `#openai` | OpenAI | 105 |
+| `#science` | Science | 99 |
+| `#safety-alignment` | Safety & alignment | 96 |
+| `#cybersecurity` | Cybersecurity | 92 |
+| `#agents` | AI agents | 89 |
+| `#compute-infrastructure` | Compute infrastructure | 80 |
+| `#markets-finance` | Markets & finance | 75 |
+| `#labor-economy` | Labor & economy | 72 |
+| `#open-models` | Open models | 72 |
+| `#legal-courts` | Legal & courts | 68 |
+| `#society-culture` | Society & culture | 68 |
+| `#chips` | Chips / semiconductors | 66 |
+| `#google-deepmind` | Google / DeepMind | 53 |
 | `#robotics` | Robotics | 45 |
-| `#meta` | Meta | 32 |
-| `#export-controls` | Export controls | 29 |
-| `#xai-musk` | xAI / Musk | 23 |
+| `#meta` | Meta | 33 |
+| `#export-controls` | Export controls | 30 |
+| `#xai-musk` | xAI / Musk | 24 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 245 because most episodes carry several tags.
+> Counts sum to more than 252 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-12 — OpenAI’s AI wrote a physics proof. What could the panel actually check?
+`#openai` `#science` `#compute-infrastructure` `#energy-climate` `#agents` `#legal-courts` `#policy-regulation` `#society-culture` `#markets-finance` `#chips` `#anthropic` · [watch](https://www.youtube.com/watch?v=h96bnq6ceKE) · 22 min
+
+OpenAI's appointed physicists affirmed the computer-checked version of its AI's Yang-Mills proof, and say they don't fully understand it yet.
+
+- **OpenAI's Yang-Mills proof** — OpenAI's physics panel affirmed the Lean version of its AI's proof, while the 1,147-page written proof remains unreleased
+- **Gas for data centers** — BloombergNEF counts 181 GW of planned on-site data-center gas, and Tapestry's AI cleared 220 GW of PJM paperwork in under a day
+- **Agents build software** — Amazon released AWS Emulator, agent-built API emulation for 200+ services, and Databricks' Genie runs jobs for Ali Ghodsi
+- **Oversight of AI flags and faces** — a Beijing court made a platform explain an AI flag, and English inspectors faulted facial-recognition use
+- **Compute money** — CoreWeave expects $9 billion in prepayments after a $709 million loss, and TSMC approved up to $1 billion in OpenAI and Anthropic
+
+### 2026-11-11 — Why Claude and Codex are blocking some DIY device fixes
+`#anthropic` `#openai` `#safety-alignment` `#cybersecurity` `#policy-regulation` `#xai-musk` `#energy-climate` `#society-culture` · [watch](https://www.youtube.com/watch?v=NlU6L2kZA3E) · 22 min
+
+Claude Code and OpenAI's Codex began refusing owners who reverse-engineer their own devices, and the work is moving to hardware people own.
+
+- **Refusals on device reverse engineering** — Claude Code and Codex now refuse device decompilation, as Apple's leaked Harbor app would pool Macs into private servers
+- **Glasswing's findings** — VulnCheck counts 37,966 Glasswing findings and 217 fixes, and Microsoft found bugs in Rust's standard library
+- **State and city AI rules** — New York opened RAISE Act registration and a $55 million testing center, and Bloomington banned superintelligence 7-0
+- **Gas buildout** — SpaceX seeks a Starbase tax break for a $24 billion gas plant, as Georgia regulators challenge gas buildout
+- **AI and exams** — England's Office for Students is pushing exams, and Claude Code grades handwritten exams within 0.85 marks on average
+
+### 2026-11-10 — Anthropic says AI redid an 11-day Fermat proof in 30 hours
+`#anthropic` `#safety-alignment` `#science` `#policy-regulation` `#openai` `#cybersecurity` `#google-deepmind` `#energy-climate` `#compute-infrastructure` `#biotech-medicine` `#chips` `#export-controls` `#legal-courts` · [watch](https://www.youtube.com/watch?v=MJMWLcHhSO4) · 20 min
+
+Anthropic released Fable 5.2 on all paid plans and through the API, kept its unguarded Mythos twin for vetted groups, and says it built a checkable Fermat proof in 30 hours.
+
+- **Fable 5.2 and Mythos 5.2** — Anthropic opened Claude Fable 5.2 at $8 per million input tokens, kept Mythos 5.2 with vetted groups, and says it built a checkable Fermat proof in 30 hours
+- **Australia's AI safety regulator** — planned with independent model testing after OpenAI's Medicare breach
+- **AI checks security** — DeepMind verified key Signal guarantees in four weeks, and Chris Nesbitt-Smith found 100+ flaws in UK government code using a laptop
+- **Power for AI** — Anthropic bought 1.7 GW of Caterpillar gas generators, and Nature Energy puts households at 47% of grid costs
+- **Palantir and GP records** — FOI messages appear to show Palantir pressing a UK health minister to add GP records to its NHS platform
+- **Megaspeed chip case** — Commerce's case moved to Justice after Nvidia's lawyer cited a senior official
+
+### 2026-11-09 — British MPs want to mass install phone software citizens can't inspect
+`#policy-regulation` `#society-culture` `#legal-courts` `#chips` `#open-models` `#labor-economy` · [watch](https://www.youtube.com/watch?v=ItFiK6VlSSk) · 20 min
+
+British peers and MPs want software on every phone sold in the UK that blurs child abuse images using AI-model criteria, with user inspection unspecified.
+
+- **Abuse-blurring on every UK phone** — John Nash and Jess Phillips want the software on every phone and tablet, recalling Apple's dropped 2022 scanning plan
+- **AI-drafted anti-Waymo op-eds** — Pangram scores some up to 95% AI-written, and Ira Goldstein says a PR firm drafted his column
+- **Nvidia board probe** — Nvidia's board opened an investigation into reports that Jensen Huang was a foreign intelligence target
+- **Suno sued** — Elvis and Eminem rights holders filed separate suits against Suno, and IFPI warned Australia
+- **Open models from Korea and Ingenix** — LG AI Research opened K-EXAONE 2.5 free, self-reporting a 70% gain, and Ingenix opened its Thalamus model
+- **Microsoft's AI Frontiers lab ends** — John Langford says the 50-person lab has ended and he has left
+
+### 2026-11-08 — China's wind-powered AI campus cost a fifth of a US build
+`#compute-infrastructure` `#energy-climate` `#cybersecurity` `#agents` `#policy-regulation` · [watch](https://www.youtube.com/watch?v=8r-imKBxbhs) · 21 min
+
+SemiAnalysis found Envision built the first phase of a wind-powered AI campus in Inner Mongolia within a year, at about a fifth of US cost.
+
+- **Envision's Galaxy campus** — 120 MW in a year at about a fifth of US cost, with wind power, an 800V DC hall and no chillers
+- **Fridge attacks** — Alex Pearce unplugged fridges reading 150C as attacks hit 8 countries, and Britain's NCSC warns of more
+- **Agent benchmark shake-up** — MaxxBench changed 89 DeepSWE tasks and widened the agent score spread from 20.9 to 48.3 points, as agents undid their own correct code
+- **DataVita's dropped pledge** — DataVita dropped its 1 GW private-wire pledge for Chapelhall while keeping £202 million in public guarantees
+
+### 2026-11-07 — AI just solved an 18-year-old quantum problem in 3 days
+`#anthropic` `#science` `#policy-regulation` `#compute-infrastructure` `#energy-climate` `#markets-finance` `#open-models` `#agents` · [watch](https://www.youtube.com/watch?v=nXfhK5BOD_M) · 22 min
+
+PSI's research system on an unreleased Anthropic model proved an 18-year-old quantum conjecture, its main theorem checked by computer.
+
+- **A 2008 quantum conjecture proved** — PSI's system on an unreleased Anthropic model proved it, and METR estimates Anthropic's pace has doubled
+- **Data-center moratorium push** — Sanders seeks a national moratorium, while Duke keeps its $103 billion plan and Oncor plans 20% more
+- **AI spending** — Ramp finds AI spend barely up as usage rises, and Anthropic IPO buyers discuss $1.1 to $1.3 trillion
+- **Open models' share** — Village finds open models the best buy at 3% of budgets, down from 41%, as Thinking Machines readies weights
+- **GitHub's agent load** — GitHub logged 1.2 billion commits in a week and is rebuilding its storage for 5,000 agents
+
+### 2026-11-06 — Nasdaq 100 lost $1.8 trillion based on data center assumptions
+`#markets-finance` `#compute-infrastructure` `#google-deepmind` `#openai` `#cybersecurity` `#policy-regulation` `#biotech-medicine` `#legal-courts` `#meta` `#science` · [watch](https://www.youtube.com/watch?v=_pWrXvAdd5k) · 24 min
+
+Nasdaq 100 stocks shed about $1.8 trillion after voters backed data center critics in Texas, Georgia and Ohio.
+
+- **Tech selloff** — the Nasdaq fell 5.5% and Nasdaq 100 stocks shed about $1.8 trillion, as Google committed $17 billion to Wyoming
+- **GPT-6 Cyber rated "Critical"** — OpenAI rated the model "Critical", and Max Justicz says GPT-5.6 Sol found an Ubuntu flaw in two hours
+- **NDAs and bonds** — OpenAI pledged to drop most NDAs with officials, and Perry, Ohio voted 87% for data-center bonds
+- **Smartwatch blood pressure** — Google's model caught 65.8% of hypertension cases versus 55.3% for office checks in 196 people
+- **Lawsuits** — James Gates and Klaus Elmfelt sued OpenAI over ChatGPT's design, and Google, Meta and TikTok sued California
+- **Stacks Project in Lean** — Axiom Math formalized the 7,500-page Stacks Project, about 16 million lines of checked code
 
 ### 2026-11-05 — Goldman Sachs says 45% of planned data centers could stall
 `#compute-infrastructure` `#policy-regulation` `#energy-climate` `#open-models` `#agents` `#science` `#biotech-medicine` `#markets-finance` · [watch](https://www.youtube.com/watch?v=aDfYH9LeyTM) · 22 min
