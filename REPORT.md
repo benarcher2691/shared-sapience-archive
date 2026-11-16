@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 252
-- **Date range:** Mar 7, 2026 → Nov 12, 2026
-- **Last updated:** 2026-11-13
+- **Videos summarized:** 255
+- **Date range:** Mar 7, 2026 → Nov 15, 2026
+- **Last updated:** 2026-11-16
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,68 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
+| `#anthropic` | Anthropic | 156 |
 | `#energy-climate` | Energy & climate | 154 |
-| `#anthropic` | Anthropic | 153 |
-| `#biotech-medicine` | Biotech & medicine | 145 |
-| `#policy-regulation` | Policy & regulation | 118 |
-| `#openai` | OpenAI | 105 |
-| `#science` | Science | 99 |
-| `#safety-alignment` | Safety & alignment | 96 |
-| `#cybersecurity` | Cybersecurity | 92 |
-| `#agents` | AI agents | 89 |
-| `#compute-infrastructure` | Compute infrastructure | 80 |
-| `#markets-finance` | Markets & finance | 75 |
+| `#biotech-medicine` | Biotech & medicine | 146 |
+| `#policy-regulation` | Policy & regulation | 120 |
+| `#openai` | OpenAI | 107 |
+| `#science` | Science | 101 |
+| `#safety-alignment` | Safety & alignment | 97 |
+| `#cybersecurity` | Cybersecurity | 93 |
+| `#agents` | AI agents | 91 |
+| `#compute-infrastructure` | Compute infrastructure | 82 |
+| `#markets-finance` | Markets & finance | 77 |
+| `#open-models` | Open models | 73 |
 | `#labor-economy` | Labor & economy | 72 |
-| `#open-models` | Open models | 72 |
-| `#legal-courts` | Legal & courts | 68 |
-| `#society-culture` | Society & culture | 68 |
-| `#chips` | Chips / semiconductors | 66 |
-| `#google-deepmind` | Google / DeepMind | 53 |
-| `#robotics` | Robotics | 45 |
-| `#meta` | Meta | 33 |
-| `#export-controls` | Export controls | 30 |
-| `#xai-musk` | xAI / Musk | 24 |
+| `#legal-courts` | Legal & courts | 70 |
+| `#society-culture` | Society & culture | 69 |
+| `#chips` | Chips / semiconductors | 68 |
+| `#google-deepmind` | Google / DeepMind | 55 |
+| `#robotics` | Robotics | 46 |
+| `#meta` | Meta | 35 |
+| `#export-controls` | Export controls | 32 |
+| `#xai-musk` | xAI / Musk | 25 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 252 because most episodes carry several tags.
+> Counts sum to more than 255 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-15 — Why Google is giving software makers less time to fix bugs
+`#google-deepmind` `#cybersecurity` `#policy-regulation` `#anthropic` `#agents` `#science` `#robotics` `#meta` `#legal-courts` · [watch](https://www.youtube.com/watch?v=7sdi8fWmrR0) · 21 min
+
+Google's Project Zero will publish bug details after 30 days by 2028, saying AI lets attackers rebuild a flaw from its fix almost at once.
+
+- **Project Zero shortens deadlines** — Google's team will cut bug deadlines to 30 days by 2028, while a White House panel offers 12 months of relief
+- **Claude Code finds a crystal** — given the open Alexandria crystal database, Claude Code found an unreported sulfide and planned its test
+- **FAA ground stop** — US officials traced a 4-hour stop to aging telecom gear, with no link to the SMART AI system
+- **Tesla Cybercab orders** — orders open at $29,990, but the car won't move without a $299 monthly subscription
+- **Italy fines Meta** — €805 million over a Facebook gallery default that reached about 20 million users
+
+### 2026-11-14 — Claude did 20 years of reading Gödel's notebooks in days
+`#anthropic` `#science` `#chips` `#export-controls` `#agents` `#openai` `#biotech-medicine` `#markets-finance` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=9h-mFEXG7LA) · 23 min
+
+Claude surfaced 663 theorems from transcriptions of Kurt Gödel's 1,009 notebook pages and found the wrong definition in his lost proof.
+
+- **Claude reads Gödel's notebooks** — it surfaced 663 theorems in 1,009 notebook pages and found the wrong definition in a lost proof, as WenHai-E2E cut ocean forecast error
+- **Nvidia's "poison pill" call** — Nvidia's Tim Teter called a cloud-customer check a "poison pill" with officials, and Singapore was billed nearly a fifth of sales
+- **AI shopping** — Amazon is drafting an index of every product online, and ChatGPT Wallet needs biometric approval for each purchase
+- **CRISPR in brain organoids** — UCLA's enhancer edit reversed autism-gene effects in human brain organoids
+- **Nvidia's startup bets** — Nvidia joined 105 startup rounds this year, and Microsoft became Cerebras's third hyperscaler customer
+
+### 2026-11-13 — Jensen Huang is out. What happens to Nvidia’s AI financing bets?
+`#chips` `#markets-finance` `#open-models` `#export-controls` `#policy-regulation` `#legal-courts` `#safety-alignment` `#anthropic` `#google-deepmind` `#meta` `#openai` `#xai-musk` `#compute-infrastructure` `#society-culture` · [watch](https://www.youtube.com/watch?v=wQrZxjdZWrs) · 22 min
+
+Jensen Huang resigned as Nvidia's CEO, raising questions about the $100 billion-plus in AI data-center leases Nvidia guarantees.
+
+- **Huang resigns** — $546 billion fell at the open, and Colette Kress was named interim chief
+- **Chip tracking** — forensics found Nvidia Blackwell traces in six Chinese AI models, as Congress pushes chip tracking into law
+- **Suit to freeze next-gen AI** — Public Citizen and 3 nonprofits sued to freeze next-generation AI at Anthropic, Google, Meta, OpenAI and SpaceX
+- **SoftBank and Nebius** — SoftBank's $7.1 billion loss is tied mostly to overbooked turbines, and Nebius customers prepay full build costs on $12 billion
+- **AI in courts and prizes** — an Arizona court freed a DUI suspect over an AI-drafted police report, and the Caine Prize cleared Simbarashe Kundizeza
 
 ### 2026-11-12 — OpenAI’s AI wrote a physics proof. What could the panel actually check?
 `#openai` `#science` `#compute-infrastructure` `#energy-climate` `#agents` `#legal-courts` `#policy-regulation` `#society-culture` `#markets-finance` `#chips` `#anthropic` · [watch](https://www.youtube.com/watch?v=h96bnq6ceKE) · 22 min
