@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 255
-- **Date range:** Mar 7, 2026 → Nov 15, 2026
-- **Last updated:** 2026-11-16
+- **Videos summarized:** 256
+- **Date range:** Mar 7, 2026 → Nov 16, 2026
+- **Last updated:** 2026-11-17
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,45 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 156 |
-| `#energy-climate` | Energy & climate | 154 |
+| `#energy-climate` | Energy & climate | 155 |
 | `#biotech-medicine` | Biotech & medicine | 146 |
-| `#policy-regulation` | Policy & regulation | 120 |
+| `#policy-regulation` | Policy & regulation | 121 |
 | `#openai` | OpenAI | 107 |
 | `#science` | Science | 101 |
 | `#safety-alignment` | Safety & alignment | 97 |
-| `#cybersecurity` | Cybersecurity | 93 |
+| `#cybersecurity` | Cybersecurity | 94 |
 | `#agents` | AI agents | 91 |
-| `#compute-infrastructure` | Compute infrastructure | 82 |
+| `#compute-infrastructure` | Compute infrastructure | 83 |
 | `#markets-finance` | Markets & finance | 77 |
-| `#open-models` | Open models | 73 |
+| `#open-models` | Open models | 74 |
 | `#labor-economy` | Labor & economy | 72 |
 | `#legal-courts` | Legal & courts | 70 |
-| `#society-culture` | Society & culture | 69 |
-| `#chips` | Chips / semiconductors | 68 |
+| `#society-culture` | Society & culture | 70 |
+| `#chips` | Chips / semiconductors | 69 |
 | `#google-deepmind` | Google / DeepMind | 55 |
 | `#robotics` | Robotics | 46 |
 | `#meta` | Meta | 35 |
-| `#export-controls` | Export controls | 32 |
+| `#export-controls` | Export controls | 33 |
 | `#xai-musk` | xAI / Musk | 25 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 255 because most episodes carry several tags.
+> Counts sum to more than 256 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-16 — Commerce Secretary Lutnick writes the chip rules. His firm has a client in the middle.
+`#export-controls` `#chips` `#policy-regulation` `#compute-infrastructure` `#cybersecurity` `#society-culture` `#energy-climate` `#open-models` · [watch](https://www.youtube.com/watch?v=JErtKpu1QIc) · 21 min
+
+Commerce Secretary Howard Lutnick writes chip rules shaping a Malaysian data center run by a client of the firm he once led, now run by his sons.
+
+- **Lutnick's chip rules** — they shape a Malaysian data center run by a client of Cantor Fitzgerald, the firm Lutnick once led
+- **Outages with real-world harm** — an email chlorine alarm lost in Microsoft's outage left 15 pool guests hurt, and the FAA ground stop was traced to one router
+- **Palantir in Australia** — FOI papers show at least 10 agencies feeding records to a fraud taskforce that runs Palantir
+- **Data-center heat and campuses** — Enfield, North Carolina asked a data center to heat the town, and AWS broke ground on a $7 billion Indiana campus
+- **Cheaper Chinese models** — Alibaba says Qwen4-Max cut task cost from $4.43 to $1.67, and Tencent's Hy4 flash claims a 13x drop
 
 ### 2026-11-15 — Why Google is giving software makers less time to fix bugs
 `#google-deepmind` `#cybersecurity` `#policy-regulation` `#anthropic` `#agents` `#science` `#robotics` `#meta` `#legal-courts` · [watch](https://www.youtube.com/watch?v=7sdi8fWmrR0) · 21 min
