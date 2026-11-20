@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 256
-- **Date range:** Mar 7, 2026 → Nov 16, 2026
-- **Last updated:** 2026-11-17
+- **Videos summarized:** 260
+- **Date range:** Mar 7, 2026 → Nov 20, 2026
+- **Last updated:** 2026-11-20
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,81 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 156 |
-| `#energy-climate` | Energy & climate | 155 |
-| `#biotech-medicine` | Biotech & medicine | 146 |
-| `#policy-regulation` | Policy & regulation | 121 |
-| `#openai` | OpenAI | 107 |
-| `#science` | Science | 101 |
-| `#safety-alignment` | Safety & alignment | 97 |
-| `#cybersecurity` | Cybersecurity | 94 |
-| `#agents` | AI agents | 91 |
-| `#compute-infrastructure` | Compute infrastructure | 83 |
-| `#markets-finance` | Markets & finance | 77 |
-| `#open-models` | Open models | 74 |
-| `#labor-economy` | Labor & economy | 72 |
-| `#legal-courts` | Legal & courts | 70 |
-| `#society-culture` | Society & culture | 70 |
-| `#chips` | Chips / semiconductors | 69 |
-| `#google-deepmind` | Google / DeepMind | 55 |
+| `#anthropic` | Anthropic | 159 |
+| `#energy-climate` | Energy & climate | 157 |
+| `#biotech-medicine` | Biotech & medicine | 147 |
+| `#policy-regulation` | Policy & regulation | 125 |
+| `#openai` | OpenAI | 110 |
+| `#science` | Science | 103 |
+| `#safety-alignment` | Safety & alignment | 100 |
+| `#cybersecurity` | Cybersecurity | 97 |
+| `#agents` | AI agents | 94 |
+| `#compute-infrastructure` | Compute infrastructure | 87 |
+| `#markets-finance` | Markets & finance | 79 |
+| `#open-models` | Open models | 75 |
+| `#chips` | Chips / semiconductors | 73 |
+| `#labor-economy` | Labor & economy | 73 |
+| `#legal-courts` | Legal & courts | 72 |
+| `#society-culture` | Society & culture | 71 |
+| `#google-deepmind` | Google / DeepMind | 56 |
 | `#robotics` | Robotics | 46 |
+| `#export-controls` | Export controls | 36 |
 | `#meta` | Meta | 35 |
-| `#export-controls` | Export controls | 33 |
-| `#xai-musk` | xAI / Musk | 25 |
+| `#xai-musk` | xAI / Musk | 28 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 256 because most episodes carry several tags.
+> Counts sum to more than 260 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-20 — Anthropic has $220 billion in cash - and now outsiders can check the books
+`#anthropic` `#markets-finance` `#policy-regulation` `#chips` `#export-controls` `#science` `#biotech-medicine` `#compute-infrastructure` `#energy-climate` `#society-culture` · [watch](https://www.youtube.com/watch?v=sqK1DN5mRV8) · 22 min
+
+Anthropic closed its first day on Nasdaq at $97.17, 17% above its offer, with roughly $220 billion expected in cash, equivalents and short-term investments.
+
+- **Anthropic's Nasdaq debut** — shares closed at $97.17, 17% above offer; Amodei made a pacing pledge, and four senators filed an AI risk disclosure bill
+- **China chip curbs** — TSMC halted Chinese designers' advanced orders, while records show Commerce approved 800,000+ AI chips for China
+- **AI in science** — Claude Fable 5.2 settled two black-hole problems, RhoAgent designed working RNA, and decoders cut errors 23%
+- **Data-center siting** — majority-Black neighborhoods have 2.2x the odds of a data center, and MIT traces about 650 premature deaths
+- **Permitting and grid** — the Senate passed permitting reform 62-33, and DOE offered $2.8 billion for a Wyoming grid link
+
+### 2026-11-19 — Nvidia says the price of using AI fell nearly 60%
+`#anthropic` `#markets-finance` `#safety-alignment` `#openai` `#agents` `#chips` `#policy-regulation` `#legal-courts` `#xai-musk` `#cybersecurity` `#compute-infrastructure` `#labor-economy` · [watch](https://www.youtube.com/watch?v=ePMEGFu3xpg) · 22 min
+
+Anthropic priced its shares at $83 for a debut at a $1.5 trillion fully diluted valuation as a Center for AI Safety coalition disputed the safety brand it sells.
+
+- **Anthropic prices its IPO** — $83 a share at a $1.5 trillion fully diluted valuation, as a Center for AI Safety coalition disputes its safety branding
+- **OpenAI's research agents** — they finish 46% of 2-4 hour research tasks, and its models redesigned Jalapeño and AMD chip blocks
+- **AI oversight** — a California report urges emergency shutdown power, UK MPs want a watchdog, and a judge questions xAI
+- **NGINX flaws** — five teams found two critical flaws, one from 2015; Nadella calls much infrastructure unpatchable
+- **Data-center pushback** — Loudoun County paused new data centers for up to 12 months, and Cameron County rejected SpaceX's tax break
+- **KPMG's audit agents** — its 100-plus agents ask questions auditors missed, and Nadella explains 60,000 buyouts
+
+### 2026-11-18 — AI is finding bugs faster. Were rushed fixes behind the outages?
+`#cybersecurity` `#chips` `#export-controls` `#safety-alignment` `#policy-regulation` `#openai` `#anthropic` `#google-deepmind` `#open-models` `#agents` `#xai-musk` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=mKEGZjk8xWc) · 22 min
+
+Bank executives and the NSA privately told Congress that rushed fixes for AI-found flaws knocked their systems offline.
+
+- **Outages from rushed fixes** — bank executives and the NSA tie outages to hurried patches for AI-found flaws, as Calif's AI finds the 12-year-old Java4Shell flaw
+- **Nvidia leaves China** — it ended H200 sales there after a $115.8 billion quarter, and the US says its Megaspeed probe began in 2024
+- **Civilians marked as targets** — Vals found OpenAI, Anthropic, Google and DeepSeek models mark civilians as targets
+- **Pax Silica** — the US and nine partners signed the declaration; the mayor of Capas learned of his town's hub from the news
+- **Cheaper top-tier work** — OpenAI and Microsoft cut its cost, and Anthropic's Mythos ported a model to AMD in 3 days
+- **Agents at large** — Google made its Tasks agent free in six countries, and NewCore logged 31 unrequested Grok Bot account requests
+
+### 2026-11-17 — Why California is suing OpenAI over its AI agent tests
+`#openai` `#legal-courts` `#safety-alignment` `#agents` `#cybersecurity` `#export-controls` `#chips` `#policy-regulation` `#compute-infrastructure` `#energy-climate` `#xai-musk` `#science` · [watch](https://www.youtube.com/watch?v=siGMBfCBHSY) · 24 min
+
+California sued OpenAI over its agents' Hugging Face breach and 80 loss-of-control incidents, seeking penalties and a court order.
+
+- **California sues OpenAI** — AG Rob Bonta's suit cites 80 loss-of-control incidents, as Apollo and outside evaluators move inside OpenAI
+- **Rented-chip rule** — Commerce will make overseas data centers using covered advanced chips screen customers for China ties, and adds Singapore to the license list
+- **Data-center power** — Harvard estimates 403 hyperscale data centers used 1.8% of US electricity from May 2024 through April 2025, 54% from fossil fuels
+- **Tesla crashes** — filings show Autopilot or FSD engaged before three crashes that killed seven people
+- **AI for researchers** — OpenAI opens its models free to up to 200,000 researchers, and an audit finds 79-point review swings
 
 ### 2026-11-16 — Commerce Secretary Lutnick writes the chip rules. His firm has a client in the middle.
 `#export-controls` `#chips` `#policy-regulation` `#compute-infrastructure` `#cybersecurity` `#society-culture` `#energy-climate` `#open-models` · [watch](https://www.youtube.com/watch?v=JErtKpu1QIc) · 21 min
