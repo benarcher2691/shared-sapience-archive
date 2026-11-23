@@ -1,0 +1,23 @@
+{
+ "id": "XfIYSA-JvUA",
+ "title": "Claude may have cracked math's most famous unsolved problem",
+ "upload_date": "20261121",
+ "duration": 1432,
+ "description": "Anthropic mathematician Levent Alp\u00f6ge says he proved the Riemann hypothesis with Claude, and mathematicians report its code compiles; he says a prose draft ran past 250,000 pages.\n\nhttps://sharedsapience.com/the-century-report-november-21-2026/\n\n0:00 Open and framing\n2:23 Claude and the Riemann hypothesis proof\n9:20 OpenAI seals its models' hidden reasoning\n15:14 Michigan's expected pause and NextDC's retreat from homes\n21:00 Close\n\nIn the headlines (TCR #289):\n- Anthropic's Levent Alp\u00f6ge posts a Riemann proof found with Claude; its Lean code compiles, and he says a prose draft ran past 250,000 pages\n- OpenAI seals its models' reasoning as Denmark post-trains open Munin 2.0 coder in under five days\n- California subpoenas Nvidia; records show it sought to sell 40,000+ H200s to a Megaspeed-linked firm\n- Trump threatens a \"tremendous tax\" on data centers abroad as Michigan readies a construction pause\n- Meta reopens its 2030 net-zero goal after emissions rise 39%; Google offers $10.8M Columbus line upgrade\n\nSources:\n- Riemann proof claim - Nature: https://www.nature.com/articles/d41586-026-03812-7\n- OpenAI reasoning seal - OpenAI: https://openai.com/index/combatting-adversarial-distillation\n- Nvidia subpoena - DatacenterDynamics: https://www.datacenterdynamics.com/en/news/california-ag-issues-nvidia-with-subpoena-as-part-of-probe-into-chinese-chip-exports/\n- Overseas data center tax - Politico: https://www.politico.com/news/2026/11/20/trump-overseas-data-center-tax-01178999\n- Meta net-zero goal - Ars Technica: https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/\n\nGet the written edition free, every day: https://sharedsapience.com/century-report/?utm_source=youtube&utm_medium=description&utm_campaign=tcr-daily\nSupport The Century Report and get the resources behind it: https://members.sharedsapience.com\n\n#RiemannHypothesis #Lean4 #AIForScience",
+ "tags": [
+  "AI math",
+  "Anthropic Claude",
+  "Lean proof assistant",
+  "Levent Alp ge",
+  "Munin 2 0 Denmark",
+  "Navier Stokes blow up proof",
+  "NextDC Melbourne",
+  "Nvidia subpoena California",
+  "OpenAI GPT 6 2 Astra",
+  "Riemann hypothesis",
+  "Trump data center tax",
+  "data centers",
+  "open source AI"
+ ],
+ "view_count": 207
+}

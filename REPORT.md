@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 260
-- **Date range:** Mar 7, 2026 → Nov 20, 2026
-- **Last updated:** 2026-11-20
+- **Videos summarized:** 262
+- **Date range:** Mar 7, 2026 → Nov 22, 2026
+- **Last updated:** 2026-11-23
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,57 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 159 |
-| `#energy-climate` | Energy & climate | 157 |
+| `#anthropic` | Anthropic | 161 |
+| `#energy-climate` | Energy & climate | 158 |
 | `#biotech-medicine` | Biotech & medicine | 147 |
-| `#policy-regulation` | Policy & regulation | 125 |
-| `#openai` | OpenAI | 110 |
-| `#science` | Science | 103 |
+| `#policy-regulation` | Policy & regulation | 127 |
+| `#openai` | OpenAI | 111 |
+| `#science` | Science | 105 |
 | `#safety-alignment` | Safety & alignment | 100 |
 | `#cybersecurity` | Cybersecurity | 97 |
 | `#agents` | AI agents | 94 |
-| `#compute-infrastructure` | Compute infrastructure | 87 |
+| `#compute-infrastructure` | Compute infrastructure | 88 |
 | `#markets-finance` | Markets & finance | 79 |
-| `#open-models` | Open models | 75 |
-| `#chips` | Chips / semiconductors | 73 |
+| `#open-models` | Open models | 77 |
+| `#chips` | Chips / semiconductors | 74 |
 | `#labor-economy` | Labor & economy | 73 |
-| `#legal-courts` | Legal & courts | 72 |
-| `#society-culture` | Society & culture | 71 |
-| `#google-deepmind` | Google / DeepMind | 56 |
+| `#legal-courts` | Legal & courts | 73 |
+| `#society-culture` | Society & culture | 72 |
+| `#google-deepmind` | Google / DeepMind | 57 |
 | `#robotics` | Robotics | 46 |
-| `#export-controls` | Export controls | 36 |
-| `#meta` | Meta | 35 |
+| `#export-controls` | Export controls | 37 |
+| `#meta` | Meta | 36 |
 | `#xai-musk` | xAI / Musk | 28 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 260 because most episodes carry several tags.
+> Counts sum to more than 262 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-22 — How mathematicians checked Claude's Riemann proof without reading it all
+`#anthropic` `#science` `#policy-regulation` `#open-models` `#society-culture` · [watch](https://www.youtube.com/watch?v=jineX2IzFII) · 26 min
+
+Volunteer mathematicians certified Levent Alpöge's Riemann hypothesis proof, found with Claude, as correct within a day of its release.
+
+- **Riemann proof certified** — Lean and Mathlib certify Alpöge's Claude-assisted proof after dozens of volunteers compiled its 17 million lines; the episode also covers what the proof still leaves open
+- **Autonomous-weapons talks collapse** — Geneva talks fell apart; 100+ states had pushed for a new law and instead got a two-year mandate
+- **Privacy moves** — Signal blocks screenshots on phones, and OpenRouter drops 3 providers and pulls 125 endpoints from its no-retention tier
+- **Inkling 2 Mini** — Thinking Machines released an open 20GB coding model that runs on 32GB laptops
+- **Grieving AI companions** — people who lost companions on Nomi, ChatGPT and Character.AI describe shaking, crying and grief
+
+### 2026-11-21 — Claude may have cracked math's most famous unsolved problem
+`#anthropic` `#science` `#openai` `#open-models` `#chips` `#export-controls` `#legal-courts` `#compute-infrastructure` `#policy-regulation` `#meta` `#google-deepmind` `#energy-climate` · [watch](https://www.youtube.com/watch?v=XfIYSA-JvUA) · 24 min
+
+Anthropic mathematician Levent Alpöge says he proved the Riemann hypothesis with Claude; its Lean code compiles, and he says a prose draft ran past 250,000 pages.
+
+- **A Riemann proof found with Claude** — Alpöge posted the proof, mathematicians report its Lean code compiles, and the prose draft runs past 250,000 pages
+- **OpenAI seals hidden reasoning** — OpenAI sealed its models' reasoning against distillation, as Denmark post-trained the open Munin 2.0 coder in under five days
+- **Nvidia subpoenaed** — California subpoenaed Nvidia; records show it sought to sell 40,000+ H200s to a Megaspeed-linked firm
+- **Data-center politics** — Trump threatened a "tremendous tax" on data centers abroad, Michigan readied a construction pause, and NextDC retreated from building near homes
+- **Emissions** — Meta reopened its 2030 net-zero goal after emissions rose 39%, and Google offered a $10.8 million Columbus line upgrade
 
 ### 2026-11-20 — Anthropic has $220 billion in cash - and now outsiders can check the books
 `#anthropic` `#markets-finance` `#policy-regulation` `#chips` `#export-controls` `#science` `#biotech-medicine` `#compute-infrastructure` `#energy-climate` `#society-culture` · [watch](https://www.youtube.com/watch?v=sqK1DN5mRV8) · 22 min
