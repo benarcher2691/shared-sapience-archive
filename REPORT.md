@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 262
-- **Date range:** Mar 7, 2026 → Nov 22, 2026
-- **Last updated:** 2026-11-23
+- **Videos summarized:** 263
+- **Date range:** Mar 7, 2026 → Nov 23, 2026
+- **Last updated:** 2026-11-24
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -18,34 +18,46 @@ plus occasional stand-alone essay videos.
 | Tag | Topic | Episodes |
 |---|---|---:|
 | `#anthropic` | Anthropic | 161 |
-| `#energy-climate` | Energy & climate | 158 |
+| `#energy-climate` | Energy & climate | 159 |
 | `#biotech-medicine` | Biotech & medicine | 147 |
-| `#policy-regulation` | Policy & regulation | 127 |
-| `#openai` | OpenAI | 111 |
+| `#policy-regulation` | Policy & regulation | 128 |
+| `#openai` | OpenAI | 112 |
 | `#science` | Science | 105 |
-| `#safety-alignment` | Safety & alignment | 100 |
+| `#safety-alignment` | Safety & alignment | 101 |
 | `#cybersecurity` | Cybersecurity | 97 |
 | `#agents` | AI agents | 94 |
-| `#compute-infrastructure` | Compute infrastructure | 88 |
+| `#compute-infrastructure` | Compute infrastructure | 89 |
 | `#markets-finance` | Markets & finance | 79 |
-| `#open-models` | Open models | 77 |
-| `#chips` | Chips / semiconductors | 74 |
-| `#labor-economy` | Labor & economy | 73 |
+| `#open-models` | Open models | 78 |
+| `#chips` | Chips / semiconductors | 75 |
+| `#labor-economy` | Labor & economy | 74 |
 | `#legal-courts` | Legal & courts | 73 |
-| `#society-culture` | Society & culture | 72 |
+| `#society-culture` | Society & culture | 73 |
 | `#google-deepmind` | Google / DeepMind | 57 |
 | `#robotics` | Robotics | 46 |
-| `#export-controls` | Export controls | 37 |
+| `#export-controls` | Export controls | 38 |
 | `#meta` | Meta | 36 |
 | `#xai-musk` | xAI / Musk | 28 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 262 because most episodes carry several tags.
+> Counts sum to more than 263 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-23 — OpenAI reveals its training scores - and predicts AI’s next leap
+`#openai` `#safety-alignment` `#labor-economy` `#policy-regulation` `#chips` `#export-controls` `#society-culture` `#open-models` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=0RP2Eobo_Gc) · 22 min
+
+OpenAI published its internal AI training scores and wants every AI company to pace development by one shared measure.
+
+- **OpenAI's pacing gauge** — Jakub Pachocki published OpenAI's internal training scores and proposed a shared gauge to pace AI companies
+- **Missing white-collar jobs** — RAISE US and Burning Glass count 1.5 million missing jobs in white-collar industries, with beginners' share of postings 3-8% below average
+- **US-China guardrails** — Trump offered China "joint guardrails" on AI as Treasury waits on Nvidia over shell companies
+- **AI principles** — the National Governors Association issued bipartisan AI principles, and Catholic bishops plan a lobbying push
+- **Small models** — MIT's laptop-sized SLIC model designs analog circuits, and Sarvam's open 105B model fits on one GPU
+- **Off-grid clean power** — Energy Innovation prices 24/7 off-grid clean power for data centers at about $120 per megawatt-hour
 
 ### 2026-11-22 — How mathematicians checked Claude's Riemann proof without reading it all
 `#anthropic` `#science` `#policy-regulation` `#open-models` `#society-culture` · [watch](https://www.youtube.com/watch?v=jineX2IzFII) · 26 min
