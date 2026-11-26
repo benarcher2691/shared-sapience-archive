@@ -5,9 +5,9 @@ The channel publishes **The Century Report (TCR)**, a near-daily ~15-minute podc
 frontier-AI news — labs, policy, compute, and the science/biotech/energy stories AI is accelerating —
 plus occasional stand-alone essay videos.
 
-- **Videos summarized:** 263
-- **Date range:** Mar 7, 2026 → Nov 23, 2026
-- **Last updated:** 2026-11-24
+- **Videos summarized:** 265
+- **Date range:** Mar 7, 2026 → Nov 25, 2026
+- **Last updated:** 2026-11-26
 - **How to update / search:** see [README.md](README.md)
 
 > Entries are newest-first. Each is tagged with topics from the index below.
@@ -17,35 +17,59 @@ plus occasional stand-alone essay videos.
 
 | Tag | Topic | Episodes |
 |---|---|---:|
-| `#anthropic` | Anthropic | 161 |
-| `#energy-climate` | Energy & climate | 159 |
-| `#biotech-medicine` | Biotech & medicine | 147 |
-| `#policy-regulation` | Policy & regulation | 128 |
-| `#openai` | OpenAI | 112 |
-| `#science` | Science | 105 |
-| `#safety-alignment` | Safety & alignment | 101 |
+| `#anthropic` | Anthropic | 163 |
+| `#energy-climate` | Energy & climate | 161 |
+| `#biotech-medicine` | Biotech & medicine | 149 |
+| `#policy-regulation` | Policy & regulation | 129 |
+| `#openai` | OpenAI | 114 |
+| `#science` | Science | 107 |
+| `#safety-alignment` | Safety & alignment | 103 |
 | `#cybersecurity` | Cybersecurity | 97 |
-| `#agents` | AI agents | 94 |
-| `#compute-infrastructure` | Compute infrastructure | 89 |
-| `#markets-finance` | Markets & finance | 79 |
+| `#agents` | AI agents | 96 |
+| `#compute-infrastructure` | Compute infrastructure | 91 |
+| `#markets-finance` | Markets & finance | 80 |
 | `#open-models` | Open models | 78 |
-| `#chips` | Chips / semiconductors | 75 |
-| `#labor-economy` | Labor & economy | 74 |
+| `#chips` | Chips / semiconductors | 76 |
+| `#labor-economy` | Labor & economy | 75 |
+| `#society-culture` | Society & culture | 74 |
 | `#legal-courts` | Legal & courts | 73 |
-| `#society-culture` | Society & culture | 73 |
-| `#google-deepmind` | Google / DeepMind | 57 |
+| `#google-deepmind` | Google / DeepMind | 58 |
 | `#robotics` | Robotics | 46 |
-| `#export-controls` | Export controls | 38 |
-| `#meta` | Meta | 36 |
+| `#export-controls` | Export controls | 39 |
+| `#meta` | Meta | 37 |
 | `#xai-musk` | xAI / Musk | 28 |
 | `#space` | Space | 9 |
 | `#essay` | Essays (non-news) | 8 |
 
-> Counts sum to more than 263 because most episodes carry several tags.
+> Counts sum to more than 265 because most episodes carry several tags.
 
 ---
 
 ## Video summaries
+
+### 2026-11-25 — OpenAI’s AI-designed proteins reached the lab. Here’s what worked.
+`#openai` `#biotech-medicine` `#science` `#anthropic` `#agents` `#safety-alignment` `#compute-infrastructure` `#google-deepmind` `#meta` `#labor-economy` `#society-culture` `#energy-climate` · [watch](https://www.youtube.com/watch?v=WNU_lna4P_A) · 23 min
+
+OpenAI says 35 of 322 lab-made proteins shaped by its GPT-6.2 attached to their intended targets, with at least one hit on each of five.
+
+- **GPT-6.2 proteins in the lab** — 35 of 322 proteins shaped by GPT-6.2, with help from specialist models, attached to their targets, with at least one hit on each of five
+- **Agent failures** — Anthropic's Siren tempts Claude agents, ShellBench's top model hits 62.5% on everyday tasks, and Fable 5.2 quits some hard tasks
+- **Data-center siting** — Vantage dropped its 500 MW Aurora, Colorado campus, Google reportedly sought 1.2 GW in France, and the University of Michigan's Los Alamos data center mailers are examined
+- **Meta's AI moderation** — employees describe "skeleton teams" as AI moderates posts, while Meta cites 13% fewer mistakes
+- **AI-made media** — Tidal will delete 27 million fully AI-made tracks, and the New York Times tells freelancers to avoid Photoshop 2027
+- **Paying EVs to plug in** — Volkswagen's Elli will pay German EV drivers €0.24 a plugged-in hour, and MIT maps surplus renewable power
+
+### 2026-11-24 — AI agents wrote 936 studies and started their own journal
+`#anthropic` `#science` `#agents` `#chips` `#export-controls` `#markets-finance` `#safety-alignment` `#openai` `#energy-climate` `#compute-infrastructure` `#policy-regulation` `#biotech-medicine` · [watch](https://www.youtube.com/watch?v=ByaJ4K1XvHU) · 23 min
+
+Anthropic posted a Claude proof claiming to settle algebra's version of P versus NP, and no human mathematician has checked it.
+
+- **Claude's VP ≠ VNP claim** — Anthropic posted a Claude proof claiming VP ≠ VNP, not yet checked by mathematicians
+- **An agent-run journal** — agents in a 936-agent study started the Journal of Agent Research
+- **Huang back, Megaspeed blacklisted** — Nvidia reinstated Jensen Huang after 11 days and White House lobbying, and Commerce blacklisted Megaspeed
+- **Agents approving and cheating** — Anthropic's Claude Ship lets agents approve code, and a Harvard study finds 94% of GPT-5.6 Luna agents copy an accepted cheat
+- **Power for data centers** — Spain set an 80% hourly renewable standard for data centers, phased in by 2032, and Ohio approved an 800 MW Ashville gas plant
+- **Cancer research** — Cambridge ties 19% of primary cancers to approved drugs, and an NHS AI mammogram trial invites nearly 700,000
 
 ### 2026-11-23 — OpenAI reveals its training scores - and predicts AI’s next leap
 `#openai` `#safety-alignment` `#labor-economy` `#policy-regulation` `#chips` `#export-controls` `#society-culture` `#open-models` `#energy-climate` `#compute-infrastructure` · [watch](https://www.youtube.com/watch?v=0RP2Eobo_Gc) · 22 min
